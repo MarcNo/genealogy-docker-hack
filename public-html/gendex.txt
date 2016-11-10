@@ -1,0 +1,2145 @@
+pres.ll_1.html#I23|ADAMS|Edna Earl /ADAMS/|19 APR 1878|Hempstead Co., AR|8 AUG 1952|Hope, Hempstead Co., AR|
+pres.ll_2.html#I62|ADAMS|Martin /ADAMS/|ABT    1810|TN|1886|Hempstead Co., AR|
+pres.ll_1.html#I39|ADAMS|Martin Franklin /ADAMS/|ABT    1851|Hempstead Co., AR|BEF 16 DEC 1884|Hempstead Co., AR|
+pres.ll_4.html#I152|ALLEN|Mary /ALLEN/|15 NOV 1681||||
+pres.ll_2.html#I83|ALLISON|Elizabeth /ALLISON/|||||
+pres.ll_4.html#I161|ARMSTRONG|Elizabeth /ARMSTRONG/|17 MAR 1757|New Jersey|15 JAN 1837|Springfield, Mahoning County, Ohio|
+pres.ll_4.html#I180|ARMSTRONG|Sarah Emily /ARMSTRONG/|21 AUG 1850||19 JUL 1877||
+pres.ll_1.html#I29|AYERS|? /AYERS/||Ireland|||
+pres.ll_1.html#I49|AYERS|? /AYERS/||Ireland (?)|||
+pres.ll_1.html#I10|AYERS|Lou Birchie /AYERS/|9 FEB 1893|Tippah Co., MS|15 FEB 1946|Sherman, Grayson Co., TX|
+pres.ll_1.html#I19|AYERS|Robert E. /AYERS/|FEB 1871||||
+pres.ll_1.html#I17|AYERS|Simpson Green "Dick" /AYERS/|27 OCT 1820|GA|27 MAY 1897|Tippah Co., MS|
+pres.ll_24.html#I1160|Abernathy|? /Abernathy/|||||
+pres.ll_24.html#I1157|Abernathy|Laurency /Abernathy/|||||
+pres.ll_24.html#I1154|Abernathy|William /Abernathy/|||||
+pres.ll_24.html#I1155|Abernathy|William /Abernathy/|||||
+pres.ll_24.html#I1159|Abernathy|William /Abernathy/|||||
+pres.ll_14.html#I695|Adair|Janet /Adair/|ABT    1714|Roth, Down, Ireland|||
+pres.ll_40.html#I1998|Adams|Abigail /Adams/|14 JUL 1765|Quincy, Massachusetts|10 JUN 1816|Lebanon, New York|
+pres.ll_40.html#I2000|Adams|Charles /Adams/|29 MAY 1770|Boston, Massachusetts|30 NOV 1800|New York City, New York|
+pres.ll_41.html#I2021|Adams|Charles Francis /Adams/|18 AUG 1807|Boston, Massachusetts|21 NOV 1886|Boston, Massachusetts|
+pres.ll_41.html#I2017|Adams|Elihu /Adams/|1741||1776||
+pres.ll_41.html#I2019|Adams|George Washington /Adams/|12 APR 1801|Berlin, Germany|30 APR 1829|Long Island, New York|
+pres.ll_40.html#I1995|Adams|John /Adams/|30 OCT 1735|Quincy, Massachusetts|4 JUL 1826|Quincy, Massachusetts|
+pres.ll_41.html#I2008|Adams|John /Adams/|1691||1761||
+pres.ll_41.html#I2020|Adams|John /Adams/|4 JUL 1803|Washington D.C.|23 OCT 1834|Washington D.C.|
+pres.ll_40.html#I1996|Adams|John Quincy /Adams/|11 JUL 1767|Quincy, Massachusetts|23 FEB 1848|Speaker's Room,Congress, Washington D.C.|
+pres.ll_41.html#I2022|Adams|Louisa Catherine /Adams/|12 AUG 1811|St. Petersburg, Russia|15 SEP 1812|St. Petersburg, Russia|
+pres.ll_41.html#I2016|Adams|Peter_Boylston of Braintree /Adams/|1738||1823||
+pres.ll_40.html#I1999|Adams|Susanna /Adams/|28 DEC 1768|Boston, Massachusetts|4 FEB 1770|Boston, Massachusetts|
+pres.ll_41.html#I2001|Adams|Thomas Boylston /Adams/|15 SEP 1772|Quincy, Massachusetts|13 MAR 1832||
+pres.ll_8.html#I385|Alberye|Margaret /Alberye/|||||
+pres.ll_22.html#I1051|Alcock|Joanna /Alcock/|||||
+pres.ll_21.html#I1050|Alcock|John /Alcock/|||||
+pres.ll_30.html#I1476|Alexander|Eleanor Butler /Alexander/|1889|New York|29 MAY 1960|Oyster Bay, Long Island, New York|
+pres.ll_31.html#I1503|Alexander|Louise /Alexander/|||||
+pres.ll_26.html#I1256|Allen|Abigail /Allen/|||||
+pres.ll_23.html#I1144|Allen|Jane /Allen/|||||
+pres.ll_29.html#I1420|Allen|Mary Howell /Allen/|||||
+pres.ll_24.html#I1189|Allen|Thomas /Allen/|||||
+pres.ll_37.html#I1807|Allison|John S. /Allison/|||||
+pres.ll_39.html#I1943|Allison|Nancy Campbell /Allison/|1809||1897||
+pres.ll_33.html#I1649|Amen|John Harlan /Amen/|15 SEP 1898|Exeter, New Hampshire|10 MAR 1960|New York|
+pres.ll_39.html#I1930|Anderson|Maude /Anderson/|7 JUL 1873||19 NOV 1966|San Francisco, California|
+pres.ll_37.html#I1834|Andrews|Elizabeth /Andrews/|1768||1788||
+pres.ll_15.html#I750|Angell|? /Angell/|||||
+pres.ll_13.html#I641|Antwerp|Lionel of /Antwerp/|||||
+pres.ll_37.html#I1829|Appleton|Jane Means /Appleton/|12 MAR 1806|Hampton, New Hampshire|2 DEC 1863|Andover, Massachusetts|
+pres.ll_33.html#I1609|Armistead|Mary Marot /Armistead/|1761||1797||
+pres.ll_7.html#I311|Armstrong|Ephraim /Armstrong/|||1788|Northampton Twp., Burlington Co., New Je|
+pres.ll_23.html#I1109|Arnold|Elizabeth /Arnold/|||||
+pres.ll_27.html#I1323|Arnold|Joanna /Arnold/|||||
+pres.ll_27.html#I1322|Arnold|Stephen /Arnold/|||||
+pres.ll_27.html#I1320|Arnold|William /Arnold/|1586/87|England|1674/75|Providence, RI|
+pres.ll_38.html#I1861|Arthur|Almeda /Arthur/|||||
+pres.ll_38.html#I1862|Arthur|Ann Eliza /Arthur/|||||
+pres.ll_37.html#I1849|Arthur|Chester Alan /Arthur/|5 OCT 1829|Fairfield, Vermont|18 NOV 1886|New York City, New York|
+pres.ll_38.html#I1852|Arthur|Chester Alan /Arthur/|25 JUL 1864|New York|18 JUL 1937|Colorado Springs, Colorado|
+pres.ll_38.html#I1853|Arthur|Ellen (Nell) Herndon /Arthur/|21 NOV 1871|New York|6 SEP 1915|Mount Kisco, New York|
+pres.ll_38.html#I1865|Arthur|George /Arthur/|ABT    1836||||
+pres.ll_38.html#I1860|Arthur|Jane /Arthur/|ABT    1824||||
+pres.ll_38.html#I1863|Arthur|Malvina /Arthur/|||||
+pres.ll_38.html#I1866|Arthur|Mary /Arthur/|||1916||
+pres.ll_38.html#I1859|Arthur|Regina /Arthur/|1822/23||||
+pres.ll_38.html#I1857|Arthur|William /Arthur/|1796||1875||
+pres.ll_38.html#I1864|Arthur|William /Arthur/|1834||1915||
+pres.ll_38.html#I1851|Arthur|William Lewis Herndon /Arthur/|10 DEC 1860|New York|7 JUL 1863|Englewood, New Jersey|
+pres.ll_20.html#I983|Ashton|Mary /Ashton/|||||
+pres.ll_20.html#I999|Aspinwall|John /Aspinwall/|||||
+pres.ll_21.html#I1027|Aspinwall|John /Aspinwall/|||||
+pres.ll_20.html#I1000|Aspinwall|Mary Rebecca /Aspinwall/|||||
+pres.ll_9.html#I408|Atherold|Hannah /Atherold/|1614/15||1694/95||
+pres.ll_32.html#I1568|Atwood|Margaret /Atwood/|1891||||
+pres.ll_12.html#I595|Audley|Margaret /Audley/|||1348||
+pres.ll_35.html#I1736|Axson|Ellen Louise /Axson/|15 MAY 1860|Savannah, Georgia|6 AUG 1914|White House, Washington D.C.|
+pres.ll_22.html#I1092|Ayscough|Elizabeth /Ayscough/|||||
+pres.ll_22.html#I1091|Ayscough|John /Ayscough/|||||
+pres.ll_2.html#I92|BAKER|John /BAKER/|||||
+pres.ll_2.html#I93|BAKER|Mary /BAKER/|1820|England|||
+pres.ll_1.html#I25|BAUM|Esther Elvira /BAUM/|ABT    1825|Rutherford Co., TN|ABT    1865||
+pres.ll_1.html#I43|BAUM|Moses /BAUM/|25 FEB 1804|NC|4 MAY 1853|Marshall Co., MS|
+pres.ll_2.html#I78|BLUE|Donald /BLUE/|||||
+pres.ll_2.html#I80|BLUE|Donald /BLUE/|18 JAN 1799|Argyle, Scotland|||
+pres.ll_2.html#I77|BLUE|Jane /BLUE/|1824|Queens, New Brunswk, CAN|||
+pres.ll_1.html#I41|BLYTHE|Andrew J. /BLYTHE/|ABT    1801|SC|BEF    1860||
+pres.ll_1.html#I15|BLYTHE|Henry Patton Foote /BLYTHE/|18 SEP 1851|Tippah Co., MS|3 JUL 1898|Tippah Co., MS|
+pres.ll_1.html#I24|BLYTHE|Thomas Jefferson /BLYTHE/|1 AUG 1829|AL|6 AUG 1907|Tippah Co., MS|
+pres.ll_1.html#I3|BLYTHE|William Jefferson /BLYTHE/|27 FEB 1918|Sherman, Grayson Co., TX|17 MAY 1946|near Sikeston, Scott Co., MO|
+pres.ll_1.html#I9|BLYTHE|William Jefferson /BLYTHE/|21 JAN 1884|Tippah Co., MS|5 FEB 1935|Grayson Co., TX|
+pres.ll_4.html#I178|BURDG|Almira Park /BURDG/|16 SEP 1849|Columbiana Co., Ohio|23 JUL 1943|Whittier, California|
+pres.ll_4.html#I198|BURDG|David /BURDG/|ABT    1703|Hempstead, Long Island, New York|ABT    1781|Middletown, New Jersey|
+pres.ll_3.html#I148|BURDG|Jacob /BURDG/|28 JAN 1783|Shrewsbury, Monmouth Co., NJ|1 DEC 1862|Near Butlerville, IN|
+pres.ll_4.html#I154|BURDG|Jacob /BURDG/|5 APR 1743|Shrewsbury, Monmouth Co., New Jersey|BEF    1797||
+pres.ll_4.html#I170|BURDG|Joseph /BURDG/|||ABT    1782|Monmouth Co., New Jersey|
+pres.ll_3.html#I149|BURDG|Oliver /BURDG/|28 SEP 1821|Jefferson Twp, Fayette Co., PA|11 JUN 1908|Whittier, CA|
+pres.ll_4.html#I173|BURSON|Ann /BURSON/|9 FEB 1720/21||||
+pres.ll_34.html#I1666|Bacon|Norval Baldwin /Bacon/|||||
+pres.ll_21.html#I1031|Badlesmere|Elizabeth /Badlesmere/|||||
+pres.ll_8.html#I365|Baillie|Lucy /Baillie/|||||
+pres.ll_43.html#I2129|Baines|Rebekah /Baines/|1881||1958||
+pres.ll_5.html#I236|Baldwin|Hannah /Baldwin/|4 NOV 1748||30 OCT 1825|Ohio|
+pres.ll_6.html#I279|Baldwin|Joshua /Baldwin/|13 NOV 1721|Chester Co., Pennsylvania|13 MAY 1800|East Caln, Chester County, Pennsylvania|
+pres.ll_9.html#I401|Ball|Joseph /Ball/|24 MAY 1649|England|11 JUL 1711|Epping Forest, Lancaster Co., VA|
+pres.ll_8.html#I398|Ball|Mary /Ball/|1708/09|Lancaster Co., VA|25 AUG 1789|Fredericksburg, VA|
+pres.ll_9.html#I407|Ball|William /Ball/|1614/15|Millenbeck, Lancaster Co., England|15 OCT 1680|London, England|
+pres.ll_39.html#I1908|Ballou|Eliza /Ballou/|1801||1888||
+pres.ll_15.html#I735|Bangs|Elijah Keeler /Bangs/|4 JUN 1780|Stratford, CT|13 SEP 1856|Philadelphia, PA|
+pres.ll_15.html#I733|Bangs|Joseph /Bangs/|30 JAN 1712/13|Harwich, MA|ABT    1757|Oblong, NY|
+pres.ll_15.html#I734|Bangs|Lemuel /Bangs/|31 DEC 1739|Harwich, MA|9 MAY 1824|Portage, NY|
+pres.ll_15.html#I736|Bangs|Mary Ann /Bangs/|15 JUN 1817|Philadelphia, PA|AFT    1876||
+pres.ll_15.html#I731|Bangs|Samuel /Bangs/|12 JUL 1680|Harwich, Barnstable Co., MA|11 JUN 1750||
+pres.ll_11.html#I546|Baring|Margaret /Baring/|||||
+pres.ll_28.html#I1371|Barker|Mary /Barker/|||||
+pres.ll_7.html#I335|Barnard|Rebecca /Barnard/|||||
+pres.ll_7.html#I350|Barnard|Richard /Barnard/||Kingston, Wiltshire, England|ABT    1698||
+pres.ll_24.html#I1187|Barr|Millicent /Barr/|||||
+pres.ll_29.html#I1408|Bassett|Anne /Bassett/|1753||1821||
+pres.ll_29.html#I1409|Bassett|Benjamin /Bassett/|1755||1799||
+pres.ll_29.html#I1411|Bassett|Carter Bassett /Bassett/|||||
+pres.ll_29.html#I1406|Bassett|Elizabeth /Bassett/|1730||1792||
+pres.ll_29.html#I1407|Bassett|Elizabeth /Bassett/|1751||||
+pres.ll_29.html#I1410|Bassett|Lucy /Bassett/|||1809||
+pres.ll_29.html#I1412|Bassett|Sarah /Bassett/|1770||1812||
+pres.ll_7.html#I305|Batchiler|Stephen /Batchiler/|1561||1659/60||
+pres.ll_7.html#I303|Batchiler|Theodate /Batchiler/|1602/03||1648/49||
+pres.ll_8.html#I388|Bawdiven|? /Bawdiven/|||||
+pres.ll_14.html#I661|Bayley|Richard /Bayley/|||||
+pres.ll_14.html#I663|Bayley|Richard /Bayley/|||||
+pres.ll_19.html#I902|Beaky|Joseph /Beaky/|||||
+pres.ll_19.html#I904|Beaky|Joseph Ambrose /Beaky/|14 JUN 1818|Emmitsburg, MD|27 JAN 1858|on the steamship, "Minnehaha"|
+pres.ll_19.html#I905|Beaky|Martha Adela /Beaky/|1 JUN 1841|Emmitsburg, MD|AFT    1906||
+pres.ll_13.html#I619|Beauchamp|Isabel /Beauchamp/|||||
+pres.ll_13.html#I620|Beauchamp|William /Beauchamp/|||||
+pres.ll_19.html#I901|Bechi|Victor Emanuel /Bechi/|||||
+pres.ll_16.html#I790|Beekman|Cornelia /Beekman/|1692/93||1741/42||
+pres.ll_28.html#I1362|Beekman|Hendrick (Henry) /Beekman/|||||
+pres.ll_28.html#I1360|Beekman|Wilhelmus Hendrickse /Beekman/|1622/23||1706/07||
+pres.ll_42.html#I2085|Bell|Ann /Bell/|||||
+pres.ll_35.html#I1710|Bell|Minnewa /Bell/|1911||||
+pres.ll_9.html#I402|Bennett|Mary /Bennett/||West Chester, England|1720/21||
+pres.ll_31.html#I1532|Bennett|Virginia Joan /Bennett/|9 SEP 1936|Riverdale, New York|||
+pres.ll_13.html#I624|Bigod|Hugh /Bigod/|||1225||
+pres.ll_13.html#I623|Bigod|Isabel /Bigod/|||1230||
+pres.ll_13.html#I625|Bigod|Roger /Bigod/|||1221||
+pres.ll_20.html#I997|Bill|Lydia /Bill/|||||
+pres.ll_11.html#I542|Bingham|Lavinia /Bingham/|||1831||
+pres.ll_39.html#I1932|Birchard|Sophia /Birchard/|1792||1866||
+pres.ll_34.html#I1651|Black|Jesse Maxwell /Black/|1 MAR 1919|Baltimore, Maryland|||
+pres.ll_40.html#I1994|Blaesing|Henry El /Blaesing/|||||
+pres.ll_23.html#I1107|Blewett|Margaret /Blewett/|||||
+pres.ll_36.html#I1789|Bliss|William Smith /Bliss/|17 AUG 1815||4 AUG 1853||
+pres.ll_32.html#I1561|Bloomer|Elizabeth (Betty) Ann /Bloomer/|8 APR 1918|Chicago, Illinois|||
+pres.ll_17.html#I805|Blossom|Elizabeth /Blossom/|1704/05||1733/34|Barnstable, MA|
+pres.ll_43.html#I2134|Bobbit|Oscar Price /Bobbit/|||||
+pres.ll_17.html#I810|Bocher|George /Bocher/||Lomersheim, Wuerttemberg, Germany|||
+pres.ll_17.html#I812|Bocher|Susanna /Bocher/|25 JUL 1703|Lomersheim, Wuerttemberg, Germany|11 FEB 1773|Frederick Co., MD|
+pres.ll_35.html#I1701|Boettiger|John /Boettiger/|25 MAR 1900|Chicago, Illinois|31 OCT 1950|Manhattan, New York City, New York|
+pres.ll_35.html#I1740|Bolling|Edith /Bolling/|18 DEC 1885|Washington D.C.|28 DEC 1961|Washington D.C.|
+pres.ll_41.html#I2046|Bolling|John /Bolling/|||||
+pres.ll_28.html#I1400|Bonner|Louisa Smith /Bonner/|||||
+pres.ll_23.html#I1104|Booth|Eleanor /Booth/|||||
+pres.ll_22.html#I1094|Booth|John /Booth/|||||
+pres.ll_22.html#I1093|Booth|William /Booth/|||||
+pres.ll_24.html#I1156|Borthwick|Margaret /Borthwick/|||||
+pres.ll_33.html#I1647|Bosanquet|William Sidney Bence /Bosanquet/|1893||5 MAR 1966|Redcar, Yorkshire, England|
+pres.ll_24.html#I1177|Boteler|Alice /Boteler/|||||
+pres.ll_24.html#I1176|Boteler|John /Boteler/|||||
+pres.ll_20.html#I981|Boteler|Margery /Boteler/|||||
+pres.ll_31.html#I1510|Bouvier|Jacqueline Lee /Bouvier/|28 JUL 1929|Southampton, Long Island, New York|||
+pres.ll_12.html#I565|Bowes-Lyon|Claude /Bowes-Lyon/|1824||FEB 1904||
+pres.ll_12.html#I566|Bowes-Lyon|Claude George /Bowes-Lyon/|1855||1944||
+pres.ll_12.html#I568|Bowes-Lyon|Elizabeth Angela Marguerite /Bowes-Lyon/|4 AUG 1900||||
+pres.ll_4.html#I199|Bowne|Elizabeth /Bowne/|||||
+pres.ll_8.html#I362|Bowne|John /Bowne/|ABT    1630||1683/84|Monmouth Co., NJ|
+pres.ll_5.html#I202|Bowne|Samuel /Bowne/|||||
+pres.ll_7.html#I347|Bowne|Sarah /Bowne/|27 NOV 1669|Gravesend, L.I., NY|AFT    1714||
+pres.ll_4.html#I200|Bowne|William /Bowne/|||||
+pres.ll_8.html#I378|Bowne|William /Bowne/|||ABT    1677||
+pres.ll_35.html#I1718|Boyd|Irene E. /Boyd/|8 MAR 1931|New York|||
+pres.ll_41.html#I2010|Boylston|Peter /Boylston/|1673||1743||
+pres.ll_41.html#I2007|Boylston|Sarah /Boylston/|1642||1711||
+pres.ll_41.html#I2009|Boylston|Susanna /Boylston/|1709||1797||
+pres.ll_41.html#I2012|Boylston|Thomas /Boylston/|1645||1696||
+pres.ll_41.html#I2014|Boylston|Thomas /Boylston/|ABT    1615||ABT    1653||
+pres.ll_6.html#I276|Bradford|Mary /Bradford/|||||
+pres.ll_21.html#I1040|Brandon|Eleanor /Brandon/|||||
+pres.ll_21.html#I1039|Brandon|William /Brandon/|||||
+pres.ll_17.html#I815|Breck|Abigail /Breck/|19 JUN 1732|Boston, MA|28 OCT 1819||
+pres.ll_17.html#I813|Breck|John /Breck/|1704/05||1761||
+pres.ll_26.html#I1283|Brewer|Daniel /Brewer/|||1645/46|Roxbury, Massachusetts|
+pres.ll_26.html#I1285|Brewer|Sarah /Brewer/|||||
+pres.ll_25.html#I1226|Brewer|Sarah Alameda /Brewer/|17 DEC 1823|Ludlow, VT|2 JAN 1906|Plymouth, VT|
+pres.ll_18.html#I864|Bridge|Prudence /Bridge/|1663/64||1722/23||
+pres.ll_17.html#I831|Brigham|Abigail /Brigham/|31 DEC 1723|Sudbury, MA|AFT    1776||
+pres.ll_17.html#I829|Brigham|John /Brigham/|1679/80||1728/29||
+pres.ll_36.html#I1791|Bringier|Louise Marie Myrthe /Bringier/||Hermitage,Plantation,St James Parish,Lou|1875||
+pres.ll_40.html#I1992|Britton|Nan /Britton/|1896||||
+pres.ll_35.html#I1733|Brook|Mildred Crew /Brook/|||||
+pres.ll_25.html#I1248|Brooke|Joan /Brooke/|||||
+pres.ll_41.html#I2024|Brooks|Abigail Brown /Brooks/|25 APR 1808|Medford, Massachusetts|6 JUN 1889||
+pres.ll_6.html#I275|Brown|Alexander /Brown/|||SEP 1816|Hampshire Co., West Virginia|
+pres.ll_36.html#I1757|Brown|Caroline /Brown/|1857||1920||
+pres.ll_5.html#I232|Brown|Isaac /Brown/|16 APR 1771|Ireland|1 MAR 1853|Perry County, Ohio|
+pres.ll_5.html#I212|Brown|Jane /Brown/|16 MAR 1807|Perry County, Ohio|26 FEB 1886|Indianola, Iowa|
+pres.ll_39.html#I1903|Brown|Joseph Stanley /Brown/|19 AUG 1858|Washington D.C.|2 NOV 1941|Pasadena, California|
+pres.ll_6.html#I281|Brown|Mercy /Brown/|12 JAN 1721/22||22 JAN 1784||
+pres.ll_30.html#I1459|Brown|William Ramsay /Brown/|||19 APR 1883|Bluff City, Tennessee|
+pres.ll_21.html#I1011|Browne|Anthony /Browne/|||||
+pres.ll_21.html#I1012|Browne|Anthony /Browne/|||||
+pres.ll_21.html#I1014|Browne|Dorothy /Browne/|||||
+pres.ll_15.html#I713|Bryan|Susanna /Bryan/|||||
+pres.ll_33.html#I1631|Brydges|Nannie /Brydges/|||||
+pres.ll_24.html#I1169|Bryson|Marion /Bryson/|||||
+pres.ll_37.html#I1820|Buchanan|Edward Young /Buchanan/|1811||1895||
+pres.ll_37.html#I1815|Buchanan|Elizabeth /Buchanan/|1800||1801||
+pres.ll_37.html#I1819|Buchanan|George Washington /Buchanan/|1808||1832||
+pres.ll_37.html#I1816|Buchanan|Harriet /Buchanan/|1802||1840||
+pres.ll_37.html#I1808|Buchanan|James /Buchanan/|23 APR 1791|Stony Batter,Nr Mercersburg,Pennsylvania|1 JUN 1868|Wheatland, Lancaster, Pennsylvania|
+pres.ll_37.html#I1809|Buchanan|James /Buchanan/|ABT    1761||1821||
+pres.ll_37.html#I1812|Buchanan|Jane /Buchanan/|1793||1839||
+pres.ll_37.html#I1817|Buchanan|John /Buchanan/|1804||1804||
+pres.ll_37.html#I1813|Buchanan|Maria /Buchanan/|1795||1849||
+pres.ll_37.html#I1811|Buchanan|Mary /Buchanan/|1789||1791||
+pres.ll_37.html#I1814|Buchanan|Sarah /Buchanan/|1798||1825||
+pres.ll_37.html#I1818|Buchanan|William Speer /Buchanan/|1805||1826||
+pres.ll_42.html#I2084|Buckner|William /Buckner/|||||
+pres.ll_23.html#I1141|Bulkeley|Edward /Bulkeley/|||1619/20|Odell, Bedfordshire, England|
+pres.ll_23.html#I1145|Bulkeley|Edward /Bulkeley/|||||
+pres.ll_23.html#I1143|Bulkeley|Peter /Bulkeley/|||||
+pres.ll_23.html#I1147|Bulkeley|Peter /Bulkeley/|||||
+pres.ll_17.html#I833|Bulkeley|Rebecca /Bulkeley/|1680/81||||
+pres.ll_23.html#I1140|Bulkeley|Thomas /Bulkeley/|||||
+pres.ll_26.html#I1267|Bullen|Mary /Bullen/|||||
+pres.ll_26.html#I1266|Bullen|Samuel /Bullen/|||||
+pres.ll_30.html#I1481|Bulloch|Martha /Bulloch/|1834||1884||
+pres.ll_16.html#I773|Bullock|Thankful /Bullock/|1680/81|Rehoboth, MA|1762|Rehoboth, MA|
+pres.ll_20.html#I967|Burghersh|Elizabeth /Burghersh/|||||
+pres.ll_38.html#I1881|Burns|Lillian /Burns/|1864|Nr Warwick, Maryland|1 JUL 1924|New York|
+pres.ll_20.html#I995|Burt|Abigail /Burt/|||||
+pres.ll_24.html#I1199|Bush|Dorothy Walker /Bush/|||||
+pres.ll_14.html#I676|Bush|George Herbert Walker /Bush/|12 JUN 1924|Rye, New York (or Milton, MA ??)|||
+pres.ll_24.html#I1194|Bush|George Walker /Bush/|||||
+pres.ll_14.html#I686|Bush|James Smith /Bush/|15 JUN 1825|Rochester, NY|11 NOV 1889|Ithaca, NY|
+pres.ll_24.html#I1195|Bush|John Ellis /Bush/|||||
+pres.ll_24.html#I1192|Bush|Jonathan James /Bush/|1931||||
+pres.ll_24.html#I1197|Bush|Marvin Pierce /Bush/|||||
+pres.ll_24.html#I1191|Bush|Nancy /Bush/|1926||||
+pres.ll_24.html#I1196|Bush|Neil Mallon /Bush/|||||
+pres.ll_14.html#I684|Bush|Obadiah Newcomb /Bush/|28 JAN 1797||ABT    1851|on trip from Cal|
+pres.ll_14.html#I690|Bush|Prescott Sheldon /Bush/|15 MAY 1895|Columbus, OH|8 OCT 1972|New York, NY|
+pres.ll_24.html#I1190|Bush|Prescott Sheldon /Bush/|1922||||
+pres.ll_14.html#I678|Bush|Richard /Bush/|||27 SEP 1732|Bristol, RI|
+pres.ll_24.html#I1198|Bush|Robin /Bush/|||||
+pres.ll_14.html#I688|Bush|Samuel Prescott /Bush/|4 OCT 1863|Brick Church, NJ|8 FEB 1948|Columbus, OH|
+pres.ll_14.html#I680|Bush|Timothy /Bush/|ABT    1735||ABT    1815|Springport, NY|
+pres.ll_14.html#I682|Bush|Timothy /Bush/|1 APR 1766|prob. Lebanon, CT|MAY 1850|Rochester, NY|
+pres.ll_24.html#I1193|Bush|William Trotter /Bush/|1938||||
+pres.ll_17.html#I806|Butler|Benjamin /Butler/|18 DEC 1727|Barnstable, MA|ABT    1800|Middletown Sprin, VT|
+pres.ll_17.html#I809|Butler|Courtland Philip Livingston /Butler/|8 MAR 1813|Clinton, NY|9 AUG 1891|Columbus, OH|
+pres.ll_17.html#I804|Butler|Israel /Butler/|ABT    1696||AFT    1757|Tisbury, MA|
+pres.ll_10.html#I486|Butler|Jane /Butler/|1698/99||1728/29||
+pres.ll_12.html#I573|Butler|John /Butler/|||||
+pres.ll_9.html#I418|Butler|Margaret /Butler/|AFT    1568|Tyes Hall, Cuckfields, Sussex, England|ABT    1652||
+pres.ll_15.html#I743|Butler|Mary Elizabeth /Butler/|15 JUL 1850|Columbus, OH|16 JAN 1897|Columbus, OH|
+pres.ll_17.html#I807|Butler|Nathaniel /Butler/|14 JUN 1761|Cumberland, RI|29 SEP 1829||
+pres.ll_17.html#I808|Butler|Samuel Herrick /Butler/|12 FEB 1785|Bennington, VT|13 DEC 1851|Columbus, OH|
+pres.ll_9.html#I429|Butler|William /Butler/|||||
+pres.ll_29.html#I1421|Byrd|Jane /Byrd/|||||
+pres.ll_1.html#I33|CASSIDY|George Washington /CASSIDY/|ABT    1829|Chesterfield Dis, SC|13 MAY 1886|Red Level, Covington Co., AL|
+pres.ll_1.html#I13|CASSIDY|James Eldridge /CASSIDY/|19 AUG 1898|Parker Twp., Nevada Co., AR|11 MAR 1957|Hope, Hempstead Co., AR|
+pres.ll_1.html#I20|CASSIDY|James M. /CASSIDY/|NOV 1855|Coffee Co., AL|1908 ?|Covington Co., AL|
+pres.ll_1.html#I50|CASSIDY|Levi /CASSIDY/|ABT    1790|Chesterfield Dis, SC|||
+pres.ll_1.html#I4|CASSIDY|Virginia Dell /CASSIDY/|6 JUN 1923|Bodcaw, Nevada Co., AR|JAN 1994||
+pres.ll_4.html#I197|CATTELL|Jane /CATTELL/|22 APR 1780||29 MAR 1853||
+pres.ll_2.html#I66|CLINTON|Chelsea /CLINTON/|27 FEB 1980|Little Rock, AR|||
+pres.ll_1.html#I5|CLINTON|Roger /CLINTON/|25 JUL 1909||NOV 1967||
+pres.ll_1.html#I1|CLINTON|William Jefferson /CLINTON/|19 AUG 1946|Hope, Hempstead Co., AR|||
+pres.ll_2.html#I70|CUSICK|Jennie /CUSICK/|1857|Java, Genesse Co, NY|||
+pres.ll_2.html#I72|CUSICK|Patrick /CUSICK/|1835|Ireland|1870|Whitesides Co IL|
+pres.ll_36.html#I1772|Caldwell|Silas William /Caldwell/|||||
+pres.ll_34.html#I1676|Campbell|Louella /Campbell/|||||
+pres.ll_28.html#I1365|Carey|Sarah /Carey/|||||
+pres.ll_30.html#I1470|Carow|Edith Kermit /Carow/|6 AUG 1861|Norwich, Connecticut|30 SEP 1948|Oyster Bay, Long Island, New York|
+pres.ll_20.html#I987|Carpenter|Alice /Carpenter/|||||
+pres.ll_27.html#I1318|Carpenter|Benjamin /Carpenter/|1657/58||1726/27||
+pres.ll_16.html#I763|Carpenter|Keziah /Carpenter/|1696/97||1763||
+pres.ll_41.html#I2047|Carr|Dabney /Carr/|1743||1773||
+pres.ll_32.html#I1581|Carter|Amy Lynn /Carter/|1967||||
+pres.ll_11.html#I505|Carter|Anne Hill /Carter/|||||
+pres.ll_32.html#I1584|Carter|Gloria /Carter/|||||
+pres.ll_32.html#I1582|Carter|James Earl /Carter/|1894||1953||
+pres.ll_32.html#I1579|Carter|James Earl (Chip) /Carter/|1950|Plains, Georgia|||
+pres.ll_32.html#I1576|Carter|James Earl (Jimmy) /Carter/|1 OCT 1924|Plains, Georgia|||
+pres.ll_32.html#I1580|Carter|Jeffrey (Donnel) /Carter/|1952|Plains, Georgia|||
+pres.ll_32.html#I1578|Carter|John (Jack) /Carter/|1947|Plains, Georgia|||
+pres.ll_32.html#I1585|Carter|Ruth /Carter/|||1983||
+pres.ll_32.html#I1586|Carter|William (Billy) Alton /Carter/|1937||1988||
+pres.ll_11.html#I538|Carteret|Georgina Carolina /Carteret/|||1780||
+pres.ll_19.html#I927|Castile|Eleanor of /Castile/|||||
+pres.ll_11.html#I512|Catlyn|Mary /Catlyn/|||||
+pres.ll_7.html#I315|Cattell|James /Cattell/|1742/43|Burlington Co., New Jersey|1806|Evesham, Burlington Co., New Jersey|
+pres.ll_31.html#I1527|Cavendish|John Robert /Cavendish/|1917||1944||
+pres.ll_12.html#I567|Cavendish-Bentin|Nina Cecilia /Cavendish-Bentin/|1862||1938||
+pres.ll_38.html#I1876|Chaffee|(Fannie) Josephine /Chaffee/|16 JAN 1857|Adrian, Michigan|10 NOV 1909|San Diego, California|
+pres.ll_19.html#I947|Chamberlayne|Anne /Chamberlayne/|||||
+pres.ll_38.html#I1880|Chapman|Elizabeth /Chapman/|10 JAN 1858|Minneapolis, Minnesota|28 FEB 1945|San Diego, California|
+pres.ll_23.html#I1137|Charlton|Anne /Charlton/|||||
+pres.ll_23.html#I1135|Charlton|Richard /Charlton/|||||
+pres.ll_23.html#I1134|Charlton|Robert /Charlton/|||||
+pres.ll_13.html#I646|Charroll|? /Charroll/|||||
+pres.ll_40.html#I1962|Chase|Eleanor Kellogg /Chase/|9 OCT 1891|Waterbury, Connecticut|28 AUG 1961|Cincinnati, Ohio|
+pres.ll_13.html#I617|Chaworth|Maud /Chaworth/|||1322||
+pres.ll_13.html#I618|Chaworth|Patrick /Chaworth/|||||
+pres.ll_5.html#I234|Chenowith|Nelly /Chenowith/|||||
+pres.ll_12.html#I590|Cherleton|Edward /Cherleton/|||1421||
+pres.ll_12.html#I592|Cherleton|John /Cherleton/|||||
+pres.ll_12.html#I578|Cherlton|Joyce /Cherlton/|||1446||
+pres.ll_17.html#I841|Child|Hannah /Child/|ABT    1700||1788||
+pres.ll_27.html#I1301|Child|John /Child/|||||
+pres.ll_36.html#I1759|Childress|Sarah /Childress/|4 SEP 1803|Nr Murfreesboro, Tennessee|14 AUG 1891|Nashville, Tennessee|
+pres.ll_26.html#I1277|Chipman|Hope /Chipman/|||||
+pres.ll_26.html#I1276|Chipman|John /Chipman/|||||
+pres.ll_40.html#I1993|Christian|Elizabeth Ann /Christian/|1919||||
+pres.ll_32.html#I1591|Christian|Letitia /Christian/|12 NOV 1790|Cedar Grove, New Kent Co., Virginia|10 SEP 1842|White House, Washington D.C.|
+pres.ll_22.html#I1056|Church|Caleb /Church/|||||
+pres.ll_22.html#I1059|Church|Deborah /Church/|||||
+pres.ll_22.html#I1057|Church|Joseph /Church/|||||
+pres.ll_11.html#I522|Churchill|Anne /Churchill/|||||
+pres.ll_11.html#I535|Churchill|Randolph /Churchill/|1849||1895||
+pres.ll_11.html#I537|Churchill|Winston S. /Churchill/|||||
+pres.ll_22.html#I1089|Cibthorpe|Katherine /Cibthorpe/|||||
+pres.ll_15.html#I704|Clark|Anna /Clark/|||||
+pres.ll_35.html#I1717|Clark|Anne Lindsay /Clark/|13 JUL 1916|Concord, Massachusetts|28 MAY 1973|New York|
+pres.ll_26.html#I1268|Clark|Ephraim /Clark/|||||
+pres.ll_26.html#I1269|Clark|Mary /Clark/|||||
+pres.ll_20.html#I959|Clarke|Elizabeth /Clarke/|||||
+pres.ll_5.html#I233|Clayton|Mary /Clayton/|18 FEB 1777||27 JAN 1822|Ohio|
+pres.ll_5.html#I248|Clayton|Thomas /Clayton/|||1813|Morgan County, Ohio|
+pres.ll_5.html#I231|Clemson|Mary /Clemson/|3 MAR 1763||||
+pres.ll_6.html#I273|Clemson|Thomas /Clemson/||Pennsylvania|1785|Salisbury, Lancaster Co., Pennsylvania|
+pres.ll_34.html#I1655|Cleveland|Anna Neal /Cleveland/|1830||1909||
+pres.ll_33.html#I1643|Cleveland|Esther /Cleveland/|9 SEP 1893|White House, Washington D.C.|25 JUN 1980|New Hampshire|
+pres.ll_33.html#I1646|Cleveland|Francis Grover /Cleveland/|18 JUL 1903|Buzzard Bay, Massachusetts|||
+pres.ll_33.html#I1640|Cleveland|Grover (Stephen) /Cleveland/|18 MAR 1837|Caldwell, New Jersey|24 JUN 1908|Princeton, New Jersey|
+pres.ll_34.html#I1660|Cleveland|Lewis Frederick /Cleveland/|1841||1872||
+pres.ll_34.html#I1659|Cleveland|Margaret Louise Falley /Cleveland/|1838||1932||
+pres.ll_33.html#I1644|Cleveland|Marion /Cleveland/|7 JUL 1895|Buzzards Bay, Massachusetts|10 MAR 1960|New York|
+pres.ll_34.html#I1657|Cleveland|Mary Allen /Cleveland/|1833||1914||
+pres.ll_34.html#I1658|Cleveland|Richard Cecil /Cleveland/|1835||1872||
+pres.ll_34.html#I1653|Cleveland|Richard Falley /Cleveland/|1804||1853||
+pres.ll_33.html#I1645|Cleveland|Richard Folsom /Cleveland/|28 OCT 1897|Princeton, New Jersey|10 JAN 1974|Baltimore, Maryland|
+pres.ll_34.html#I1662|Cleveland|Rose Elizabeth /Cleveland/|1846||1918||
+pres.ll_33.html#I1642|Cleveland|Ruth /Cleveland/|3 OCT 1891|New York City, New York|7 JAN 1904|Princeton, New Jersey|
+pres.ll_34.html#I1661|Cleveland|Susan Sophia /Cleveland/|1843||||
+pres.ll_34.html#I1656|Cleveland|William Neal /Cleveland/|1832||1906||
+pres.ll_35.html#I1728|Coberly|Margaret /Coberly/|7 MAR 1911|Tucson, Arizona|||
+pres.ll_12.html#I557|Cockayne|Judith /Cockayne/|||||
+pres.ll_22.html#I1087|Cokefield|Agnes /Cokefield/|||||
+pres.ll_20.html#I993|Cole|Martha /Cole/|||||
+pres.ll_34.html#I1688|Colgan|Rochester Campbell /Colgan/|||||
+pres.ll_22.html#I1075|Comyn|Alexander /Comyn/|||||
+pres.ll_22.html#I1076|Comyn|Elizabeth /Comyn/|||||
+pres.ll_42.html#I2057|Conway|Eleanor (Nelly) Rose /Conway/|1731||1829||
+pres.ll_9.html#I440|Cooke|Alice /Cooke/|||||
+pres.ll_27.html#I1347|Cooke|Francis /Cooke/|||1662/63|Plymouth, Plymouth Co., Massachusetts|
+pres.ll_27.html#I1346|Cooke|Jane /Cooke/|||||
+pres.ll_36.html#I1756|Coolidge|Abigail Gratia /Coolidge/|1875||1900||
+pres.ll_25.html#I1223|Coolidge|Calvin /Coolidge/|27 MAR 1780|Plymouth, VT|30 APR 1853|Plymouth, VT|
+pres.ll_36.html#I1752|Coolidge|Calvin /Coolidge/|13 APR 1908|Northampton, Massachusetts|7 JUL 1924|Washington D.C.|
+pres.ll_35.html#I1749|Coolidge|Calvin (John) /Coolidge/|4 JUL 1872|Plymouth, Vermont|5 JAN 1933|Northhampton, Massachusetts|
+pres.ll_25.html#I1225|Coolidge|Calvin Galusha /Coolidge/|22 SEP 1815|Plymouth, VT|15 DEC 1878|Plymouth, VT|
+pres.ll_25.html#I1221|Coolidge|John /Coolidge/|ABT    1756||23 MAR 1822|Plymouth, VT|
+pres.ll_36.html#I1751|Coolidge|John /Coolidge/|7 SEP 1906|Northampton, Massachusetts|||
+pres.ll_36.html#I1754|Coolidge|John Calvin /Coolidge/|21 MAR 1845|Plymouth, Vermont|18 MAR 1926|Plymouth, Vermont|
+pres.ll_25.html#I1219|Coolidge|Josiah /Coolidge/|||||
+pres.ll_25.html#I1218|Coolidge|Obadiah /Coolidge/|||||
+pres.ll_33.html#I1626|Cooper|Priscilla (Elizabeth) /Cooper/|14 JUN 1816|New York|29 DEC 1889|Montgomery, Alabama|
+pres.ll_25.html#I1205|Cope|Anthony /Cope/|||||
+pres.ll_25.html#I1207|Cope|Edward /Cope/|||||
+pres.ll_19.html#I950|Cope|Elizabeth /Cope/|||||
+pres.ll_19.html#I949|Cope|John /Cope/|||||
+pres.ll_25.html#I1209|Cope|Ursula /Cope/|||||
+pres.ll_25.html#I1204|Cope|William /Cope/|||||
+pres.ll_23.html#I1133|Corbet|Mary /Corbet/|||||
+pres.ll_23.html#I1132|Corbet|Robert /Corbet/|||||
+pres.ll_38.html#I1889|Corbin|Abel Rathbone /Corbin/|||||
+pres.ll_36.html#I1777|Corse|Mary L. /Corse/|||||
+pres.ll_29.html#I1415|Coupland|David /Coupland/|||||
+pres.ll_30.html#I1485|Cowles|William Sheffield /Cowles/|||||
+pres.ll_38.html#I1891|Cramer|Michael John /Cramer/|||||
+pres.ll_25.html#I1206|Crews|Jane /Crews/|||||
+pres.ll_19.html#I919|Criswell|Elizabeth (Betsey) /Criswell/||Lancaster, PA|||
+pres.ll_17.html#I847|Cross|Anne /Cross/|ABT    1651||AFT    1710||
+pres.ll_13.html#I626|Crouchback|Edmund /Crouchback/|||1296||
+pres.ll_33.html#I1624|Curtis|Henry /Curtis/|||||
+pres.ll_35.html#I1703|Cushing|Betsey /Cushing/|||||
+pres.ll_10.html#I491|Custis|Daniel Parke /Custis/|||1757||
+pres.ll_10.html#I492|Custis|Daniel Parke /Custis/|1750/51||1754||
+pres.ll_10.html#I493|Custis|Frances Parke /Custis/|1753||1757||
+pres.ll_10.html#I494|Custis|John /Custis/|1754||1781||
+pres.ll_10.html#I495|Custis|Martha Patsy /Custis/|1755||1773||
+pres.ll_25.html#I1210|D'Oyly|John /D'Oyly/|||||
+pres.ll_25.html#I1211|D'Oyly|Priscilla /D'Oyly/|||||
+pres.ll_3.html#I129|DAVIS|Anne /DAVIS/|||||
+pres.ll_3.html#I128|DAVIS|Geoffrey /DAVIS/|||||
+pres.ll_3.html#I118|DAVIS|Loyal /DAVIS/|1896|IL|19 AUG 1982|Phoenix, AZ|
+pres.ll_3.html#I126|DAVIS|Richard /DAVIS/|||||
+pres.ll_4.html#I151|DAYTON|Alathea /DAYTON/|||19 DEC 1714||
+pres.ll_1.html#I7|DWIRE|Jeff /DWIRE/|||1974||
+pres.ll_34.html#I1700|Dall|Curtis Bean /Dall/|||||
+pres.ll_8.html#I396|Dandridge|Martha /Dandridge/|21 JUN 1731|New Kent Co., VA|22 MAY 1802|Mount Vernon, Fairfax Co., VA|
+pres.ll_36.html#I1790|Dandridge|Philip Pendleton /Dandridge/|||||
+pres.ll_34.html#I1671|Daniel|Clifton (Elbert) /Daniel/|19 SEP 1912|Zebulon, North Carolina|||
+pres.ll_34.html#I1677|Daniel|Clifton Truman /Daniel/|5 JUN 1957||||
+pres.ll_34.html#I1679|Daniel|Harrison Gates /Daniel/|3 MAR 1963||||
+pres.ll_34.html#I1680|Daniel|Thomas Washington /Daniel/|28 MAY 1966||||
+pres.ll_34.html#I1678|Daniel|William Wallace /Daniel/|19 MAY 1959||||
+pres.ll_29.html#I1448|Dashiell|Sophia Ridgely Lytle /Dashiell/|||||
+pres.ll_38.html#I1855|Dashwood|Rowena Graves /Dashwood/|8 NOV 1894||18 JUL 1937|Colorado Springs, Colorado|
+pres.ll_30.html#I1465|Daugherty|Turner /Daugherty/|||||
+pres.ll_18.html#I876|Davenport|Hannah /Davenport/|1685/86||1769|Little Compton, RI|
+pres.ll_27.html#I1343|Davenport|Jonathan /Davenport/|||||
+pres.ll_27.html#I1341|Davenport|Thomas /Davenport/|||1684/85|Dorchester, Massachusetts|
+pres.ll_6.html#I290|Davis|Esther /Davis/|||||
+pres.ll_36.html#I1788|Davis|Jefferson Finis /Davis/|3 JUN 1808|Fairview, Todd Co., Kentucky|6 DEC 1889|New Orleans, Louisiana|
+pres.ll_25.html#I1216|Davis|Rachel /Davis/|||||
+pres.ll_16.html#I754|Davis|Rebecca /Davis/|||||
+pres.ll_16.html#I753|Davis|Richard /Davis/|ABT    1745|Cecil Co., MD|||
+pres.ll_16.html#I751|Davis|Thomas /Davis/|ABT    1710|Cecil Co., MD|||
+pres.ll_15.html#I749|Davis|William /Davis/|||||
+pres.ll_18.html#I882|Dawson|Eliza /Dawson/|||||
+pres.ll_18.html#I878|Dawson|Henry /Dawson/|||||
+pres.ll_18.html#I880|Dawson|Samuel /Dawson/|||||
+pres.ll_43.html#I2140|DeWolfe|? /DeWolfe/|||||
+pres.ll_35.html#I1722|Delano|Sara /Delano/|1854||1941||
+pres.ll_22.html#I1060|Delano|Warren /Delano/|||||
+pres.ll_22.html#I1061|Delano|Warren /Delano/|||||
+pres.ll_33.html#I1648|Dell|William Stanley /Dell/|1894||||
+pres.ll_25.html#I1250|Deming|Elizabeth /Deming/|||||
+pres.ll_33.html#I1630|Denison|Henry Mandeville /Denison/|1822|Wyoming, Pennsylvania|1858||
+pres.ll_38.html#I1870|Dent|Julia Boggs /Dent/|16 FEB 1826|White Haven, St Louis, Missouri|14 DEC 1902|Washington D.C.|
+pres.ll_30.html#I1478|Derby|Richard /Derby/|7 APR 1881|New York|21 JUL 1963|Brattleboro, Vermont|
+pres.ll_20.html#I966|Despencer|Edward /Despencer/|||||
+pres.ll_20.html#I964|Despencer|Edward le /Despencer/|||||
+pres.ll_20.html#I968|Despencer|Elizabeth /Despencer/|||||
+pres.ll_19.html#I931|Despencer|Hugh le /Despencer/|||||
+pres.ll_19.html#I932|Despencer|Isabel le /Despencer/|||||
+pres.ll_29.html#I1438|Devin|Thomas Jefferson /Devin/|||||
+pres.ll_9.html#I420|Dickens|Anne /Dickens/|||APR 1637|Tring, Hertfordshire, England|
+pres.ll_9.html#I433|Dickens|William /Dickens/|||1582/83|Great Creaton, Northamptonshire, England|
+pres.ll_40.html#I1980|Dickerson|Phoebe Elizabeth /Dickerson/|1843||1910||
+pres.ll_36.html#I1776|Dickinson|Belinda G. /Dickinson/|||||
+pres.ll_6.html#I269|Dickinson|Elizabeth /Dickinson/|13 JUL 1739||||
+pres.ll_11.html#I520|Digby|Anne /Digby/|||||
+pres.ll_6.html#I285|Dillon|Nicholas /Dillon/|||||
+pres.ll_6.html#I284|Dillon|Rebecca /Dillon/|||||
+pres.ll_10.html#I469|Dolfin|Patric fitz /Dolfin/|||||
+pres.ll_35.html#I1707|Donner|Elizabeth Browning /Donner/|5 DEC 1911|Pittsburgh, Pennsylvania|||
+pres.ll_21.html#I1013|Dormer|Mary /Dormer/|||||
+pres.ll_30.html#I1489|Doud|Mary (Mamie) Geneva /Doud/|14 NOV 1896|Boone, Iowa|31 OCT 1979|Walter Reed Hos., Washington D.C.|
+pres.ll_6.html#I280|Downing|Sarah /Downing/|14 AUG 1725||16 JUL 1745||
+pres.ll_20.html#I952|Dryden|Bridget /Dryden/|||||
+pres.ll_20.html#I951|Dryden|John /Dryden/|||||
+pres.ll_22.html#I1067|Dunbar|Gunnild of /Dunbar/|||||
+pres.ll_5.html#I247|Duncalf|Mary /Duncalf/|||||
+pres.ll_40.html#I1955|Duncan|Andrew Jackson /Duncan/|||||
+pres.ll_9.html#I443|Dymoke|Edward /Dymoke/|||||
+pres.ll_9.html#I442|Dymoke|Frances /Dymoke/||Scrivelsby, Lincolnshire, England|||
+pres.ll_4.html#I187|EISENHOWER|Dwight David /EISENHOWER/|31 MAR 1948||||
+pres.ll_2.html#I90|ELSEY|Henry /ELSEY/|1776|Surry C, England|1844||
+pres.ll_2.html#I87|ELSEY|Mary Ann /ELSEY/|28 DEC 1843|Surry, England|6 OCT 1900|Whitesides C, IL|
+pres.ll_2.html#I91|ELSEY|Robert /ELSEY/|19 JAN 1812|Epson, Surry C, England|||
+pres.ll_31.html#I1508|Eakin|Helen Elsie /Eakin/|||||
+pres.ll_29.html#I1437|Eaton|George Coleman /Eaton/|||||
+pres.ll_29.html#I1414|Edmonson|? /Edmonson/|||||
+pres.ll_40.html#I1976|Edwards|William A. /Edwards/|||||
+pres.ll_30.html#I1495|Eisenhower|Arthur Bradford /Eisenhower/|1886||1958||
+pres.ll_30.html#I1493|Eisenhower|David Jacob /Eisenhower/|1863||1942||
+pres.ll_30.html#I1490|Eisenhower|Doud Dwight (Icky) /Eisenhower/|24 SEP 1917|Denver, Colorado|2 JAN 1921|Camp Meade, Maryland|
+pres.ll_30.html#I1488|Eisenhower|Dwight David /Eisenhower/|14 OCT 1890|Denison, Texas|28 MAR 1969|Washington D.C.|
+pres.ll_30.html#I1499|Eisenhower|Earl Dewey /Eisenhower/|1898||1968||
+pres.ll_30.html#I1496|Eisenhower|Edgar Newton /Eisenhower/|1889||||
+pres.ll_30.html#I1491|Eisenhower|John Sheldon Doud /Eisenhower/|3 AUG 1922|Denver, Colorado|||
+pres.ll_30.html#I1500|Eisenhower|Milton Stover /Eisenhower/|1899||1985||
+pres.ll_30.html#I1498|Eisenhower|Paul Dawson /Eisenhower/|1894||1895||
+pres.ll_30.html#I1497|Eisenhower|Roy J. /Eisenhower/|1892||1942||
+pres.ll_33.html#I1639|Ellis|William Mumford /Ellis/|1846||1921||
+pres.ll_35.html#I1709|Emerson|Faye Margaret /Emerson/|8 JUL 1917|Elizabeth, Louisiana|9 MAR 1983|Majorca|
+pres.ll_39.html#I1904|Emmons|Susan /Emmons/|9 MAR 1878|Boston, Massachusetts|||
+pres.ll_25.html#I1202|Empson|Anne /Empson/|||||
+pres.ll_25.html#I1236|Empson|Elizabeth /Empson/|||||
+pres.ll_40.html#I1956|Endsley|Anna E. /Endsley/|||||
+pres.ll_14.html#I651|England|Edward I. of /England/|||||
+pres.ll_19.html#I926|England|Edward I. of /England/|||1307||
+pres.ll_13.html#I643|England|Edward III. of /England/|||1377||
+pres.ll_10.html#I475|England|Elfgifu of /England/|||||
+pres.ll_10.html#I476|England|Ethelred II. of /England/|||1016||
+pres.ll_22.html#I1063|England|Henry I. of /England/|||1135||
+pres.ll_13.html#I627|England|Henry III. of /England/|||1272||
+pres.ll_13.html#I628|England|John (Lackland) of /England/|||1216||
+pres.ll_41.html#I2034|Eppes|John Wayles /Eppes/|7 APR 1773|City Point, Virginia|5 SEP 1823|Millbrook, Buckingham Co., Virginia|
+pres.ll_34.html#I1652|Erdman|Alice /Erdman/|24 MAR 1904||||
+pres.ll_28.html#I1396|Estes|David K. /Estes/|1786|Morristown, New Jersey|1 APR 1876|Cincinnati, Ohio|
+pres.ll_43.html#I2141|FILLMORE|Millard /FILLMORE/|7 JAN 1800|Locke, New York|8 MAR 1874|Buffalo, New York|
+pres.ll_43.html#I2144|FILLMORE|Nathaniel /FILLMORE/|1771||1863||
+pres.ll_2.html#I85|FORSYTH|Cunningham /FORSYTH/|||||
+pres.ll_3.html#I123|FULKS|Jane_WYMAN (Sarah Jane /FULKS/|4 JAN 1914|St. Joseph, MO|||
+pres.ll_3.html#I141|FUTTERMAN|Myron /FUTTERMAN/|||||
+pres.ll_27.html#I1339|Fairbanks|Jeremiah /Fairbanks/|||||
+pres.ll_27.html#I1335|Fairbanks|Jonathan /Fairbanks/|||1667/68|Dedham, Norfolk Co., Massachusetts|
+pres.ll_27.html#I1337|Fairbanks|Jonathan /Fairbanks/|||||
+pres.ll_14.html#I679|Fairbanks|Mary /Fairbanks/|22 AUG 1699||7 MAY 1743|Bristol, RI|
+pres.ll_6.html#I257|Faircloe|Thomas /Faircloe/|1719/20||1794||
+pres.ll_24.html#I1184|Faircloth|Lawrence /Faircloth/|||||
+pres.ll_24.html#I1188|Faircloth|Mary /Faircloth/|||||
+pres.ll_24.html#I1183|Faircloth|Ralph /Faircloth/|||||
+pres.ll_24.html#I1186|Faircloth|Thomas /Faircloth/|||||
+pres.ll_14.html#I687|Fay|Harriet Eleanor /Fay/|29 OCT 1829|Savannah, GA|27 FEB 1924|Boston, MA|
+pres.ll_17.html#I840|Fay|John /Fay/|1699/00||1731/32||
+pres.ll_23.html#I1123|Fay|John /Fay/|||||
+pres.ll_17.html#I842|Fay|Jonathan /Fay/|21 NOV 1724|Westboro, MA|3 MAR 1800|Westboro, MA|
+pres.ll_17.html#I843|Fay|Jonathan /Fay/|21 JAN 1751/52|Westboro, MA|1 JUN 1811|Concord, MA|
+pres.ll_17.html#I845|Fay|Samuel Howard /Fay/|21 JUL 1804|Cambridge, MA|16 AUG 1847|Brooklyn, NY|
+pres.ll_17.html#I844|Fay|Samuel Prescott Phillips /Fay/|10 JAN 1778|Concord, MA|18 MAY 1856|Concord, MA|
+pres.ll_17.html#I848|Fellows|Elizabeth /Fellows/|14 SEP 1685|Ipswich, MA|AFT    1741||
+pres.ll_17.html#I846|Fellows|Ephraim /Fellows/|ABT    1641||AFT    1710||
+pres.ll_22.html#I1065|Fergus|? /Fergus/|||||
+pres.ll_20.html#I965|Ferrers|Anne /Ferrers/|||||
+pres.ll_19.html#I941|Ferrers|Phillippa /Ferrers/|||||
+pres.ll_15.html#I703|Field|John /Field/|ABT    1748|Culpepper Co., VA|||
+pres.ll_15.html#I707|Field|John /Field/|||||
+pres.ll_42.html#I2053|Field|Mary /Field/|1680||1715||
+pres.ll_15.html#I709|Field|Mildred /Field/|||||
+pres.ll_15.html#I705|Field|Robert /Field/|||||
+pres.ll_16.html#I780|Fitch|Amos /Fitch/|||||
+pres.ll_16.html#I779|Fitch|Anna /Fitch/|1 MAR 1763||15 NOV 1809|Rehoboth, MA|
+pres.ll_38.html#I1854|Fithian|Myra Townsend Andrews /Fithian/|1 JAN 1870|New York|11 SEP 1935||
+pres.ll_13.html#I605|FitzAlan|Alice /FitzAlan/|||1416||
+pres.ll_13.html#I608|FitzAlan|Edmund /FitzAlan/|||1326||
+pres.ll_21.html#I1034|FitzAlan|Elizabeth /FitzAlan/|||||
+pres.ll_19.html#I934|FitzAlan|Isabel /FitzAlan/|||||
+pres.ll_20.html#I969|FitzAlan|John /FitzAlan/|||||
+pres.ll_20.html#I970|FitzAlan|Margaret /FitzAlan/|||||
+pres.ll_13.html#I606|FitzAlan|Richard /FitzAlan/|||1376||
+pres.ll_19.html#I933|FitzAlan|Richard /FitzAlan/|||||
+pres.ll_21.html#I1033|FitzAlan|Richard /FitzAlan/|||||
+pres.ll_13.html#I622|FitzGeoffrey|John /FitzGeoffrey/|||||
+pres.ll_13.html#I621|FitzGeoffrey|Maud /FitzGeoffrey/|||||
+pres.ll_14.html#I670|FitzPiers|Lucy /FitzPiers/|||||
+pres.ll_31.html#I1518|Fitzgerald|Rose Elizabeth /Fitzgerald/|22 JUL 1890|Boston, Suffolk Co., Massachusetts|||
+pres.ll_14.html#I674|Fitzhugh|Eustache /Fitzhugh/|||||
+pres.ll_24.html#I1173|Fleming|Janet /Fleming/|||||
+pres.ll_7.html#I348|Flower|William /Flower/|||||
+pres.ll_7.html#I334|Flowers|Enoch /Flowers/|ABT    1693||||
+pres.ll_7.html#I325|Flowers|Rebecca /Flowers/|30 MAR 1720||20 JUL 1806|Linville's Creek, Rockingham Co., VA|
+pres.ll_33.html#I1641|Folsom|Frances /Folsom/|2 JUN 1886|Buffalo, New York|29 OCT 1947|Baltimore, Maryland|
+pres.ll_25.html#I1249|Foote|Nathaniel /Foote/|1591/92||||
+pres.ll_26.html#I1251|Foote|Rebecca /Foote/|||||
+pres.ll_25.html#I1247|Foote|Robert /Foote/|||1607/08||
+pres.ll_32.html#I1572|Ford|Gerald Rudolf /Ford/|1890||1962||
+pres.ll_32.html#I1560|Ford|Gerald Rudolph /Ford/|14 JUL 1913|Omaha, Nebraska|||
+pres.ll_32.html#I1575|Ford|James F. /Ford/|1927||||
+pres.ll_32.html#I1563|Ford|John (Jack) Gardner /Ford/|16 MAR 1952||||
+pres.ll_32.html#I1562|Ford|Michael Gerald /Ford/|15 MAR 1950||||
+pres.ll_32.html#I1574|Ford|Richard A. /Ford/|||||
+pres.ll_32.html#I1564|Ford|Steven Meigs /Ford/|19 MAY 1956||||
+pres.ll_32.html#I1565|Ford|Susan Elizabeth /Ford/|6 JUL 1957||||
+pres.ll_32.html#I1573|Ford|Thomas G. /Ford/|1918||||
+pres.ll_15.html#I701|Foree|Lucretia Green /Foree/|||||
+pres.ll_19.html#I911|Foree|Peter /Foree/|||||
+pres.ll_6.html#I271|Forster|Susanna /Forster/|||||
+pres.ll_37.html#I1827|Foster|Ann Eliza /Foster/|||||
+pres.ll_23.html#I1111|Foster|Lydia /Foster/|||||
+pres.ll_19.html#I924|Fout|Baltis (Balthazar) /Fout/|||MAY 1751|Frederick Co., MD|
+pres.ll_19.html#I907|Fout|Maria Margareth /Fout/|14 JAN 1731/32|Frederick Co., MD|6 OCT 1795|Frederick Co., MD|
+pres.ll_14.html#I652|France|Margaret of /France/|||||
+pres.ll_26.html#I1300|French|Hannah /French/|||||
+pres.ll_26.html#I1299|French|William /French/|||||
+pres.ll_40.html#I1953|Fuller|Eliza Howe /Fuller/|||||
+pres.ll_3.html#I135|GALBRAITH|Audley /GALBRAITH/|||||
+pres.ll_3.html#I136|GALBRAITH|Charlotte /GALBRAITH/|||||
+pres.ll_2.html#I75|GLASGOW|Amelia /GLASGOW/|||||
+pres.ll_4.html#I166|GRIFFITH|Ann /GRIFFITH/|1 FEB 1754||6 JUL 1792||
+pres.ll_4.html#I195|GRIFFITH|Elizabeth Price /GRIFFITH/|28 APR 1827|West Pike Run, Washington Co., Pennsylva|3 MAY 1923|Whittier, California|
+pres.ll_4.html#I172|GRIFFITH|Isaac /GRIFFITH/|5 JAN 1720/21|Richland, Bucks County, PA||Gunpowder, Maryland|
+pres.ll_3.html#I142|GRILLEY|Paul /GRILLEY/|||||
+pres.ll_1.html#I14|GRISHAM|Edith Vallie (Valeria) /GRISHAM/|2 NOV 1901|Bodcaw, Nevada Co., AR|17 JAN 1968|Hope, Hempstead Co., AR|
+pres.ll_1.html#I37|GRISHAM|James B. /GRISHAM/|18 FEB 1843|TN|19 APR 1915|Parker Twp., Nevada Co., AR|
+pres.ll_1.html#I22|GRISHAM|Lemma Newell /GRISHAM/|22 JUN 1879|Union Parish, LA|28 SEP 1954|Hope, AR|
+pres.ll_2.html#I58|GRISHAM\GRISSOM|Moses /GRISHAM\GRISSOM/|1792|Lincoln Co., NC|FEB 1880|Macon Co., TN|
+pres.ll_33.html#I1650|Gailor|Ellen Douglas /Gailor/|1897||17 FEB 1954||
+pres.ll_22.html#I1072|Galloway|Helen of /Galloway/|||||
+pres.ll_22.html#I1066|Galloway|Uchtred of /Galloway/|||||
+pres.ll_17.html#I850|Gallup|Elizabeth /Gallup/|||AFT    1736||
+pres.ll_43.html#I2139|Galt|Norman /Galt/|||||
+pres.ll_32.html#I1600|Gardiner|Julia /Gardiner/|4 MAY 1820|Gardiners Island, New York|10 JUL 1889|Richmond, Virginia|
+pres.ll_33.html#I1633|Gardiner|Sarah Griswold /Gardiner/|||||
+pres.ll_32.html#I1567|Gardner|Dorothy Ayer /Gardner/|1892||1967||
+pres.ll_41.html#I2013|Gardner|Mary /Gardner/|1648||1722||
+pres.ll_39.html#I1907|Garfield|Abraham (Abram) /Garfield/|1799||1833||
+pres.ll_38.html#I1899|Garfield|Abram /Garfield/|21 NOV 1872||16 OCT 1958|Cleveland, Ohio|
+pres.ll_38.html#I1900|Garfield|Edward /Garfield/|25 DEC 1874|Hiram, Ohio|25 OCT 1876|Washington D.C.|
+pres.ll_38.html#I1894|Garfield|Eliza Arabella /Garfield/|3 JUL 1860|Hiram, Ohio|3 DEC 1863|Hiram, Ohio|
+pres.ll_38.html#I1895|Garfield|Harry Augustus /Garfield/|11 OCT 1863|Hiram, Ohio|12 DEC 1942|Williamstown, Massachusetts|
+pres.ll_38.html#I1898|Garfield|Irvin McDowell /Garfield/|3 AUG 1870|Hiram, Ohio|19 JUL 1951|Boston, Massachusetts|
+pres.ll_38.html#I1892|Garfield|James Abram /Garfield/|19 NOV 1831|Orange, Ohio|19 SEP 1881|Elberon, New Jersey|
+pres.ll_39.html#I1912|Garfield|James Ballou /Garfield/|1826||1829||
+pres.ll_38.html#I1896|Garfield|James Rudolf /Garfield/|17 OCT 1865|Hiram, Ohio|26 AUG 1930||
+pres.ll_38.html#I1897|Garfield|Mary /Garfield/|16 JAN 1867|Washington D.C.|30 DEC 1947|Pasadena, California|
+pres.ll_39.html#I1911|Garfield|Mary /Garfield/|1824||1884||
+pres.ll_39.html#I1909|Garfield|Mehitabel /Garfield/|1821||||
+pres.ll_39.html#I1910|Garfield|Thomas /Garfield/|1822||||
+pres.ll_13.html#I630|Gascoigne|Elizabeth /Gascoigne/|||||
+pres.ll_13.html#I631|Gascoigne|William /Gascoigne/|||||
+pres.ll_7.html#I316|Gaskill|Hope /Gaskill/|13 OCT 1743||||
+pres.ll_18.html#I898|Gault|Elizabeth /Gault/|||||
+pres.ll_18.html#I893|Gault|Jonathan /Gault/|||||
+pres.ll_10.html#I458|Gentyl|Agnes le /Gentyl/|||||
+pres.ll_18.html#I873|George|Sarah /George/|ABT    1695||AFT    1732|Dorchester, MA|
+pres.ll_24.html#I1179|Gerard|Constance /Gerard/|||||
+pres.ll_24.html#I1178|Gerard|John /Gerard/|||||
+pres.ll_8.html#I371|Gilman|Bridget /Gilman/|||||
+pres.ll_8.html#I394|Gilman|Edward /Gilman/|||||
+pres.ll_26.html#I1287|Gilman|Edward /Gilman/|||||
+pres.ll_26.html#I1288|Gilman|Mary /Gilman/|||1680/81|Hingham, Massachusetts|
+pres.ll_28.html#I1376|Gladding|Susanna /Gladding/|||||
+pres.ll_42.html#I2088|Glasscock|Elizabeth /Glasscock/|||||
+pres.ll_21.html#I1042|Glemham|Anne /Glemham/|||||
+pres.ll_21.html#I1041|Glemham|John /Glemham/|||||
+pres.ll_33.html#I1638|Glinn|Fannie /Glinn/|||||
+pres.ll_25.html#I1212|Goddard|Edward /Goddard/|||||
+pres.ll_25.html#I1215|Goddard|Josiah /Goddard/|||||
+pres.ll_25.html#I1217|Goddard|Rachel /Goddard/|||||
+pres.ll_25.html#I1213|Goddard|Willaim /Goddard/|ABT    1630||1690/91||
+pres.ll_17.html#I822|Goffe|? /Goffe/|||||
+pres.ll_17.html#I820|Goffe|John /Goffe/|||||
+pres.ll_17.html#I823|Goffe|Martha /Goffe/|||AFT    1807|Boston, MA|
+pres.ll_35.html#I1750|Goodhue|Grace Anna /Goodhue/|3 JAN 1879|Burlington, Vermont|8 JUL 1957|Northampton, Massachusetts|
+pres.ll_35.html#I1708|Googins|Ruth Josephine /Googins/|||||
+pres.ll_42.html#I2087|Gordon|Sarah /Gordon/|||||
+pres.ll_32.html#I1583|Gordy|Lillian (Bessie) /Gordy/|1898||1983||
+pres.ll_21.html#I1036|Goushill|Elizabeth /Goushill/|||||
+pres.ll_21.html#I1035|Goushill|Robert /Goushill/|||||
+pres.ll_33.html#I1622|Govan|Margaret /Govan/|||||
+pres.ll_24.html#I1152|Graham|Margaret /Graham/|||||
+pres.ll_38.html#I1869|Grant|(Hiram) Ulysses Simpson /Grant/|27 APR 1822|Point Pleasant, Clermont County, Ohio|23 JUL 1885|Mount McGregor, New York|
+pres.ll_38.html#I1885|Grant|Clara Rachel /Grant/|1828||1865||
+pres.ll_38.html#I1873|Grant|Ellen (Nellie) Wrenshall /Grant/|4 JUL 1855|Washington-wish|30 AUG 1922|Chicago, Illinois|
+pres.ll_38.html#I1871|Grant|Frederick Dent /Grant/|30 MAY 1850|St Louis, Missouri|11 APR 1912|New York|
+pres.ll_38.html#I1874|Grant|Jesse Root /Grant/|6 FEB 1858|Hardscrabble|8 JUN 1934|Los Altos, California|
+pres.ll_38.html#I1882|Grant|Jesse Root /Grant/|1794||1873||
+pres.ll_18.html#I854|Grant|Mary /Grant/|||AFT    1681||
+pres.ll_38.html#I1888|Grant|Mary Frances /Grant/|1839||||
+pres.ll_38.html#I1887|Grant|Orvil Lynch /Grant/|1835||1881||
+pres.ll_38.html#I1884|Grant|Samuel Simpson /Grant/|1825||1861||
+pres.ll_38.html#I1872|Grant|Ulysses Simpson /Grant/|22 JUL 1852|Bethel, Claremont Co., Ohio|26 SEP 1929|San Diego, California|
+pres.ll_38.html#I1886|Grant|Virginia Paine /Grant/|1832||||
+pres.ll_25.html#I1238|Graunt|Isabel /Graunt/|||||
+pres.ll_9.html#I430|Greeke|Margaret /Greeke/|||||
+pres.ll_15.html#I706|Green|? /Green/|||||
+pres.ll_19.html#I942|Greene|Elizabeth /Greene/|||||
+pres.ll_19.html#I939|Greene|Thomas /Greene/|||||
+pres.ll_19.html#I940|Greene|Thomas /Greene/|||||
+pres.ll_16.html#I752|Gregory|Rebecca /Gregory/|||||
+pres.ll_37.html#I1806|Grey|French Strother /Grey/|||||
+pres.ll_31.html#I1502|Grieb|Louise Sandra /Grieb/|||||
+pres.ll_5.html#I243|Griffith|Abraham /Griffith/|1679/80|Wales|3 OCT 1760|Richland, Bucks County, Pennsylvania|
+pres.ll_5.html#I215|Griffith|Amos /Griffith/|ABT    1798||1871||
+pres.ll_5.html#I245|Griffith|Howell /Griffith/|||1709/10||
+pres.ll_5.html#I239|Griffith|Jacob /Griffith/|27 FEB 1757|Warrington Twp., York County, Pennsylvan|2 APR 1841|Clover Hill, Washington Co., Pennsylvani|
+pres.ll_6.html#I289|Griffith|William /Griffith/|1713/14|New Castle Co., Delaware|21 SEP 1778|York County, Pennsylvania|
+pres.ll_23.html#I1139|Grosvenor|Elizabeth /Grosvenor/|||||
+pres.ll_23.html#I1138|Grosvenor|Randall /Grosvenor/|||||
+pres.ll_10.html#I500|Grymes|Charles /Grymes/|ABT    1697||ABT    1753||
+pres.ll_10.html#I499|Grymes|John /Grymes/|||1708/09||
+pres.ll_11.html#I502|Grymes|Lucy /Grymes/|||||
+pres.ll_18.html#I874|Guild|Deborah /Guild/|26 JUN 1715||15 AUG 1783||
+pres.ll_18.html#I872|Guild|Israel /Guild/|1689/90||1766||
+pres.ll_21.html#I1045|Gunton|Alice /Gunton/|||||
+pres.ll_4.html#I155|HANK|John /HANK/|||||
+pres.ll_4.html#I171|HARBOUR|Mary /HARBOUR/|||||
+pres.ll_1.html#I31|HAYES|? /HAYES/||Ireland|||
+pres.ll_1.html#I18|HAYES|Hattie /HAYES/|1852|FL|16 AUG 1935|Kossuth, Alcom Co., MS|
+pres.ll_4.html#I158|HEMINGWAY|James /HEMINGWAY/|23 JUL 1801|New Jersey|28 JAN 1893|Missouri|
+pres.ll_4.html#I160|HEMINGWAY|James /HEMINGWAY/|12 APR 1760|Mass.|15 JUL 1822|Mahoning County, Ohio|
+pres.ll_4.html#I157|HEMINGWAY|Jane M. /HEMINGWAY/|30 APR 1824||5 APR 1890||
+pres.ll_1.html#I45|HINES|Elias /HINES/||NC|30 MAY 1846|Tippah Co., AR|
+pres.ll_1.html#I26|HINES|Elizabeth Melvinia /HINES/|1831||1906||
+pres.ll_1.html#I16|HINES|Frances Ellen "Fannie" /HINES/|2 DEC 1857|Tippah Co., MS|11 JUL 1936|Grayson Co., TX|
+pres.ll_1.html#I27|HINES|John F. /HINES/|ABT    1833|TN|11 NOV 1902|Parker Co., TX|
+pres.ll_3.html#I106|HOBBS|Susan Evaline /HOBBS/|3 JUN 1809|Charles Co, MD|||
+pres.ll_2.html#I53|HOWARD|Elizabeth /HOWARD/|4 JUN 1790|SC|19 DEC 1884|Longstreet, Coffee Co., AL|
+pres.ll_1.html#I12|HOWELL|Dorothy /HOWELL/|||||
+pres.ll_2.html#I96|HUSSEY|Elizabeth /HUSSEY/|||||
+pres.ll_2.html#I95|HUSSEY|Thomas /HUSSEY/|||||
+pres.ll_13.html#I644|Hainault|Philippa of /Hainault/|||||
+pres.ll_30.html#I1486|Hall|Anna Rebecca /Hall/|1863||1892||
+pres.ll_9.html#I422|Halstead|Jennet /Halstead/|||||
+pres.ll_9.html#I437|Halstead|John /Halstead/|||||
+pres.ll_35.html#I1702|Halsted|James Addison /Halsted/|||||
+pres.ll_15.html#I728|Hamblen|Ebenezer /Hamblen/|1682/83||1735/36||
+pres.ll_15.html#I729|Hamblen|Thankful /Hamblen/|1688/89||1768||
+pres.ll_15.html#I730|Hamblen|Thankful /Hamblen/|6 AUG 1715|Barnstable, MA|AFT    1768||
+pres.ll_20.html#I957|Hamby|Catherine /Hamby/|||||
+pres.ll_23.html#I1105|Hamby|Edward /Hamby/|||||
+pres.ll_23.html#I1108|Hamby|Robert /Hamby/|||||
+pres.ll_23.html#I1106|Hamby|William /Hamby/|||||
+pres.ll_14.html#I660|Hamerton|Matilda /Hamerton/|||||
+pres.ll_11.html#I548|Hamilton|Cynthia Elinor Beatrix /Hamilton/|1897||1972||
+pres.ll_7.html#I322|Hanks|James (or Abraham) /Hanks/|ABT    1759|NC|ABT    1810||
+pres.ll_7.html#I328|Hanks|Joseph /Hanks/|ABT    1722||ABT    1793|Nelson Co., KY|
+pres.ll_7.html#I340|Hanks|Luke /Hanks/|ABT    1686|Richmond Co., VA|AFT    1757|Lancaster Co., VA|
+pres.ll_7.html#I319|Hanks|Nancy /Hanks/|5 FEB 1784|Campbell Co., KY|5 OCT 1818|Gentryville, IN|
+pres.ll_8.html#I366|Hanks|Thomas /Hanks/|||AFT    1674||
+pres.ll_8.html#I352|Hanks|William /Hanks/|ABT    1650||AFT    1704|Richmond Co., VA|
+pres.ll_40.html#I1985|Harding|Abigail Victoria (Daisy) /Harding/|1876||1935||
+pres.ll_40.html#I1981|Harding|Charity Malvina /Harding/|1867||||
+pres.ll_40.html#I1984|Harding|Charles Alexander /Harding/|1874||1878||
+pres.ll_40.html#I1983|Harding|Eleanor Persilla /Harding/|1872||1878||
+pres.ll_40.html#I1979|Harding|George Tyron /Harding/|1844||1928||
+pres.ll_40.html#I1986|Harding|George Tyron /Harding/|1878||1934||
+pres.ll_40.html#I1982|Harding|Mary Clarissa /Harding/|1868||1913||
+pres.ll_40.html#I1987|Harding|Phoebe Caroline /Harding/|1879||1951||
+pres.ll_40.html#I1977|Harding|Warren Gamaliel /Harding/|2 NOV 1865|Blooming Grove, Ohio|2 AUG 1923|San Francisco, California|
+pres.ll_39.html#I1914|Harper|Jane /Harper/|||||
+pres.ll_36.html#I1775|Harris|Adlai O. /Harris/|||||
+pres.ll_29.html#I1426|Harrison|? (unnamed daughter) /Harrison/|13 JUN 1861||13 JUN 1861||
+pres.ll_7.html#I327|Harrison|Abigail /Harrison/|ABT    1710|Smithtown, Long Island, NY|ABT    1780|Rockingham Co., VA|
+pres.ll_29.html#I1432|Harrison|Anna Symmes /Harrison/|1837||1838||
+pres.ll_29.html#I1442|Harrison|Anna Symmes /Harrison/|1842||1926||
+pres.ll_28.html#I1392|Harrison|Anna Tuthill /Harrison/|28 OCT 1813|North Bend, Ohio|5 JUL 1865||
+pres.ll_29.html#I1439|Harrison|Archibald Irwin /Harrison/|1832||1870||
+pres.ll_28.html#I1382|Harrison|Benjamin /Harrison/|20 AUG 1833|North Bend, Ohio|13 MAR 1901|Indianapolis, Indiana|
+pres.ll_28.html#I1389|Harrison|Benjamin /Harrison/|5 MAY 1806|Vincennes, Indiana|9 JUN 1840||
+pres.ll_29.html#I1405|Harrison|Benjamin /Harrison/|1726||1791||
+pres.ll_28.html#I1391|Harrison|Carter Bassett /Harrison/|26 OCT 1811|Vincennes, Indiana|12 AUG 1839||
+pres.ll_29.html#I1441|Harrison|Carter Bassett /Harrison/|1840||1905||
+pres.ll_29.html#I1428|Harrison|Elizabeth /Harrison/|21 FEB 1897|Indianapolis, Indiana|25 DEC 1955|New York City, New York|
+pres.ll_28.html#I1384|Harrison|Elizabeth Bassett /Harrison/|29 SEP 1796|Fort Washington, (now Cincinnati), Ohio|27 SEP 1846||
+pres.ll_29.html#I1434|Harrison|Elizabeth Short /Harrison/|1825||1904||
+pres.ll_7.html#I338|Harrison|Isaiah /Harrison/|ABT    1666||ABT    1738|Sussex Co., DE|
+pres.ll_28.html#I1393|Harrison|James Findlay /Harrison/|15 MAY 1814|North Bend, Ohio|6 APR 1819||
+pres.ll_29.html#I1444|Harrison|James Findlay /Harrison/|1847||1848||
+pres.ll_29.html#I1445|Harrison|James Irwin /Harrison/|1849||1850||
+pres.ll_28.html#I1385|Harrison|John Cleves Symmes /Harrison/|28 OCT 1798|Fort Washington, (now Cincinnati), Ohio|30 OCT 1830||
+pres.ll_29.html#I1440|Harrison|John Irwin /Harrison/|1839||1839||
+pres.ll_28.html#I1388|Harrison|John Scott /Harrison/|4 OCT 1804|Vincennes, Indiana|25 MAY 1878|Point Farm, Nr North Bend, Ohio|
+pres.ll_29.html#I1443|Harrison|John Scott /Harrison/|1844||1926||
+pres.ll_28.html#I1386|Harrison|Lucy Singleton /Harrison/|5 SEP 1800|Richmond, Virginia|7 APR 1826|Cincinnati, Ohio|
+pres.ll_29.html#I1433|Harrison|Mary Jane /Harrison/|1835||1867||
+pres.ll_29.html#I1425|Harrison|Mary Scott /Harrison/|3 APR 1858|Indianapolis, Indiana|28 OCT 1930|Greenwich, Connecticut|
+pres.ll_28.html#I1390|Harrison|Mary Symmes /Harrison/|28 JAN 1809|Vincennes, Indiana|16 NOV 1842||
+pres.ll_29.html#I1424|Harrison|Russell Benjamin /Harrison/|12 AUG 1854|Oxford, Ohio|13 DEC 1936|Indianapolis, Indiana|
+pres.ll_29.html#I1436|Harrison|Sarah Lucretia /Harrison/|1829||||
+pres.ll_28.html#I1381|Harrison|William Henry /Harrison/|9 FEB 1773|Berkeley, Charles City Co., Virginia|4 APR 1841|White House, Washington D.C.|
+pres.ll_28.html#I1387|Harrison|William Henry /Harrison/|3 SEP 1802|Vincennes, Indiana|6 FEB 1838|North Bend, Ohio|
+pres.ll_29.html#I1435|Harrison|William Henry /Harrison/|1827||1829||
+pres.ll_41.html#I2004|Harrod|Ann /Harrod/|1774||1846||
+pres.ll_6.html#I292|Harry|Miriam /Harry/|||19 MAR 1809||
+pres.ll_6.html#I267|Hartley|Deborah /Hartley/|||||
+pres.ll_9.html#I436|Hartley|Margaret /Hartley/||Stone Edge, Lancashire, England|||
+pres.ll_21.html#I1006|Hastings|Anne /Hastings/|||||
+pres.ll_21.html#I1005|Hastings|Edward /Hastings/|||||
+pres.ll_34.html#I1663|Hastings|Eurotas Parmalee /Hastings/|||||
+pres.ll_15.html#I717|Hastings|Martha /Hastings/|27 APR 1722||23 JUN 1806||
+pres.ll_15.html#I715|Hastings|Samuel /Hastings/|||||
+pres.ll_7.html#I309|Haven|Elizabeth /Haven/|2 SEP 1736||||
+pres.ll_20.html#I961|Hawkins|Hannah /Hawkins/|||||
+pres.ll_42.html#I2076|Hay|George /Hay/|15 DEC 1765|Williamsburg, Virginia|21 SEP 1830|Richmond, Virginia|
+pres.ll_39.html#I1933|Hayes|? (Son) /Hayes/|1814||1814||
+pres.ll_5.html#I227|Hayes|Eliizabeth /Hayes/|||||
+pres.ll_39.html#I1936|Hayes|Fanny Arabella /Hayes/|1820||1856||
+pres.ll_39.html#I1923|Hayes|Frances (Fanny) /Hayes/|2 SEP 1867|Cincinnati, Ohio|18 MAR 1950|Lewiston, Maine|
+pres.ll_39.html#I1922|Hayes|George Cook /Hayes/|29 SEP 1864|Chillicothe, Ohio|24 MAY 1866|Chillicothe, Ohio|
+pres.ll_39.html#I1919|Hayes|James Webb /Hayes/|20 MAR 1856|Cincinnati, Ohio|26 JUL 1935|Marion, Ohio|
+pres.ll_39.html#I1921|Hayes|Joseph Thompson /Hayes/|21 DEC 1861|Cincinnati, Ohio|24 JUN 1863|Nr Charleston, West Virginia|
+pres.ll_39.html#I1934|Hayes|Lorenzo /Hayes/|1815||1825||
+pres.ll_39.html#I1925|Hayes|Manning Force /Hayes/|1 AUG 1873|Fremont, Ohio|28 AUG 1874|Fremont, Ohio|
+pres.ll_39.html#I1931|Hayes|Rutherford /Hayes/|1787||1822||
+pres.ll_39.html#I1916|Hayes|Rutherford Birchard /Hayes/|4 OCT 1822|Delaware, Ohio|17 JAN 1893|Fremont, Ohio|
+pres.ll_39.html#I1920|Hayes|Rutherford Platt /Hayes/|24 JUN 1858|Cincinnati, Ohio|31 JUL 1927|Tampa, Florida|
+pres.ll_39.html#I1935|Hayes|Sarah Sophia /Hayes/|1817||1821||
+pres.ll_39.html#I1918|Hayes|Sardis Birchard (Austin) /Hayes/|4 NOV 1853|Cincinnati, Ohio|24 JAN 1926|Toledo, Ohio|
+pres.ll_39.html#I1924|Hayes|Scott Russell /Hayes/|8 FEB 1871|Columbus, Ohio|6 MAY 1923|Croton-on-Hudson, New York|
+pres.ll_27.html#I1313|Hedge|Elizabeth /Hedge/|||||
+pres.ll_41.html#I2023|Hellen|Mary Catherine /Hellen/|ABT    1806||1870||
+pres.ll_7.html#I308|Hemingway|Isaac /Hemingway/|17 JUL 1730|Framingham, Mass.|31 JAN 1778||
+pres.ll_35.html#I1724|Henry|Lou /Henry/|29 MAR 1874|Waterloo, Iowa|7 JAN 1944|Waldorf Astoria, New York City, New York|
+pres.ll_37.html#I1826|Henry|Robert /Henry/|||||
+pres.ll_24.html#I1163|Hepburn|Adam /Hepburn/|||||
+pres.ll_24.html#I1164|Hepburn|Elizabeth /Hepburn/|||||
+pres.ll_25.html#I1230|Heritage|Agnes /Heritage/|||||
+pres.ll_37.html#I1850|Herndon|Ellen Lewis /Herndon/|30 AUG 1837|Culpeper, Virginia|12 JAN 1880|New York|
+pres.ll_16.html#I797|Herrick|Daniel /Herrick/|1707/08||||
+pres.ll_16.html#I799|Herrick|Samuel /Herrick/|2 APR 1732|Coventry, CT|ABT    1797|Springfield, NY|
+pres.ll_16.html#I800|Herrick|Sarah /Herrick/|21 FEB 1764||ABT    1823||
+pres.ll_7.html#I326|Herring|Alexander /Herring/|ABT    1708||ABT    1778|Rockingham Co., VA|
+pres.ll_7.html#I336|Herring|Alexander /Herring/|||ABT    1735|Sussex Co., DE|
+pres.ll_7.html#I321|Herring|Bathsheba /Herring/|ABT    1750||ABT    1836||
+pres.ll_40.html#I1958|Herron|Helen (Nellie) /Herron/|2 JUN 1861|Cincinnati, Ohio|22 MAY 1943|Washington D.C.|
+pres.ll_14.html#I654|Hesketh|Helen /Hesketh/|||||
+pres.ll_15.html#I716|Hill|Mary /Hill/|||||
+pres.ll_39.html#I1902|Hills|Helen Newell /Hills/|12 FEB 1866|Cleveland, Ohio|26 AUG 1930||
+pres.ll_23.html#I1101|Hilton|Elizabeth /Hilton/|||||
+pres.ll_22.html#I1098|Hilton|Godfrey /Hilton/|||||
+pres.ll_22.html#I1099|Hilton|Godfrey /Hilton/|||||
+pres.ll_15.html#I732|Hinckley|Mary (or Mercy) /Hinckley/|22 JUL 1678|Barnstable Co., MA|1740/41||
+pres.ll_28.html#I1358|Hinckley|Samuel /Hinckley/|||||
+pres.ll_28.html#I1357|Hinckley|Thomas /Hinckley/|||||
+pres.ll_37.html#I1802|Hoard|Sophia Elizabeth /Hoard/|||||
+pres.ll_12.html#I562|Hodgson|Henrietta Mildred /Hodgson/|1805||1891||
+pres.ll_12.html#I559|Hodgson|Robert /Hodgson/|1739/40||1808||
+pres.ll_43.html#I2116|Hoes|Barent /Hoes/|||||
+pres.ll_42.html#I2096|Hoes|Hannah /Hoes/|8 MAR 1783|Kinderhook, New York|5 FEB 1819|Albany, New York|
+pres.ll_43.html#I2107|Hoes|Maria /Hoes/|1748||1817||
+pres.ll_43.html#I2118|Hogeboom|Catherine /Hogeboom/|||||
+pres.ll_12.html#I591|Holand|Eleanor /Holand/|||1405||
+pres.ll_13.html#I604|Holand|Thomas /Holand/|||||
+pres.ll_13.html#I647|Holand|Thomas /Holand/|||||
+pres.ll_27.html#I1308|Holbrook|Hannah /Holbrook/|||||
+pres.ll_27.html#I1306|Holbrook|John /Holbrook/|||||
+pres.ll_27.html#I1304|Holbrook|Thomas /Holbrook/|||1676/77|Weymouth, Massachusetts|
+pres.ll_14.html#I692|Holliday|Adam /Holliday/|ABT    1680|Ireland|||
+pres.ll_14.html#I700|Holliday|John James /Holliday/|23 JUL 1819|Pike Co., MO|18 SEP 1881|St. Louis, MO|
+pres.ll_14.html#I698|Holliday|Joseph /Holliday/|ABT    1790|KY|1870|Monroe Co., MO|
+pres.ll_15.html#I702|Holliday|Nannie E. /Holliday/|ABT    1848||25 FEB 1942||
+pres.ll_14.html#I694|Holliday|Samuel /Holliday/|ABT    1710|Ireland|||
+pres.ll_14.html#I696|Holliday|William /Holliday/|ABT    1755|Rathfriland, Down, Ireland|||
+pres.ll_8.html#I363|Holmes|Lydia /Holmes/|||AFT    1693||
+pres.ll_34.html#I1683|Holmes|Mary Jane /Holmes/|15 MAR 1821||15 FEB 1878||
+pres.ll_8.html#I380|Holmes|Obadiah /Holmes/|1608/09|England|1681/82||
+pres.ll_38.html#I1875|Honore|Ida Marie /Honore/|4 JUN 1854|Louisville, Kentucky|1930|Washington D.C.|
+pres.ll_35.html#I1726|Hoover|Allan Henry /Hoover/|17 JUL 1907|London, England|||
+pres.ll_35.html#I1725|Hoover|Herbert Charles /Hoover/|28 MAR 1905|San Francisco, California|9 JUL 1969|Pasadena, California|
+pres.ll_35.html#I1723|Hoover|Herbert Clark /Hoover/|10 AUG 1874|West Branch, Iowa|20 OCT 1964|New York City, New York|
+pres.ll_35.html#I1729|Hoover|Jesse Clark /Hoover/|1847||1880||
+pres.ll_35.html#I1732|Hoover|Mary (May) /Hoover/|1876||||
+pres.ll_35.html#I1731|Hoover|Theodore Jesse /Hoover/|1871||1955||
+pres.ll_16.html#I761|Horton|? /Horton/|||||
+pres.ll_16.html#I764|Horton|Comfort /Horton/|29 MAR 1743|Rehoboth, MA|14 JUN 1805|Rehoboth, MA|
+pres.ll_16.html#I759|Horton|Jonathan /Horton/|ABT    1695||ABT    1774||
+pres.ll_16.html#I765|Horton|Sarah /Horton/|28 DEC 1777|Rehoboth, MA|13 MAY 1856|Rehoboth, MA|
+pres.ll_16.html#I766|Horton|Submit /Horton/|||18 APR 1778|Rehoboth, MA|
+pres.ll_16.html#I762|Horton|Thomas /Horton/|ABT    1698||1732/33||
+pres.ll_14.html#I681|House|Deborah /House/|6 APR 1742|Lebanon, CT|ABT    1819|Springport, NY|
+pres.ll_26.html#I1295|House|Hannah /House/|||||
+pres.ll_18.html#I877|House|John /House/|8 DEC 1715|Little Compton, RI|4 JUL 1805|Hebron, CT|
+pres.ll_18.html#I875|House|Nathaniel /House/|||1763|Lebanon, CT|
+pres.ll_17.html#I824|Howard|Amos /Howard/|ABT    1696|prob. Lynn, MA|||
+pres.ll_17.html#I826|Howard|Ebenezer /Howard/|12 OCT 1730|Boston, MA|ABT    1783|Boston, MA|
+pres.ll_17.html#I828|Howard|Harriet /Howard/|27 MAR 1782|Boston, MA|27 JUL 1847|Cambridge, MA|
+pres.ll_17.html#I827|Howard|Samuel /Howard/|ABT    1752|Boston, MA|JAN 1797|Boston, MA|
+pres.ll_35.html#I1748|Howe|George /Howe/|||||
+pres.ll_26.html#I1271|Howland|Henry /Howland/|||1634/35|Fen Stanton, Huntingdonshire, England|
+pres.ll_26.html#I1275|Howland|Hope /Howland/|||||
+pres.ll_26.html#I1273|Howland|John /Howland/|||1671/72|Plymouth, Plymouth Co., Massachusetts|
+pres.ll_20.html#I991|Howland|Joseph /Howland/|||||
+pres.ll_20.html#I996|Howland|Joseph /Howland/|||||
+pres.ll_20.html#I992|Howland|Nathaniel /Howland/|||||
+pres.ll_20.html#I994|Howland|Nathaniel /Howland/|||||
+pres.ll_35.html#I1720|Howland|Rebecca Brien /Howland/|1831||1876||
+pres.ll_20.html#I998|Howland|Susan /Howland/|||||
+pres.ll_34.html#I1665|Hoyt|William Edward /Hoyt/|||||
+pres.ll_26.html#I1279|Huckins|Hope /Huckins/|||||
+pres.ll_26.html#I1278|Huckins|John /Huckins/|||||
+pres.ll_21.html#I1004|Hungerford|Mary /Hungerford/|||||
+pres.ll_21.html#I1003|Hungerford|Thomas /Hungerford/|||||
+pres.ll_22.html#I1053|Hunt|Elizabeth /Hunt/|||||
+pres.ll_22.html#I1052|Hunt|Ephraim /Hunt/|||||
+pres.ll_5.html#I208|Hunt|Margaret /Hunt/|1804|Smith Twp., Washington Co., Pennsylvania|1876|Vinton County, Ohio|
+pres.ll_5.html#I223|Hunt|William /Hunt/|||||
+pres.ll_34.html#I1691|Hurst|Susan /Hurst/|||||
+pres.ll_7.html#I302|Hussey|Christopher /Hussey/|1597/98||||
+pres.ll_5.html#I242|Hussey|Elizabeth /Hussey/|3 NOV 1759|Pennsylvania|25 MAR 1847||
+pres.ll_6.html#I295|Hussey|John /Hussey/|AFT    1703||1770|Newberry, York County, Pennsylvania|
+pres.ll_6.html#I298|Hussey|John /Hussey/|1675/76||1732/33||
+pres.ll_6.html#I300|Hussey|John /Hussey/|29 FEB 1634/35||1706/07|New Castle Co., Delaware|
+pres.ll_7.html#I306|Hussey|John /Hussey/|||||
+pres.ll_5.html#I240|Hussey|Lydia /Hussey/|27 MAR 1757|York County, Pennsylvania|21 SEP 1843|Washington Co., Pennsylvania|
+pres.ll_6.html#I291|Hussey|Record /Hussey/|||5 APR 1784|Warrington, York County, Pennsylvania|
+pres.ll_37.html#I1825|Huston|James J. /Huston/|||||
+pres.ll_20.html#I956|Hutchinson|Edward /Hutchinson/|||||
+pres.ll_23.html#I1110|Hutchinson|Edward /Hutchinson/|||||
+pres.ll_20.html#I958|Hutchinson|Elisha /Hutchinson/|||||
+pres.ll_20.html#I960|Hutchinson|Elisha /Hutchinson/|1640/41||1716/17||
+pres.ll_23.html#I1112|Hutchinson|Elizabeth /Hutchinson/|||||
+pres.ll_42.html#I2092|Hutchinson|Elizabeth /Hutchinson/|ABT    1740||1781||
+pres.ll_20.html#I962|Hutchinson|Hannah /Hutchinson/|||||
+pres.ll_20.html#I955|Hutchinson|William /Hutchinson/|||||
+pres.ll_8.html#I381|Hyde|Katherine /Hyde/|||||
+pres.ll_6.html#I299|Inskeep|Ann /Inskeep/|||||
+pres.ll_23.html#I1142|Irby|Olive /Irby/|||||
+pres.ll_43.html#I2105|Irving|Henrietta Eckford /Irving/|13 APR 1821|Bournemouth, England|||
+pres.ll_28.html#I1399|Irwin|Elizabeth Ramsey /Irwin/|18 JUL 1810|Mercersburg, Pennsylvania|15 AUG 1850|North Bend, Ohio|
+pres.ll_28.html#I1397|Irwin|Jane Findlay /Irwin/|1804||1846||
+pres.ll_4.html#I169|JOHNS|Hannah /JOHNS/|1727/28||15 NOV 1791||
+pres.ll_4.html#I162|JOHNSON|Abigail /JOHNSON/|||1731/32||
+pres.ll_38.html#I1867|Jackson|Alice Bridge /Jackson/|||||
+pres.ll_42.html#I2089|Jackson|Andrew /Jackson/|15 MAR 1767|Waxhaws, South Carolina|8 JUN 1845|Nashville, Tennessee|
+pres.ll_42.html#I2091|Jackson|Andrew /Jackson/|ABT    1730||1767||
+pres.ll_42.html#I2093|Jackson|Hugh /Jackson/|1762/63||1779||
+pres.ll_42.html#I2094|Jackson|Robert /Jackson/|1763/65||1781||
+pres.ll_26.html#I1290|Jacob|Deborah /Jacob/|||||
+pres.ll_26.html#I1289|Jacob|Nicholas /Jacob/|||||
+pres.ll_43.html#I2104|James|Ellen King /James/|20 JAN 1813||3 OCT 1849||
+pres.ll_37.html#I1847|Jameson|Hugh /Jameson/|||||
+pres.ll_26.html#I1264|Jasper|Elizabeth /Jasper/|||||
+pres.ll_41.html#I2042|Jefferson|? (unnamed Son) /Jefferson/|1750||1750||
+pres.ll_41.html#I2029|Jefferson|? (unnamed son) /Jefferson/|28 MAY 1777|Monticello,Charlottesville,Albemarle,VA|14 JUN 1777|Monticello,Charlottesville,Albemarle,VA|
+pres.ll_41.html#I2044|Jefferson|Anna Scott /Jefferson/|1755||1828||
+pres.ll_41.html#I2039|Jefferson|Elizabeth /Jefferson/|1744||1773||
+pres.ll_41.html#I2037|Jefferson|Jane /Jefferson/|1740||1765||
+pres.ll_41.html#I2028|Jefferson|Jane Randolph /Jefferson/|3 APR 1774|Monticello,Charlottesville,Albemarle,VA|SEP 1775|Monticello,Charlottesville,Albemarle,VA|
+pres.ll_41.html#I2043|Jefferson|Lucy /Jefferson/|1752||||
+pres.ll_41.html#I2031|Jefferson|Lucy Elizabeth /Jefferson/|3 NOV 1780|Monticello,Charlottesville,Albemarle,VA|17 APR 1804|Monticello,Charlottesville,Albemarle,VA|
+pres.ll_41.html#I2032|Jefferson|Lucy Elizabeth /Jefferson/|8 MAY 1782|Monticello,Charlottesville,Albemarle,VA|ABT 13 OCT 1784|Eppington|
+pres.ll_41.html#I2040|Jefferson|Martha /Jefferson/|1746||1811||
+pres.ll_41.html#I2027|Jefferson|Martha (Patsy) /Jefferson/|27 SEP 1772|Monticello,Charlottesville,Albemarle,VA|10 OCT 1836|Edgehill, King George Co., Virginia|
+pres.ll_41.html#I2038|Jefferson|Mary /Jefferson/|1741||1817||
+pres.ll_41.html#I2030|Jefferson|Mary (Maria) /Jefferson/|1 AUG 1778|Monticello,Charlottesville,Albemarle,VA|15 APR 1871|Monticello,Charlottesville,Albemarle,VA|
+pres.ll_41.html#I2035|Jefferson|Peter /Jefferson/|1708||1757||
+pres.ll_41.html#I2041|Jefferson|Peter Field /Jefferson/|1748||1748||
+pres.ll_41.html#I2045|Jefferson|Randolph /Jefferson/|1755||1815||
+pres.ll_41.html#I2025|Jefferson|Thomas /Jefferson/|13 APR 1743|Shadwell, Albemarle Co., Virginia|4 JUL 1826|Monticello, Charlottesville, Virginia|
+pres.ll_42.html#I2052|Jefferson|Thomas /Jefferson/|1679/80||ABT    1731||
+pres.ll_28.html#I1368|Jenney|Abigail /Jenney/|||||
+pres.ll_28.html#I1364|Jenney|John /Jenney/|||1642/43|Plymouth, Plymouth Co., Massachusetts|
+pres.ll_28.html#I1366|Jenney|Sarah /Jenney/|||||
+pres.ll_11.html#I501|Jennings|Frances /Jennings/|||||
+pres.ll_11.html#I536|Jerome|Jennie /Jerome/|||||
+pres.ll_29.html#I1450|Johnson|Andrew /Johnson/|29 DEC 1808|Raleigh, North Carolina|31 JUL 1875|Carter's Sta., Tennessee|
+pres.ll_30.html#I1456|Johnson|Andrew (Frank) /Johnson/|5 AUG 1852|Greenville, Tennessee|12 MAR 1879|Elizabethton, Tennessee|
+pres.ll_30.html#I1453|Johnson|Charles /Johnson/|19 FEB 1830|Greeneville, Tennessee|4 APR 1863|Nashville, Tennessee|
+pres.ll_30.html#I1464|Johnson|Elizabeth /Johnson/|1806||||
+pres.ll_30.html#I1461|Johnson|Jacob /Johnson/|1778||1812||
+pres.ll_43.html#I2131|Johnson|Josefa Hermine /Johnson/|1912||1961||
+pres.ll_41.html#I2018|Johnson|Louisa Catherine /Johnson/|12 FEB 1775|London, England|15 MAY 1852|Washington D.C.|
+pres.ll_43.html#I2133|Johnson|Lucia Huffman /Johnson/|1916||||
+pres.ll_28.html#I1398|Johnson|Lucretia Knapp /Johnson/|16 SEP 1804|Boone Co., Kentucky|6 FEB 1830||
+pres.ll_43.html#I2125|Johnson|Lucy (Luci) Baines /Johnson/|2 JUL 1947||||
+pres.ll_43.html#I2124|Johnson|Lynda Bird /Johnson/|19 MAR 1944||||
+pres.ll_43.html#I2122|Johnson|Lyndon Baines /Johnson/|27 AUG 1908|Nr Stonewall, Texas|22 JAN 1973|San Antonio, Texas|
+pres.ll_30.html#I1452|Johnson|Martha /Johnson/|25 OCT 1828|Greeneville, Tennessee|10 JUL 1901|Greeneville, Tennessee|
+pres.ll_30.html#I1454|Johnson|Mary /Johnson/|8 MAY 1832|Greeneville, Tennessee|19 APR 1883|Bluff City, Tennessee|
+pres.ll_43.html#I2130|Johnson|Rebekah Luruth /Johnson/|1910||||
+pres.ll_30.html#I1455|Johnson|Robert /Johnson/|22 FEB 1834|Greeneville, Tennessee|22 APR 1869|Greenville, Tennessee|
+pres.ll_43.html#I2132|Johnson|Sam Houston /Johnson/|1914||||
+pres.ll_43.html#I2128|Johnson|Samuel Ealy /Johnson/|1877||1937||
+pres.ll_37.html#I1823|Johnson|Thomas Samuel /Johnson/|||||
+pres.ll_30.html#I1463|Johnson|William /Johnson/|1804||||
+pres.ll_8.html#I360|Jones|Abraham /Jones/|ABT    1630||25 JAN 1717/18|Hull, MA|
+pres.ll_42.html#I2079|Jones|Elizabeth (Eliza) /Jones/|||||
+pres.ll_38.html#I1879|Jones|Frank Hatch /Jones/|||30 AUG 1922|Chicago, Illinois|
+pres.ll_33.html#I1625|Jones|Henry Lightfoot /Jones/|1813|North Carolina|||
+pres.ll_25.html#I1220|Jones|Mary /Jones/|||||
+pres.ll_33.html#I1632|Jones|Mary Morris /Jones/|1 JUN 1865||30 AUG 1931|Sherwood Forest, Virginia|
+pres.ll_7.html#I345|Jones|Sarah /Jones/|||AFT    1701||
+pres.ll_8.html#I374|Jones|Thomas /Jones/|ABT    1602||1679/80||
+pres.ll_1.html#I8|KELLEY|Dick /KELLEY/|||||
+pres.ll_15.html#I725|Keeler|Elijah /Keeler/|17 MAR 1726/27|Ridgefield, CT|AFT    1790||
+pres.ll_15.html#I723|Keeler|Joseph /Keeler/|ABT    1683||ABT    1757||
+pres.ll_15.html#I727|Keeler|Rebecca /Keeler/|29 APR 1751|Ridgefield, CT|24 FEB 1812|Grand River, Upper Canada|
+pres.ll_27.html#I1334|Keeler|Samuel /Keeler/|||||
+pres.ll_37.html#I1836|Kendrick|Anna /Kendrick/|1768||1838||
+pres.ll_31.html#I1511|Kennedy|? (Stillborn) /Kennedy/|23 AUG 1956||23 AUG 1956||
+pres.ll_31.html#I1512|Kennedy|Caroline Bouvier /Kennedy/|27 NOV 1957|New York City, New York|||
+pres.ll_31.html#I1549|Kennedy|Christopher George /Kennedy/|4 JUL 1963|Boston, Suffolk Co., Massachusetts|||
+pres.ll_31.html#I1545|Kennedy|David Anthony /Kennedy/|15 JUN 1955|Washington D.C.|25 APR 1984|Palm Beach, Palm Beach Co., Florida|
+pres.ll_32.html#I1551|Kennedy|Douglas Harriman /Kennedy/|24 MAR 1967|Washington D.C.|||
+pres.ll_31.html#I1526|Kennedy|Edward Moore /Kennedy/|22 FEB 1932|Boston, Suffolk Co., Massachusetts|||
+pres.ll_32.html#I1558|Kennedy|Edward Moore /Kennedy/|26 SEP 1961|Boston, Suffolk Co., Massachusetts|||
+pres.ll_31.html#I1522|Kennedy|Eunice Mary /Kennedy/|10 JUL 1921|Brookline, Norfolk Co., Massachusetts|||
+pres.ll_31.html#I1525|Kennedy|Jean Ann /Kennedy/|20 FEB 1928|Boston, Suffolk Co., New York|||
+pres.ll_31.html#I1509|Kennedy|John Fitzgerald /Kennedy/|29 MAY 1917|Brookline, Norfolk Co., Massachusetts|22 NOV 1963|Dallas, Dallas Co., Texas|
+pres.ll_31.html#I1513|Kennedy|John Fitzgerald /Kennedy/|25 NOV 1960|Washington D.C.|||
+pres.ll_31.html#I1517|Kennedy|Joseph Patrick /Kennedy/|6 SEP 1888|East Boston, Suffolk Co., Massachusetts|18 NOV 1969|Hyannis Port, Barnstable, Massachusetts|
+pres.ll_31.html#I1519|Kennedy|Joseph Patrick /Kennedy/|25 JUL 1915|Hull, Plymouth Co., Massachusetts|12 AUG 1944|Suffolk, England|
+pres.ll_31.html#I1543|Kennedy|Joseph Patrick /Kennedy/|24 SEP 1952|Boston, Suffolk Co., Massachusetts|||
+pres.ll_32.html#I1557|Kennedy|Kara Anne /Kennedy/|27 FEB 1960|Bronxville, Westchester Co., New York|||
+pres.ll_31.html#I1521|Kennedy|Kathleen /Kennedy/|20 FEB 1920|Brookline, Norfolk Co., Massachusetts|13 MAY 1948|Ste-Bauzille, Ardeche, France|
+pres.ll_31.html#I1542|Kennedy|Kathleen Hartington /Kennedy/|4 JUL 1951|Greenwich, Fairfield Co., Connecticut|||
+pres.ll_31.html#I1546|Kennedy|Mary Courtney /Kennedy/|9 SEP 1956|Boston, Suffolk Co., Massachusetts|||
+pres.ll_31.html#I1548|Kennedy|Mary Kerry /Kennedy/|8 SEP 1959|Washington D.C.|||
+pres.ll_31.html#I1550|Kennedy|Matthew Maxwell Taylor /Kennedy/|9 JAN 1965|New York City, New York|||
+pres.ll_31.html#I1547|Kennedy|Michael LeMoyne /Kennedy/|27 FEB 1958|Washington D.C.|||
+pres.ll_31.html#I1523|Kennedy|Patricia /Kennedy/|6 MAY 1924|Brookline, Norfolk Co., Massachusetts|||
+pres.ll_31.html#I1514|Kennedy|Patrick Bouvier /Kennedy/|7 AUG 1963|Otis AF Base,Falmouth,Barnstable Co.,Mas|9 AUG 1963|Boston, Suffolk Co., Massachusetts|
+pres.ll_32.html#I1559|Kennedy|Patrick Joseph /Kennedy/|14 JUL 1967|Boston, Suffolk Co., Massachusetts|||
+pres.ll_31.html#I1524|Kennedy|Robert Francis /Kennedy/|20 NOV 1925|Brookline, Norfolk Co., Massachusetts|6 JUN 1968|Los Angeles,Los Angeles Co.,Massachusett|
+pres.ll_31.html#I1544|Kennedy|Robert Francis /Kennedy/|17 JAN 1954|Washington D.C.|||
+pres.ll_32.html#I1552|Kennedy|Rory Elizabeth Katherine /Kennedy/|12 DEC 1968|Washington D.C.|||
+pres.ll_31.html#I1520|Kennedy|Rosemary (Rose Marie) /Kennedy/|20 FEB 1920|Brookline, Norfolk Co., Massachusetts|||
+pres.ll_42.html#I2086|Kerr|Elizabeth /Kerr/|||||
+pres.ll_32.html#I1570|King|Leslie (Bud) Henry /King/|1923||1976||
+pres.ll_32.html#I1566|King|Leslie Lynch /King/|1881||1941||
+pres.ll_26.html#I1262|King|Margaret /King/|||||
+pres.ll_32.html#I1569|King|Marjorie /King/|1921||||
+pres.ll_32.html#I1571|King|Patricia /King/|1925||||
+pres.ll_16.html#I794|Kingsley|Samuel /Kingsley/|AFT    1693||ABT    1730||
+pres.ll_28.html#I1351|Kingsley|Samuel /Kingsley/|||||
+pres.ll_16.html#I796|Kingsley|Silence /Kingsley/|30 AUG 1727|Easton, MA|||
+pres.ll_40.html#I1978|Kling|Florence Mabel /Kling/|15 AUG 1860|Marion, Ohio|21 NOV 1924|Marion, Ohio|
+pres.ll_25.html#I1240|Knightley|Susan /Knightley/|||||
+pres.ll_36.html#I1761|Knox|Jane /Knox/|1776||1852||
+pres.ll_42.html#I2072|Kortright|Elizabeth /Kortright/|30 JUN 1768|New York City, New York|23 SEP 1830|Oak Hill, Loudoun Co., Virginia|
+pres.ll_11.html#I509|Kytson|Katherine /Kytson/|||||
+pres.ll_9.html#I447|Kytson|Margaret /Kytson/|||||
+pres.ll_11.html#I507|Kytson|Robert /Kytson/|||||
+pres.ll_11.html#I508|Kytson|Thomas /Kytson/|||1540||
+pres.ll_4.html#I177|LANGDON|Mary /LANGDON/|||||
+pres.ll_1.html#I47|LOCKHART|? /LOCKHART/||VA|BEF    1850||
+pres.ll_1.html#I28|LOCKHART|Eliza Emily /LOCKHART/|18 OCT 1832|NC|27 DEC 1904|Tippah Co., MS|
+pres.ll_3.html#I105|LUCKETT|Alfred Peyton /LUCKETT/|12 MAY 1801|Loudon Co, KY|17 APR 1828|Seages Creek, Barren Co, KY|
+pres.ll_3.html#I109|LUCKETT|Charles Edward /LUCKETT/|1860|Jefferson Co, KY|||
+pres.ll_3.html#I113|LUCKETT|Edith /LUCKETT/||Petersburg, VA|||
+pres.ll_3.html#I107|LUCKETT|Edward Hobbs /LUCKETT/|3 JAN 1828|Jefferson Co, KY|10 MAY 1859|Owensbow, KY|
+pres.ll_3.html#I139|LUCKETT|Joseph /LUCKETT/|||||
+pres.ll_3.html#I103|LUCKETT|Levi (Levin) /LUCKETT/|20 DEC 1762|Frederick Co, MD|1829|Loudon Co, KY|
+pres.ll_2.html#I94|LUCKETT|Samuel /LUCKETT/|||||
+pres.ll_2.html#I97|LUCKETT|Samuel /LUCKETT/|10 OCT 1685|Port Tobacco, Charles Co, MD|||
+pres.ll_3.html#I134|LUCKETT|Virginia /LUCKETT/|||||
+pres.ll_3.html#I101|LUCKETT|William /LUCKETT/|1716/17|Frederick Co, MD|1783||
+pres.ll_37.html#I1844|La Framboise|Josephine /La Framboise/|||||
+pres.ll_8.html#I351|Lambe|Frances /Lambe/|||||
+pres.ll_8.html#I364|Lambe|Richard /Lambe/|||||
+pres.ll_13.html#I607|Lancaster|Eleanor of /Lancaster/|||1372||
+pres.ll_13.html#I616|Lancaster|Henry of /Lancaster/|||1345||
+pres.ll_27.html#I1328|Lancock|Susan /Lancock/|||||
+pres.ll_43.html#I2119|Lane|? /Lane/|||||
+pres.ll_37.html#I1821|Lane|Elliott Tod /Lane/|||||
+pres.ll_20.html#I979|Langton|Helen /Langton/|||||
+pres.ll_39.html#I1915|Larabee|Marenus G. /Larabee/|||||
+pres.ll_26.html#I1294|Lathrop|John /Lathrop/|1583/84|England|1652/53|Hingham, Massachusetts|
+pres.ll_26.html#I1298|Lathrop|Mary /Lathrop/|||||
+pres.ll_26.html#I1296|Lathrop|Thomas /Lathrop/|||||
+pres.ll_42.html#I2077|Laurence|Samuel /Laurence/|1799||1867||
+pres.ll_31.html#I1538|Lawford|Christopher Kennedy /Lawford/|1955||||
+pres.ll_31.html#I1529|Lawford|Peter /Lawford/|1923||1984||
+pres.ll_31.html#I1541|Lawford|Robin Elizabeth /Lawford/|1961||||
+pres.ll_31.html#I1539|Lawford|Sydney Maleia /Lawford/|1956||||
+pres.ll_31.html#I1540|Lawford|Victoria Francis /Lawford/|1958||||
+pres.ll_7.html#I310|Leadbetter|Israel /Leadbetter/|||||
+pres.ll_26.html#I1297|Learned|Sarah /Learned/|||||
+pres.ll_35.html#I1734|Leavitt|Cornelius Van Ness /Leavitt/|||||
+pres.ll_30.html#I1467|Lee|Alice Hathaway /Lee/|29 JUL 1861|Chestnut Hill, Boston, Massachusetts|14 FEB 1884|New York City, New York|
+pres.ll_21.html#I1016|Lee|Dorothy /Lee/|||||
+pres.ll_21.html#I1015|Lee|Edmund /Lee/|||||
+pres.ll_11.html#I503|Lee|Henry /Lee/|1728/29||1787||
+pres.ll_11.html#I504|Lee|Henry /Lee/|1756||1818||
+pres.ll_11.html#I506|Lee|Robert E. /Lee/|||||
+pres.ll_5.html#I244|Lester|Hannah /Lester/|1685/86||||
+pres.ll_5.html#I246|Lester|Peter /Lester/||England|1741/42|Pennsylvania|
+pres.ll_41.html#I2050|Lewis|Anna /Lewis/|||||
+pres.ll_37.html#I1803|Lewis|Annah Hornsby /Lewis/|||||
+pres.ll_41.html#I2048|Lewis|Charles Lilburn /Lewis/|||||
+pres.ll_40.html#I1989|Lewis|Ralph Tobias /Lewis/|||||
+pres.ll_16.html#I787|Lewis|Richard /Lewis/|||||
+pres.ll_16.html#I788|Lewis|Susannah /Lewis/|25 MAR 1761|Poughkeepsie, NY|27 JUL 1822|Saratoga, NY|
+pres.ll_9.html#I428|Light|Elizabeth /Light/||Radway Grange, Warwickshire, England|ABT    1599||
+pres.ll_17.html#I819|Lillie|Anna /Lillie/|ABT    1760|Boston, MA|DEC 1804|Andover, MA|
+pres.ll_17.html#I818|Lillie|John /Lillie/|8 AUG 1728|Boston, MA|BEF    1766|Boston, MA?|
+pres.ll_17.html#I816|Lillie|Theophilus /Lillie/|1689/90||1760||
+pres.ll_7.html#I317|Lincoln|Abraham /Lincoln/|12 FEB 1809|Sinking Spring,Hodgenville,Hardin Co.,KY|15 APR 1865|Washington, DC|
+pres.ll_7.html#I320|Lincoln|Abraham /Lincoln/|13 MAY 1744|Berks Co., PA|MAY 1786|Jefferson Co., KY|
+pres.ll_8.html#I370|Lincoln|Edward /Lincoln/|ABT    1575||1638/39|Hingham, Norfolk, England|
+pres.ll_8.html#I391|Lincoln|Edward Baker /Lincoln/|1846||1850||
+pres.ll_7.html#I324|Lincoln|John /Lincoln/|3 MAY 1716|Freehold, NJ|NOV 1788|Linville's Creek, Rockingham Co., VA|
+pres.ll_8.html#I386|Lincoln|John /Lincoln/|||||
+pres.ll_7.html#I332|Lincoln|Mordecai /Lincoln/|24 APR 1686|Hingham, MA|DEC 1736|Amity, PA|
+pres.ll_7.html#I344|Lincoln|Mordecai /Lincoln/|14 JUN 1657|Hingham, MA|28 NOV 1727|Scituate, MA|
+pres.ll_8.html#I382|Lincoln|Richard /Lincoln/||England|1619/20|England|
+pres.ll_8.html#I384|Lincoln|Robert /Lincoln/|||1556|Hingham, England|
+pres.ll_8.html#I387|Lincoln|Robert /Lincoln/|||1543|Hingham, Norfolk, England|
+pres.ll_8.html#I390|Lincoln|Robert Todd /Lincoln/|1843||1926||
+pres.ll_8.html#I358|Lincoln|Samuel /Lincoln/|ABT    1619|England|26 MAY 1690|Hingham, MA|
+pres.ll_7.html#I318|Lincoln|Thomas /Lincoln/|6 JAN 1778|Augusta Co., VA|17 JAN 1851|Farmington, IL|
+pres.ll_8.html#I393|Lincoln|Thomas (Tad) /Lincoln/|1853||1871||
+pres.ll_8.html#I392|Lincoln|William Wallace /Lincoln/|1850||19 FEB 1862|Washington D.C.|
+pres.ll_20.html#I985|Lister|Rosamond /Lister/|||||
+pres.ll_24.html#I1170|Livingston|Agnes /Livingston/|||||
+pres.ll_24.html#I1165|Livingston|Alexander /Livingston/|||||
+pres.ll_24.html#I1168|Livingston|Alexander /Livingston/|||||
+pres.ll_16.html#I789|Livingston|Gilbert /Livingston/|1689/90||1745/46||
+pres.ll_16.html#I792|Livingston|Gilbert James /Livingston/|14 OCT 1758|Poughkeepsie, NY|7 APR 1833|Rome, NY|
+pres.ll_16.html#I791|Livingston|James /Livingston/|29 MAR 1728|Esopus, NY|2 JUN 1790|prob. Poughkeeps, NY|
+pres.ll_24.html#I1172|Livingston|John /Livingston/|||||
+pres.ll_16.html#I793|Livingston|Judith /Livingston/|4 SEP 1785|Poughkeepsie, NY|28 FEB 1858|Columbus, OH|
+pres.ll_24.html#I1174|Livingston|Robert /Livingston/|||||
+pres.ll_24.html#I1166|Livingston|Thomas /Livingston/|||||
+pres.ll_24.html#I1171|Livingston|William /Livingston/|||||
+pres.ll_21.html#I1023|Lloyd|Henry /Lloyd/|||||
+pres.ll_21.html#I1024|Lloyd|Margaret /Lloyd/|||||
+pres.ll_30.html#I1479|Lockwood|Grace Stackpole /Lockwood/|||JUN 1971|Cold Spring Har., New York|
+pres.ll_30.html#I1469|Longworth|Nicholas /Longworth/|5 NOV 1869|Cincinnati, Ohio|9 APR 1931|Aiken, South Carolina|
+pres.ll_28.html#I1363|Lopers|Johanna /Lopers/|||||
+pres.ll_29.html#I1427|Lord|Mary Scott Dimmick /Lord/|30 APR 1858|Honesdale, Pennsylvania|5 JAN 1948|New York|
+pres.ll_28.html#I1355|Loring|Wealthian /Loring/|||||
+pres.ll_27.html#I1326|Low|John /Low/|||||
+pres.ll_27.html#I1311|Low|Mary /Low/|||||
+pres.ll_22.html#I1096|Luttrell|Andrew /Luttrell/|||||
+pres.ll_22.html#I1097|Luttrell|Hawise /Luttrell/|||||
+pres.ll_8.html#I372|Lyford|John /Lyford/|||AFT    1634||
+pres.ll_8.html#I359|Lyford|Martha /Lyford/|AFT    1625|probably Ireland|10 APR 1693|Hingham, MA|
+pres.ll_22.html#I1062|Lyman|Catherine Robbins /Lyman/|||||
+pres.ll_23.html#I1117|Lyman|Joseph /Lyman/|||||
+pres.ll_5.html#I210|Lytle|Elizabeth /Lytle/|27 AUG 1794||18 APR 1831|Harford County, Maryland|
+pres.ll_5.html#I228|Lytle|George /Lytle/|1759|||Baltimore Co., Maryland|
+pres.ll_6.html#I264|Lytle|Guy /Lytle/|||20 MAR 1764|Baltimore Co., Maryland|
+pres.ll_29.html#I1449|Lytle|Marie Sophie Elizabeth /Lytle/|||||
+pres.ll_4.html#I196|MALMSBURY|Benjamin /MALMSBURY/|6 MAY 1779|Burlington Co., New Jersey|3 JUN 1854|Goshen, Mahoning Co., Ohio|
+pres.ll_4.html#I159|MALMSBURY|Hope /MALMSBURY/|7 SEP 1804|Burlington Co., New Jersey|10 MAY 1865|Near West Branch, Iowa|
+pres.ll_2.html#I57|MALONE|Elsey\Alcey /MALONE/|15 MAY 1800|SC|22 APR 1884|Crenshaw Co., AL|
+pres.ll_4.html#I156|MATTHEWS|Miriam /MATTHEWS/|11 AUG 1786||AFT    1860||
+pres.ll_4.html#I168|MATTHEWS|Oliver /MATTHEWS/|28 NOV 1721||17 JAN 1824|Gunpowder, Maryland|
+pres.ll_4.html#I165|MATTHEWS|William /MATTHEWS/|MAR 1755||20 FEB 1844|Baltimore County, Maryland|
+pres.ll_2.html#I64|MAY|Benjamin /MAY/|ABT    1812|NC|||
+pres.ll_1.html#I40|MAY|Sarah Jane /MAY/|NOV 1848|AR|ABT    1909|Hempstead Co., AR|
+pres.ll_2.html#I65|MCBRIDE|Clara /MCBRIDE/|ABT    1822|AR|||
+pres.ll_2.html#I79|MCCALLUM|Sarah /MCCALLUM/|||||
+pres.ll_2.html#I81|MCFARLAIN|Catherine /MCFARLAIN/|10 JAN 1801|Paisley, Renfrow, Scotlnd|||
+pres.ll_2.html#I84|MCFARLANE|John /MCFARLANE/|||||
+pres.ll_2.html#I82|MCFARLANE|William /MCFARLANE/|||||
+pres.ll_43.html#I2143|MCINTOSH|Caroline C /MCINTOSH/|1813||1881||
+pres.ll_3.html#I102|MIDDLETON|Charity /MIDDLETON/|1716/17|Charles Co, MD|||
+pres.ll_2.html#I99|MIDDLETON|John /MIDDLETON/|||||
+pres.ll_4.html#I179|MILHOUS|Franklin /MILHOUS/|4 NOV 1848|Colerain, Belmont County, Ohio|2 FEB 1919|Whittier, California|
+pres.ll_4.html#I181|MILHOUS|Hannah /MILHOUS/|7 MAR 1885|Butlerville, Jennings County, Indiana|30 SEP 1967||
+pres.ll_4.html#I194|MILHOUS|Joshua Vickers /MILHOUS/|31 DEC 1820|Colerain, Belmont Co., Ohio|15 APR 1893|Bigger Twp., Jennings Co., Indiana|
+pres.ll_43.html#I2145|MILLARD|Phoebe /MILLARD/|1780||1831||
+pres.ll_2.html#I60|MITCHELL|? /MITCHELL/||NC|||
+pres.ll_1.html#I38|MITCHELL|Hattie R. /MITCHELL/|22 JAN 1858|AR|7 JAN 1912|Parker Twp., AR|
+pres.ll_4.html#I193|MOORE|Mary Louise /MOORE/|24 DEC 1832|Morgan County, Ohio|10 NOV 1918|Vinton County, Ohio|
+pres.ll_2.html#I68|MULCAHY|Catherine /MULCAHY/||Tipperary, IRE|||
+pres.ll_3.html#I108|MURRY|Ann Hartley /MURRY/|||||
+pres.ll_14.html#I693|Macomson|Jane /Macomson/|ABT    1688||||
+pres.ll_42.html#I2064|Madison|? (Son) /Madison/|1766||||
+pres.ll_42.html#I2066|Madison|? (stillborn Son) /Madison/|1770||1770||
+pres.ll_42.html#I2059|Madison|Ambrose /Madison/|1755||1793||
+pres.ll_42.html#I2060|Madison|Catlett /Madison/|1758||1758||
+pres.ll_42.html#I2065|Madison|Elizabeth /Madison/|1768||1775||
+pres.ll_42.html#I2068|Madison|Frances Taylor /Madison/|1774||1823||
+pres.ll_42.html#I2058|Madison|Francis /Madison/|1753||1800||
+pres.ll_42.html#I2054|Madison|James /Madison/|16 MAR 1751|Port Conway, King George Co., Virginia|28 JUN 1836|Montpelier, Orange Co., Virginia|
+pres.ll_42.html#I2056|Madison|James /Madison/|1723||1801||
+pres.ll_42.html#I2061|Madison|Nelly Conway /Madison/|1760||1802||
+pres.ll_42.html#I2067|Madison|Reuben /Madison/|1771||1775||
+pres.ll_42.html#I2063|Madison|Sarah Catlett /Madison/|1764||1843||
+pres.ll_42.html#I2062|Madison|William /Madison/|1762||1843||
+pres.ll_37.html#I1822|Magaw|Jesse /Magaw/|||||
+pres.ll_28.html#I1372|Mahieu|Hester le /Mahieu/|||||
+pres.ll_23.html#I1136|Mainwaring|Anne /Mainwaring/|||||
+pres.ll_10.html#I470|Maldred|Uchtred fitz /Maldred/|||||
+pres.ll_7.html#I313|Malmsbury|John /Malmsbury/|||||
+pres.ll_23.html#I1129|Malory|Anketil /Malory/|||||
+pres.ll_23.html#I1131|Malory|Margaret /Malory/|||||
+pres.ll_23.html#I1130|Malory|William /Malory/|||||
+pres.ll_40.html#I1963|Manning|Frederick Johnson /Manning/|1894|East Baintree, Massachusetts|15 DEC 1966|Nevis, Br West Indies|
+pres.ll_5.html#I207|Manning|Jane /Manning/|||||
+pres.ll_20.html#I954|Marbury|Anne /Marbury/|||||
+pres.ll_20.html#I953|Marbury|Francis /Marbury/|||||
+pres.ll_41.html#I2049|Marks|Hastings /Marks/|||||
+pres.ll_9.html#I416|Martiau|Elizabeth /Martiau/||York Co., VA|1685/86|Gloucester Co., VA|
+pres.ll_9.html#I425|Martiau|Nicholas /Martiau/|ABT    1591||ABT    1657|Yorktown, VA|
+pres.ll_16.html#I772|Martin|Ephraim /Martin/|1675/76||1733/34||
+pres.ll_16.html#I774|Martin|Lydia /Martin/|17 JUL 1718|Rehoboth, MA|21 DEC 1798||
+pres.ll_17.html#I802|Mason|Abigail /Mason/|||1748/49||
+pres.ll_39.html#I1901|Mason|Belle Hartford /Mason/|7 JUL 1864|Cleveland, Ohio|27 JUN 1944||
+pres.ll_39.html#I1906|Matthews|Helen Grannis /Matthews/|1902||16 OCT 1958|Cleveland, Ohio|
+pres.ll_40.html#I1954|May|David /May/|||||
+pres.ll_18.html#I866|May|Elizabeth /May/|3 DEC 1730|Wethersfield, CT|AFT    1789|Hebron, CT|
+pres.ll_18.html#I865|May|Hezekiah /May/|14 DEC 1696|Roxbury, MA|5 SEP 1783|Wethersfield, CT|
+pres.ll_18.html#I863|May|John /May/|1662/63|Roxbury, MA|ABT    1730|Roxbury, MA|
+pres.ll_26.html#I1286|May|John /May/|||||
+pres.ll_27.html#I1344|Maynard|Hannah /Maynard/|||||
+pres.ll_35.html#I1742|McAdoo|William Gibbs /McAdoo/|31 OCT 1863|Nr Marietta, Georgia|1 FEB 1941||
+pres.ll_30.html#I1451|McCardle|Eliza /McCardle/|4 OCT 1810|Greeneville, Tennessee|15 JAN 1876|Carter County, Tennessee|
+pres.ll_6.html#I266|McComas|Alexander /McComas/|||||
+pres.ll_5.html#I229|McComas|Elizabeth /McComas/|||||
+pres.ll_7.html#I312|McCulley|Elizabeth /McCulley/|||||
+pres.ll_14.html#I699|McCune|Nancy R. /McCune/||KY|||
+pres.ll_30.html#I1462|McDonough|Mary (Polly) /McDonough/|1783||1856||
+pres.ll_38.html#I1868|McElroy|John Edward /McElroy/|||||
+pres.ll_5.html#I222|McElwain|Jane /McElwain/||Lancaster Co., Pennsylvania|||
+pres.ll_6.html#I258|McElwain|Moses /McElwain/|||1760|Lancaster Co., Pennsylvania|
+pres.ll_29.html#I1430|McKee|(James) Robert /McKee/|9 DEC 1857|Madison, Indiana|21 OCT 1942|Greenwich, Connecticut|
+pres.ll_43.html#I2120|McKee|Benjamin Harrison (Baby) /McKee/|1887||||
+pres.ll_43.html#I2121|McKee|Mary Dodge /McKee/|||||
+pres.ll_39.html#I1950|McKinley|Abbie Celia /McKinley/|1845||1846||
+pres.ll_40.html#I1951|McKinley|Abner Osborn /McKinley/|1847||1904||
+pres.ll_39.html#I1945|McKinley|Annie /McKinley/|1831||1889||
+pres.ll_39.html#I1944|McKinley|David Allison /McKinley/|1829||1892||
+pres.ll_39.html#I1948|McKinley|Helen /McKinley/|1839||1924||
+pres.ll_39.html#I1941|McKinley|Ida /McKinley/|1 APR 1872/73|Canton, Ohio|22 AUG 1873|Canton, Ohio|
+pres.ll_39.html#I1946|McKinley|James Rose /McKinley/|1833||1889||
+pres.ll_39.html#I1940|McKinley|Katherine (Katie) /McKinley/|25 DEC 1871|Canton, Ohio|25 JUN 1876|Canton, Ohio|
+pres.ll_39.html#I1947|McKinley|Mary /McKinley/|1835||1868||
+pres.ll_39.html#I1949|McKinley|Sarah Elizabeth /McKinley/|1840||1931||
+pres.ll_39.html#I1938|McKinley|William /McKinley/|29 JAN 1843|Niles, Ohio|14 SEP 1901|Buffalo, New York|
+pres.ll_39.html#I1942|McKinley|William /McKinley/|1807||1892||
+pres.ll_37.html#I1805|McLean|Evelyn /McLean/|||||
+pres.ll_19.html#I913|McLelland|Catharine /McLelland/||England|||
+pres.ll_37.html#I1845|McNeil|Solomon /McNeil/|||||
+pres.ll_38.html#I1890|Medary|Mary /Medary/|||||
+pres.ll_5.html#I238|Mendenhall|Jemima /Mendenhall/|9 DEC 1757||5 DEC 1851||
+pres.ll_6.html#I287|Mendenhall|Joshua /Mendenhall/|11 NOV 1727||5 FEB 1816|East Caln, Chester County, Pennsylvania|
+pres.ll_24.html#I1167|Menteith|Agnes /Menteith/|||||
+pres.ll_29.html#I1416|Mercer|Anna /Mercer/|||||
+pres.ll_16.html#I755|Mercer|Harriet /Mercer/|ABT    1802|MD|24 OCT 1869|near Bloomington, IN|
+pres.ll_15.html#I748|Mercer|John /Mercer/|||||
+pres.ll_15.html#I746|Mercer|Robert /Mercer/|19 DEC 1696|Cecil Co., MD|AFT    1727||
+pres.ll_15.html#I747|Mercer|Robert /Mercer/|22 DEC 1737|St. Stephen's, Cecil Co., MD|||
+pres.ll_15.html#I744|Mercer|Thomas /Mercer/|||||
+pres.ll_6.html#I282|Meredith|Ann /Meredith/|||||
+pres.ll_43.html#I2138|Michelson|Mary /Michelson/|||||
+pres.ll_25.html#I1214|Miles|Elizabeth /Miles/|||||
+pres.ll_6.html#I277|Milhous|Thomas /Milhous/|14 MAR 1698/99|Carrickfergus, Antrim County, Ireland|1770|Pikeland, Chester County, Pennsylvania|
+pres.ll_5.html#I213|Milhous|William /Milhous/|1783||1874||
+pres.ll_5.html#I235|Milhous|William /Milhous/|12 JUN 1738|Chester Co., Pennsylvania|24 JAN 1826|Belmont Co., Ohio|
+pres.ll_16.html#I760|Millard|Ann /Millard/|1707/08||1750/51||
+pres.ll_28.html#I1375|Millard|Nathaniel /Millard/|||||
+pres.ll_28.html#I1373|Millard|Robert /Millard/|||1698/99|Rehoboth, Plymouth Co., Massachusetts|
+pres.ll_6.html#I259|Miller|Agnes /Miller/|||||
+pres.ll_6.html#I260|Miller|James /Miller/|||||
+pres.ll_39.html#I1927|Miller|Mary Otis /Miller/|11 APR 1856|Fremont, Ohio|3 MAR 1935|Phoenix, Arizona|
+pres.ll_6.html#I278|Miller|Sarah /Miller/|1700/01||26 AUG 1775||
+pres.ll_7.html#I304|Mingay|Ann /Mingay/|||24 JUN 1680||
+pres.ll_29.html#I1422|Minge|John /Minge/|||||
+pres.ll_35.html#I1730|Minthorn|Hulda Randall /Minthorn/|1848||1883||
+pres.ll_27.html#I1348|Mitchell|Elizabeth /Mitchell/|||||
+pres.ll_27.html#I1345|Mitchell|Experience /Mitchell/|||1688/89|Bridgewater, Plymouth Co., Massachusetts|
+pres.ll_25.html#I1208|Mohun|Elizabeth /Mohun/|||||
+pres.ll_42.html#I2082|Monroe|Andrew /Monroe/|||1836||
+pres.ll_42.html#I2073|Monroe|Eliza Kortright /Monroe/|5 DEC 1787|Fredericksburg, Spotsylvania, Virginia|27 JAN 1840|Paris, France|
+pres.ll_42.html#I2080|Monroe|Elizabeth /Monroe/|1754||||
+pres.ll_42.html#I2071|Monroe|James /Monroe/|28 APR 1758|Monroe's Creek,Westmoreland Co.,Virginia|4 JUL 1831|New York City, New York|
+pres.ll_42.html#I2074|Monroe|James Spence /Monroe/|MAY 1799||28 SEP 1800|Richmond, Virginia|
+pres.ll_42.html#I2083|Monroe|Joseph Jones /Monroe/|1764||1824||
+pres.ll_42.html#I2075|Monroe|Maria Hester /Monroe/|1803|Paris, France|1850|Oak Hill, Loudoun Co., Virginia|
+pres.ll_42.html#I2078|Monroe|Spence /Monroe/|||1774||
+pres.ll_42.html#I2081|Monroe|Spence /Monroe/|1759||||
+pres.ll_19.html#I909|Montfort|Clarissa /Montfort/|||1845||
+pres.ll_18.html#I881|Montjoy|? /Montjoy/|||||
+pres.ll_36.html#I1755|Moor|Victoria Josephine /Moor/|14 MAR 1846|Plymouth, Vermont|14 MAR 1885|Plymouth, Vermont|
+pres.ll_6.html#I294|Moore|Ann /Moore/|16 FEB 1743/44||16 SEP 1784||
+pres.ll_6.html#I268|Moore|James /Moore/||Balleymoney, County Antrim, Ireland|1777|Alglen, Chester Co., Pennsylvania|
+pres.ll_6.html#I270|Moore|James /Moore/|||BEF    1759||
+pres.ll_6.html#I272|Moore|James /Moore/|||||
+pres.ll_5.html#I230|Moore|Joseph /Moore/|15 DEC 1759|Salisbury Twp., Lancaster Co., Pennsylva|AFT    1830|Morgan Co., Ohio|
+pres.ll_5.html#I211|Moore|Joseph Dickinson /Moore/|21 OCT 1794|Centre County, Pennsylvania|1860|Indianola, Iowa|
+pres.ll_7.html#I349|Moris|Elizabeth /Moris/|||||
+pres.ll_29.html#I1447|Morris|Samuel Vance /Morris/|||||
+pres.ll_26.html#I1265|Morse|Mary /Morse/|||||
+pres.ll_26.html#I1263|Morse|Samuel /Morse/|1576||1653/54||
+pres.ll_26.html#I1259|Morse|Thomas /Morse/|||ABT    1566|Stoke-by-Nayland, Suffolk, England|
+pres.ll_26.html#I1261|Morse|Thomas /Morse/|||||
+pres.ll_13.html#I639|Mortimer|Edmund /Mortimer/|||||
+pres.ll_13.html#I638|Mortimer|Elizabeth /Mortimer/|||||
+pres.ll_43.html#I2136|Moss|James B. /Moss/|||||
+pres.ll_15.html#I739|Mounce|Ann /Mounce/|9 JAN 1701/02|Cecil Co., MD|||
+pres.ll_15.html#I737|Mounce|Christopher /Mounce/|||||
+pres.ll_12.html#I571|Mountbatten|Philip /Mountbatten/|10 JUN 1921||||
+pres.ll_7.html#I314|Mulmsbury|John /Mulmsbury/|||||
+pres.ll_23.html#I1150|Mure|Elizabeth /Mure/|||||
+pres.ll_23.html#I1115|Murray|Elizabeth /Murray/|||||
+pres.ll_4.html#I182|NIXON|Francis Anthony /NIXON/|3 DEC 1878|Elk Twp., Vinton Co., Ohio|4 SEP 1956|La Habra, California|
+pres.ll_4.html#I190|NIXON|George /NIXON/|1821|Washington Co., Pennsylvania|JUL 1863|Gettysburg, Pennsylvania|
+pres.ll_4.html#I186|NIXON|Julie /NIXON/|5 JUL 1948||||
+pres.ll_4.html#I185|NIXON|Patricia /NIXON/|21 FEB 1946||||
+pres.ll_4.html#I183|NIXON|Richard Milhous /NIXON/|13 JAN 1913|Yorba Linda, California|23 APR 1994|Yorba Linda, California|
+pres.ll_4.html#I188|NIXON|Samuel Brady /NIXON/|9 OCT 1847|Smith Twp, Washington Co., Pennsylvania|28 APR 1914|Vinton County, Ohio|
+pres.ll_34.html#I1654|Neal|Anne /Neal/|1806||1882||
+pres.ll_26.html#I1281|Nelson|Hannah /Nelson/|||||
+pres.ll_21.html#I1020|Nelson|John /Nelson/|||||
+pres.ll_21.html#I1022|Nelson|Rebecca /Nelson/|||||
+pres.ll_21.html#I1019|Nelson|Robert /Nelson/|||||
+pres.ll_26.html#I1280|Nelson|Thomas /Nelson/|||||
+pres.ll_13.html#I636|Neville|Eleanor /Neville/|||||
+pres.ll_18.html#I871|Newcomb|Daniel /Newcomb/|29 NOV 1729|Hebron, CT|AFT    1789|Hebron, CT|
+pres.ll_16.html#I786|Newcomb|Judith /Newcomb/|31 MAY 1733|Lebanon, CT|31 AUG 1808||
+pres.ll_14.html#I683|Newcomb|Lydia /Newcomb/|28 APR 1763||14 SEP 1835|Penfield, NY|
+pres.ll_18.html#I869|Newcomb|Obadiah /Newcomb/|ABT    1695|Edgartown, MA|4 MAY 1761|Hebron, CT|
+pres.ll_18.html#I867|Newcomb|Simon /Newcomb/|ABT    1665|Kittery, Maine|1743/44|Lebanon, CT|
+pres.ll_16.html#I784|Newcomb|Thomas /Newcomb/|ABT    1691|Edgartown, MA|ABT    1761|Pleasant Valley, NY|
+pres.ll_5.html#I203|Nixon|George /Nixon/|1784|Brandywine, New Castle Co., Delaware|AFT    1860||
+pres.ll_5.html#I217|Nixon|George /Nixon/|1751/52|Brandywine, New Castle Co., Delaware|5 AUG 1842|Colona Twp., Henry Co., Illinois|
+pres.ll_5.html#I250|Nixon|James /Nixon/|||||
+pres.ll_34.html#I1689|Nolan|Joseph Tilford /Nolan/|||||
+pres.ll_8.html#I369|Norwood|Susannah /Norwood/|ABT    1620||||
+pres.ll_43.html#I2127|Nugent|Patrick John /Nugent/|8 JUL 1943||||
+pres.ll_3.html#I121|O'REGAN|Thomas /O'REGAN/||Galty, Knockweaddown IR|||
+pres.ll_35.html#I1715|Oakes|Patricia Louise /Oakes/|17 MAR 1951|Mexico City, Mexico|||
+pres.ll_24.html#I1162|Ogstoun|Elizabeth /Ogstoun/|||||
+pres.ll_24.html#I1161|Ogstoun|William /Ogstoun/|||||
+pres.ll_35.html#I1705|Owens|Gladys Irene /Owens/|1917||||
+pres.ll_3.html#I104|PEYTON|Letitia /PEYTON/|||26 DEC 1821|Loudon Co, KY|
+pres.ll_43.html#I2142|POWERS|Abigail /POWERS/|1798||1853||
+pres.ll_21.html#I1046|Pagrave|Edward /Pagrave/|||||
+pres.ll_21.html#I1043|Pagrave|Henry /Pagrave/|||||
+pres.ll_21.html#I1044|Pagrave|Thomas /Pagrave/|||||
+pres.ll_23.html#I1118|Palgrave|Mary /Palgrave/|||||
+pres.ll_21.html#I1047|Palgrave|Richard /Palgrave/|||1650/51|Charlestown, Massachusetts|
+pres.ll_21.html#I1049|Palgrave|Sarah /Palgrave/|||||
+pres.ll_10.html#I456|Pargiter|Amy /Pargiter/|||1564||
+pres.ll_6.html#I262|Passmore|Rebecca /Passmore/|||||
+pres.ll_30.html#I1457|Patterson|David Trotter /Patterson/|28 FEB 1818|Cedar Creek, Tennessee|3 NOV 1891|Afton, Tennessee|
+pres.ll_14.html#I697|Patton|Martha /Patton/|||||
+pres.ll_42.html#I2055|Payne|Dorothea (Dolley) /Payne/|20 MAY 1768|Guilford Co., North Carolina|12 JUL 1849|Washington D.C.|
+pres.ll_27.html#I1321|Peak|Christian /Peak/|||||
+pres.ll_5.html#I205|Pence|Christine /Pence/|||||
+pres.ll_27.html#I1340|Penfield|Mary /Penfield/|||||
+pres.ll_21.html#I1002|Percy|Anne /Percy/|||||
+pres.ll_13.html#I633|Percy|Henry /Percy/|||||
+pres.ll_13.html#I635|Percy|Henry /Percy/|||||
+pres.ll_13.html#I637|Percy|Henry "Hotspur" /Percy/|||||
+pres.ll_13.html#I632|Percy|Margaret /Percy/|||||
+pres.ll_15.html#I711|Perdue|Elizabeth /Perdue/|||||
+pres.ll_7.html#I301|Perkins|Rebecca /Perkins/|||||
+pres.ll_35.html#I1713|Perrin|Suzanne /Perrin/|||||
+pres.ll_22.html#I1058|Perry|Deborah /Perry/|||||
+pres.ll_40.html#I1966|Phelps|Fanny /Phelps/|1823||1852||
+pres.ll_28.html#I1352|Phillips|Andrew /Phillips/|||1716/17|Charlestown, Massachusetts|
+pres.ll_17.html#I837|Phillips|Ebenezer /Phillips/|1694/95||1744/45||
+pres.ll_17.html#I839|Phillips|Joanna /Phillips/|17 MAY 1729|Stoneham, MA|10 JUN 1788|Westborough, MA|
+pres.ll_14.html#I677|Pierce|Barbara /Pierce/|8 JUN 1925|Rye, NY|||
+pres.ll_37.html#I1832|Pierce|Benjamin /Pierce/|13 APR 1841|Concord, New Hampshire|6 JAN 1853|Near Andover, Massachusetts|
+pres.ll_37.html#I1833|Pierce|Benjamin /Pierce/|1757||1839||
+pres.ll_37.html#I1837|Pierce|Benjamin Kendrick /Pierce/|1790||1850||
+pres.ll_37.html#I1841|Pierce|Charles Grandison /Pierce/|1803||1828||
+pres.ll_37.html#I1842|Pierce|Charlotte /Pierce/|||||
+pres.ll_37.html#I1835|Pierce|Elizabeth /Pierce/|1788||1855||
+pres.ll_19.html#I917|Pierce|Elizabeth Slade /Pierce/|22 MAR 1822|Providence, RI|1 MAR 1901|Columbus, OH|
+pres.ll_27.html#I1309|Pierce|Ephraim /Pierce/|||||
+pres.ll_27.html#I1310|Pierce|Ephraim /Pierce/|||||
+pres.ll_37.html#I1831|Pierce|Frank Robert /Pierce/|27 AUG 1839|Concord, New Hampshire|14 NOV 1843|Concord, New Hampshire|
+pres.ll_37.html#I1828|Pierce|Franklin /Pierce/|23 NOV 1804|Hillsboro, New Hampshire|8 OCT 1869|Concord, New Hampshire|
+pres.ll_37.html#I1830|Pierce|Franklin /Pierce/|2 FEB 1836|Hillsborough, New Hampshire|5 FEB 1836||
+pres.ll_37.html#I1840|Pierce|Harriet B. /Pierce/|1800||||
+pres.ll_37.html#I1843|Pierce|Henry Dearborn /Pierce/|1812||1880||
+pres.ll_16.html#I778|Pierce|Isaac /Pierce/|22 SEP 1763|Rehoboth, MA|26 NOV 1849|Rehoboth, MA|
+pres.ll_37.html#I1839|Pierce|John Sullivan /Pierce/|1796||1824||
+pres.ll_19.html#I916|Pierce|Levi /Pierce/|8 JUN 1797|Rehoboth, MA|1838|Rehoboth, MA|
+pres.ll_16.html#I775|Pierce|Mial /Pierce/|1691/92||1786||
+pres.ll_37.html#I1838|Pierce|Nancy /Pierce/|1792||1837||
+pres.ll_16.html#I777|Pierce|Nathan /Pierce/|21 FEB 1715/16|Swansea, MA|14 APR 1793||
+pres.ll_28.html#I1395|Pike|Clarissa /Pike/|24 FEB 1803||1 FEB 1837||
+pres.ll_38.html#I1856|Pinkerton|Charles /Pinkerton/|2 JUL 1871|West Chester, Pennsylvania|31 JAN 1974|Mount Kisco, New York|
+pres.ll_21.html#I1028|Plantagenet|Elizabeth /Plantagenet/|||||
+pres.ll_13.html#I648|Plantagenet|Joan /Plantagenet/|||||
+pres.ll_19.html#I928|Plantagenet|Joan /Plantagenet/|||||
+pres.ll_13.html#I640|Plantagenet|Philippa /Plantagenet/|||||
+pres.ll_39.html#I1928|Platt|Lucy Hayes /Platt/|14 SEP 1868|Columbus, Ohio|4 DEC 1939|Clearwater, Florida|
+pres.ll_39.html#I1937|Platt|William Augustus /Platt/|||||
+pres.ll_14.html#I666|Plumpton|Alice /Plumpton/|||||
+pres.ll_14.html#I671|Plumpton|Robert /Plumpton/|||||
+pres.ll_14.html#I667|Plumpton|William /Plumpton/|||||
+pres.ll_36.html#I1763|Polk|Franklin Ezekiel /Polk/|1802||1831||
+pres.ll_36.html#I1758|Polk|James Knox /Polk/|2 NOV 1795|Mecklenburg Co., North Carolina|15 JUN 1849|Nashville, Tennessee|
+pres.ll_36.html#I1762|Polk|Jane Maria /Polk/|1798||1876||
+pres.ll_36.html#I1764|Polk|John Lee /Polk/|1807||1831||
+pres.ll_36.html#I1771|Polk|Lydia Eliza /Polk/|1800||1864||
+pres.ll_36.html#I1767|Polk|Marshall Tate /Polk/|1805||1831||
+pres.ll_36.html#I1768|Polk|Naomi Tate /Polk/|1809||1836||
+pres.ll_36.html#I1765|Polk|Ophelia Clarissa /Polk/|1812||1851||
+pres.ll_36.html#I1760|Polk|Samuel /Polk/|1772||1827||
+pres.ll_36.html#I1766|Polk|Samuel Wilson /Polk/|1817||1839||
+pres.ll_36.html#I1769|Polk|William Hawkins /Polk/|1815||1862||
+pres.ll_35.html#I1712|Pont|Ethel du /Pont/|1915|Wilmington, Delaware|25 MAY 1965|Grosse Pointe, Michigan|
+pres.ll_9.html#I404|Pope|Anne /Pope/|||1667/68|Westmoreland Co., VA|
+pres.ll_22.html#I1054|Pope|Lemuel /Pope/|||||
+pres.ll_22.html#I1055|Pope|Mercy /Pope/|||||
+pres.ll_9.html#I411|Pope|Nathaniel /Pope/||England|1659/60|Cliffs, Westmoreland Co., VA|
+pres.ll_28.html#I1359|Pope|Sarah /Pope/|||||
+pres.ll_28.html#I1367|Pope|Thomas /Pope/|||||
+pres.ll_12.html#I558|Porteus|Mildred /Porteus/|1743/44||1815||
+pres.ll_12.html#I555|Porteus|Robert /Porteus/|ABT    1679||1758||
+pres.ll_12.html#I556|Porteus|Robert /Porteus/|ABT    1705||1754||
+pres.ll_33.html#I1635|Powell|Georgia /Powell/|||||
+pres.ll_15.html#I710|Powell|Isaac /Powell/|||||
+pres.ll_15.html#I712|Powell|John /Powell/|||||
+pres.ll_15.html#I714|Powell|Mary /Powell/|9 JUL 1763||15 JUL 1841||
+pres.ll_27.html#I1305|Powys|Jane /Powys/|||||
+pres.ll_13.html#I634|Poynings|Eleanor /Poynings/|||||
+pres.ll_11.html#I540|Poyntz|Margaret Georgiana /Poyntz/|||||
+pres.ll_17.html#I834|Prescott|Abel /Prescott/|7 APR 1718|Concrod, MA|22 OCT 1805|Concord, MA|
+pres.ll_17.html#I832|Prescott|Jonathan /Prescott/|1676/77||1728/29||
+pres.ll_17.html#I835|Prescott|Lucy /Prescott/|24 APR 1757|Concord, MA|10 OCT 1792|Concord, MA|
+pres.ll_17.html#I836|Prescott|Samuel /Prescott/|||||
+pres.ll_5.html#I241|Price|Daniel /Price/|22 OCT 1761||2 AUG 1846|Gunpowder, Maryland|
+pres.ll_5.html#I216|Price|Edith /Price/|1801||1873||
+pres.ll_6.html#I293|Price|Samuel /Price/|28 FEB 1738/39||16 APR 1825|Gunpowder Forest, Maryland|
+pres.ll_25.html#I1222|Priest|Hannah /Priest/|ABT    1751|Marlboro, MA (?)|2 MAY 1829|Plymouth, VT|
+pres.ll_33.html#I1618|Pryor|John Clayton /Pryor/|||||
+pres.ll_42.html#I2051|Pryor|Mitchie /Pryor/|||||
+pres.ll_37.html#I1846|Putthoff|Marietta O. /Putthoff/|||||
+pres.ll_3.html#I137|RAMAGE|Jim /RAMAGE/|||||
+pres.ll_3.html#I138|RAMAGE|Nancy /RAMAGE/|||||
+pres.ll_3.html#I133|REAGAN|? (Girl) /REAGAN/|26 JUN 1947|Los Angeles, LA County, CA|27 JUN 1947|Los Angeles, LA County, CA|
+pres.ll_3.html#I132|REAGAN|Cameron Michael /REAGAN/|30 MAY 1978||||
+pres.ll_2.html#I69|REAGAN|John /REAGAN/|1855|London, England|||
+pres.ll_2.html#I71|REAGAN|John Edward /REAGAN/|13 JUL 1883|Fulton, Whitesides Co IL|18 MAY 1941|Beverly Hills, LA Co, CA|
+pres.ll_3.html#I122|REAGAN|John Neil /REAGAN/|1909||||
+pres.ll_3.html#I124|REAGAN|Maureen Elizabeth /REAGAN/|1941||||
+pres.ll_2.html#I67|REAGAN|Michael /REAGAN/|1829|Ireland|||
+pres.ll_3.html#I125|REAGAN|Michael Edward /REAGAN/|1945||||
+pres.ll_3.html#I119|REAGAN|Patricia_Ann DAVIS ( /REAGAN/|22 OCT 1952||||
+pres.ll_3.html#I120|REAGAN|Ronald Prescott /REAGAN/|20 MAY 1958||||
+pres.ll_2.html#I89|REAGAN|Ronald Wilson /REAGAN/|6 FEB 1911|Main Street, Tampico, Whitesides, IL|||
+pres.ll_3.html#I143|REVELL|Dennis /REVELL/|||||
+pres.ll_3.html#I114|ROBBINS|George /ROBBINS/|OCT 1857||||
+pres.ll_3.html#I116|ROBBINS|Kenneth /ROBBINS/|NOV 1890|Pittsfield, MA|||
+pres.ll_3.html#I117|ROBBINS|Nancy_DAVIS (Anne Frances /ROBBINS/|6 JUL 1923|Manhattan, New York, NY|||
+pres.ll_1.html#I2|RODHAM|Hillary /RODHAM/|26 OCT 1947|Chicago, Cook Co., IL|||
+pres.ll_1.html#I11|RODHAM|Hugh Ellsworth /RODHAM/|||||
+pres.ll_1.html#I21|RUSSELL|Sarah Louisa /RUSSELL/|NOV 1858|Butler Co., AL|9 APR 1945|Parker Twp., Nevada Co., AR|
+pres.ll_2.html#I54|RUSSELL|Simon /RUSSELL/|ABT    1800|Darlington Dist., SC|1824||
+pres.ll_1.html#I35|RUSSELL|William James /RUSSELL/|14 JAN 1825|SC|23 JAN 1897|Parker Twp., Nevada Co., AR|
+pres.ll_4.html#I184|RYAN|Patricia Thelma /RYAN/|16 MAR 1912|Ely, Nevada|||
+pres.ll_21.html#I1010|Radcliffe|Jane /Radcliffe/|||||
+pres.ll_21.html#I1009|Radcliffe|Robert /Radcliffe/|||||
+pres.ll_19.html#I948|Raleigh|Bridget /Raleigh/|||||
+pres.ll_19.html#I944|Raleigh|Edward /Raleigh/|||||
+pres.ll_19.html#I946|Raleigh|Edward /Raleigh/|||||
+pres.ll_19.html#I943|Raleigh|William /Raleigh/|||||
+pres.ll_41.html#I2036|Randolph|Jane /Randolph/|1720||1776||
+pres.ll_29.html#I1418|Randolph|Peyton /Randolph/|||||
+pres.ll_29.html#I1417|Randolph|Susan /Randolph/|||||
+pres.ll_41.html#I2033|Randolph|Thomas Mann /Randolph/|17 MAY 1768|Tuckahoe, Goochland Co., Virginia|20 JUN 1828|Monticello,Charlottesville,Albemarle,Vir|
+pres.ll_29.html#I1401|Raney|Mary /Raney/|||9 JUN 1840||
+pres.ll_27.html#I1314|Ravens|Grace /Ravens/|ABT    1591|England|1661/62|Watertown, Massachusetts|
+pres.ll_27.html#I1312|Ravens|Richard /Ravens/|1562||1625/26||
+pres.ll_9.html#I439|Reade|Andrew /Reade/|||||
+pres.ll_9.html#I415|Reade|George /Reade/|25 OCT 1608|Linkenholt, Hampshire, England|AFT    1674|Gloucester Co., VA|
+pres.ll_9.html#I406|Reade|Mildred /Reade/|||1693/94|Warner Hall, VA|
+pres.ll_9.html#I423|Reade|Robert /Reade/|ABT    1551||ABT    1627||
+pres.ll_6.html#I296|Record|Margaret /Record/|||||
+pres.ll_8.html#I383|Remching|Elizabeth /Remching/|||||
+pres.ll_40.html#I1988|Remsberg|Elton Elsworth /Remsberg/|||||
+pres.ll_20.html#I989|Reynor|Elizabeth /Reynor/|||||
+pres.ll_27.html#I1325|Rhodes|Mary /Rhodes/|||||
+pres.ll_27.html#I1324|Rhodes|Zachariah /Rhodes/|||||
+pres.ll_28.html#I1356|Richards|Mary /Richards/|||||
+pres.ll_28.html#I1354|Richards|Thomas /Richards/|||1649/50|Weymouth, Norfolk Co., Massachusetts|
+pres.ll_36.html#I1773|Richmond|Edward /Richmond/|||||
+pres.ll_29.html#I1413|Rickman|William /Rickman/|||||
+pres.ll_42.html#I2090|Robards|Rachel Donelson /Robards/|15 JUN 1767|Pittsylvania Co., Virginia|22 DEC 1828|The Hermitage, Nr Nashville, Tennessee|
+pres.ll_43.html#I2126|Robb|Charles Spittall /Robb/|1940|Phoenix, Arizona|||
+pres.ll_23.html#I1116|Robbins|Anne Jean /Robbins/|||||
+pres.ll_23.html#I1114|Robbins|Edward Hutchinson /Robbins/|||||
+pres.ll_23.html#I1113|Robbins|Nathaniel /Robbins/|||||
+pres.ll_30.html#I1487|Robinson|Douglas /Robinson/|||||
+pres.ll_11.html#I550|Roche|Frances Ruth Burke /Roche/|1936||||
+pres.ll_27.html#I1316|Rogers|Elizabeth /Rogers/|||||
+pres.ll_27.html#I1315|Rogers|Thomas /Rogers/|||||
+pres.ll_30.html#I1468|Roosevelt|Alice Lee /Roosevelt/|12 FEB 1884|New York City, New York|20 FEB 1980|Washington D.C.|
+pres.ll_30.html#I1482|Roosevelt|Anna /Roosevelt/|1855||||
+pres.ll_34.html#I1694|Roosevelt|Anna Eleanor /Roosevelt/|3 MAY 1906||||
+pres.ll_30.html#I1474|Roosevelt|Archibald Bulloch /Roosevelt/|9 APR 1894|Washington D.C.|OCT 1979|Palm Springs, Florida|
+pres.ll_30.html#I1484|Roosevelt|Corinne /Roosevelt/|1861||1933||
+pres.ll_34.html#I1693|Roosevelt|Eleanor (Anna) /Roosevelt/|12 OCT 1884|New York City, New York|7 NOV 1962|New York City, New York|
+pres.ll_30.html#I1483|Roosevelt|Elliott /Roosevelt/|1860||1894||
+pres.ll_34.html#I1697|Roosevelt|Elliott /Roosevelt/|23 SEP 1910|New York City, New York|||
+pres.ll_30.html#I1473|Roosevelt|Ethel Carow /Roosevelt/|13 AUG 1891|Oyster Bay, Long Island, New York|3 DEC 1977|Oyster Bay, Long Island, New York|
+pres.ll_34.html#I1692|Roosevelt|Franklin Delano /Roosevelt/|30 JAN 1882|Hyde Park, Dutchess County, New York|12 APR 1945|Warm Springs, Georgia|
+pres.ll_34.html#I1696|Roosevelt|Franklin Delano /Roosevelt/|18 MAR 1909|New York City, New York|8 NOV 1909|New York City, New York|
+pres.ll_34.html#I1698|Roosevelt|Franklin Delano /Roosevelt/|17 AUG 1914|Campobello, New Brunswick, Canada|17 AUG 1988|Poughkeepsie, New York|
+pres.ll_21.html#I1001|Roosevelt|Isaac /Roosevelt/|||||
+pres.ll_34.html#I1695|Roosevelt|James /Roosevelt/|23 DEC 1907||||
+pres.ll_35.html#I1719|Roosevelt|James /Roosevelt/|1828||1900||
+pres.ll_35.html#I1721|Roosevelt|James /Roosevelt/|1854||1927||
+pres.ll_34.html#I1699|Roosevelt|John Aspinwall /Roosevelt/|13 MAR 1916|Washington D.C.|27 APR 1981|New York|
+pres.ll_30.html#I1472|Roosevelt|Kermit /Roosevelt/|10 OCT 1889|Oyster Bay, New York|4 JUN 1943|Alaska|
+pres.ll_30.html#I1475|Roosevelt|Quentin /Roosevelt/|19 NOV 1897|Washington D.C.|14 JUL 1919|Cambrai, France|
+pres.ll_30.html#I1466|Roosevelt|Theodore /Roosevelt/|27 OCT 1858|New York City, New York|6 JAN 1919|Oyster Bay, Long Island, New York|
+pres.ll_30.html#I1471|Roosevelt|Theodore /Roosevelt/|13 SEP 1887|Oyster Bay, Long Island, New York|12 JUL 1944|Normandy, France|
+pres.ll_30.html#I1480|Roosevelt|Theodore /Roosevelt/|1831||1878||
+pres.ll_16.html#I776|Round|Judith /Round/|ABT    1687||1743/44|Swansea, MA|
+pres.ll_26.html#I1293|Ruck|Abigail /Ruck/|||||
+pres.ll_17.html#I817|Ruck|Hannah /Ruck/|1701/02||ABT    1767||
+pres.ll_20.html#I963|Ruck|John /Ruck/|||||
+pres.ll_38.html#I1893|Rudolph|Lucretia /Rudolph/|19 APR 1832|Garretsville, Portage Co., Ohio|4 MAR 1918|South Pasedena, California|
+pres.ll_33.html#I1637|Ruffin|Sue /Ruffin/|5 MAY 1889|Charles City Co., Virginia|2 MAY 1953||
+pres.ll_30.html#I1460|Rumbough|Kate May (Bessie) /Rumbough/|||||
+pres.ll_11.html#I528|Russell|Caroline /Russell/|||||
+pres.ll_16.html#I798|Rust|Elizabeth /Rust/|1712/13|Coventry, CT|1740/41||
+pres.ll_2.html#I59|SLATE|Betsey /SLATE/|ABT    1798|NC|BEF    1880||
+pres.ll_3.html#I144|SMITH|Abraham /SMITH/|ABT    1647|Hempstead, Long Island, NY|ABT    1699||
+pres.ll_4.html#I163|SMITH|Abraham /SMITH/|ABT    1622||ABT    1708|Hempstead, Long Island, New York|
+pres.ll_3.html#I146|SMITH|Anthony /SMITH/|26 JUL 1723|Cape May County, NJ|1810|Morgan Twp, Greene Co, PA|
+pres.ll_4.html#I164|SMITH|Isaac /SMITH/|1656/57|Hempstead Plains, Long Island, New York|1745/46|Hempstead Plains, New York|
+pres.ll_3.html#I147|SMITH|Judith /SMITH/|9 MAY 1751||5 MAR 1836|Springfield, Columbiana Co., Ohio|
+pres.ll_3.html#I145|SMITH|Thomas /SMITH/|ABT    1672||1731/32|Cape May County, NJ|
+pres.ll_2.html#I98|SMOOT|Ann /SMOOT/|||||
+pres.ll_2.html#I52|SNELGROVE|Jesse /SNELGROVE/|25 FEB 1792|Orangeburg Dist., SC|23 JUL 1876|Longstreet, Coffee Co., AL|
+pres.ll_1.html#I34|SNELGROVE|Nancy Ann Josephine /SNELGROVE/|ABT    1837|Early Co., GA|20 APR 1920|Red Level, Covington Co., AL|
+pres.ll_1.html#I36|SPRADLEY|Mary E. /SPRADLEY/|31 OCT 1828|Kershaw Dist., SC|18 APR 1900|Parker Twp., Nevada Co., AR|
+pres.ll_2.html#I56|SPRADLEY|Warren C. /SPRADLEY/|11 APR 1803|Kershaw Dist., SC|20 JUN 1884|Crenshaw Co., AL|
+pres.ll_3.html#I131|STERNS|Colleen /STERNS/|||||
+pres.ll_28.html#I1374|Sabin|Elizabeth /Sabin/|||||
+pres.ll_7.html#I333|Salter|Hannah /Salter/|||ABT    1727||
+pres.ll_7.html#I346|Salter|Richard /Salter/|||AFT    1728||
+pres.ll_18.html#I879|Sandford|? /Sandford/|||||
+pres.ll_25.html#I1246|Sandys|Hester /Sandys/|||||
+pres.ll_38.html#I1878|Sartoris|Algernon Charles Frederick /Sartoris/|1 AUG 1851|London, England|3 FEB 1893|Capri, Italy|
+pres.ll_29.html#I1429|Saunders|Mary Angeline /Saunders/|16 NOV 1861||28 NOV 1944|Washington D.C.|
+pres.ll_39.html#I1939|Saxton|Ida /Saxton/|8 JUN 1847|Canton, Ohio|26 MAY 1907|Canton, Ohio|
+pres.ll_35.html#I1741|Sayre|Francis Bowes /Sayre/|30 APR 1885|South Bethlehem, Pennsylvania|29 MAR 1972|Washington D.C.|
+pres.ll_35.html#I1714|Schiff|Felicia /Schiff/|||||
+pres.ll_31.html#I1515|Schlossberg|Edwin Arthur /Schlossberg/|||||
+pres.ll_31.html#I1516|Schlossberg|Rose /Schlossberg/|25 JUN 1988|New York|||
+pres.ll_35.html#I1704|Schneider|Romelle Theresa /Schneider/|1916||||
+pres.ll_24.html#I1175|Schuyler|Alida /Schuyler/|||||
+pres.ll_28.html#I1379|Schuyler|Philip Pieterse /Schuyler/|1627/28||1682/83||
+pres.ll_5.html#I220|Scothorn|Eleanor /Scothorn/|1764||22 NOV 1819||
+pres.ll_6.html#I252|Scothorn|Nathan /Scothorn/|ABT    1730|Upper Darby, Pennsylvania|1764|Christiana, Delaware|
+pres.ll_10.html#I478|Scotland|Bethoc of /Scotland/|||||
+pres.ll_10.html#I480|Scotland|Duncan of /Scotland/|||1040||
+pres.ll_14.html#I669|Scotland|Isabel of /Scotland/|||||
+pres.ll_10.html#I479|Scotland|Malcolm II. of /Scotland/|||1034||
+pres.ll_23.html#I1149|Scotland|Robert II. of /Scotland/|||1390||
+pres.ll_29.html#I1423|Scott|Caroline Lavinia /Scott/|1 OCT 1832|Oxford, Ohio|25 OCT 1892|White House, Washington D.C.|
+pres.ll_40.html#I1952|Scott|Nancy Minerva /Scott/|||||
+pres.ll_33.html#I1620|Seawell|John Boswell /Seawell/|||||
+pres.ll_5.html#I218|Seeds|Sarah /Seeds/|||||
+pres.ll_33.html#I1617|Semple|James /Semple/|||||
+pres.ll_33.html#I1628|Semple|James A. /Semple/|||||
+pres.ll_11.html#I544|Seymour|Adelaide Horatia Elizabeth /Seymour/|1825||1877||
+pres.ll_31.html#I1506|Shade|Edna Alice /Shade/|||||
+pres.ll_29.html#I1446|Sheets|Elizabeth Lawrence /Sheets/|||||
+pres.ll_14.html#I689|Sheldon|Flora /Sheldon/|17 MAR 1872|Franklin Co., OH|4 SEP 1920|Watch Hill, RI|
+pres.ll_19.html#I921|Sheldon|Michael /Sheldon/|||||
+pres.ll_15.html#I742|Sheldon|Robert Emmet /Sheldon/|1 JUN 1845|Tiffin, OH|21 JAN 1917|Columbus, OH|
+pres.ll_19.html#I923|Sheldon|Thomas H. /Sheldon/|12 MAY 1818|Providence, RI|22 NOV 1854|Franklin Co., OH|
+pres.ll_19.html#I906|Shellman|John /Shellman/|ABT    1723|Germany|25 SEP 1816|Frederick Co., MD|
+pres.ll_19.html#I908|Shellman|John /Shellman/|5 MAY 1756|Frederickstown, MD|17 APR 1838|Savannah, GA|
+pres.ll_19.html#I910|Shellman|Susan /Shellman/|20 FEB 1808|Savannah, GA|12 JAN 1887||
+pres.ll_27.html#I1338|Shepard|Deborah /Shepard/|||||
+pres.ll_14.html#I658|Sherburne|Isabel /Sherburne/|||||
+pres.ll_14.html#I664|Sherburne|Margaret /Sherburne/|||||
+pres.ll_14.html#I659|Sherburne|Richard /Sherburne/|||||
+pres.ll_14.html#I665|Sherburne|Richard /Sherburne/|||||
+pres.ll_39.html#I1926|Sherman|Mary Nancy /Sherman/|15 MAY 1859|Erie County, Ohio|22 JUN 1924|Toledo, Ohio|
+pres.ll_8.html#I354|Shipley|Adam /Shipley/|||||
+pres.ll_7.html#I323|Shipley|Lucy /Shipley/|ABT    1765||1825||
+pres.ll_7.html#I330|Shipley|Robert /Shipley/|||||
+pres.ll_7.html#I342|Shipley|Robert /Shipley/|ABT    1678|Annapolis, MD|ABT    1763|Anne Arundel, MD|
+pres.ll_16.html#I757|Short|Joanna /Short/|||||
+pres.ll_28.html#I1394|Short|John Cleves /Short/|1792||1864||
+pres.ll_19.html#I903|Shriner|Catherine /Shriner/||PA|||
+pres.ll_31.html#I1537|Shriver|Anthony Paul Kennedy /Shriver/|1965||||
+pres.ll_31.html#I1534|Shriver|Maria Owings /Shriver/|1955||||
+pres.ll_31.html#I1536|Shriver|Mark Kennedy /Shriver/|1964||||
+pres.ll_31.html#I1528|Shriver|Robert Sargent /Shriver/|1915||||
+pres.ll_31.html#I1533|Shriver|Robert Sargent /Shriver/|1954||||
+pres.ll_31.html#I1535|Shriver|Timothy Perry /Shriver/|1959||||
+pres.ll_38.html#I1883|Simpson|Hannah /Simpson/|1798||1883||
+pres.ll_43.html#I2102|Singleton|Angelica /Singleton/|1816|Sumpter District, South Carolina|29 DEC 1878|New York|
+pres.ll_29.html#I1419|Singleton|Anthony /Singleton/|||||
+pres.ll_31.html#I1530|Skakel|Ethel /Skakel/|11 APR 1928|Chicago, Cook Co., Illinois|||
+pres.ll_40.html#I1997|Smith|Abigail /Smith/|22 NOV 1744|Weymouth, Massachusetts|28 OCT 1818|Quincy, Massachusetts|
+pres.ll_32.html#I1555|Smith|Amanda Mary /Smith/|1967||||
+pres.ll_18.html#I853|Smith|Daniel /Smith/|1641/42||1680/81||
+pres.ll_27.html#I1317|Smith|Daniel /Smith/|||||
+pres.ll_27.html#I1303|Smith|Elizabeth /Smith/|||||
+pres.ll_18.html#I857|Smith|Ephraim /Smith/|5 OCT 1704|Stonington, CT|24 MAR 1774|Stonington, CT|
+pres.ll_12.html#I564|Smith|Frances Dora /Smith/|1832||1922||
+pres.ll_27.html#I1336|Smith|Grace /Smith/|||||
+pres.ll_14.html#I685|Smith|Harriet /Smith/|12 MAY 1800|Cambridge, NY|21 JUN 1867|Cincinnati, OH|
+pres.ll_39.html#I1929|Smith|Harry Eaton /Smith/|28 DEC 1869|Fremont, Ohio|1931||
+pres.ll_12.html#I552|Smith|John /Smith/|||||
+pres.ll_18.html#I855|Smith|John /Smith/|13 JUL 1672|Watertown, MA|8 MAY 1739|Stonington, CT|
+pres.ll_40.html#I1974|Smith|Julia Walbridge /Smith/|||||
+pres.ll_32.html#I1556|Smith|Kym Maria /Smith/|1972||||
+pres.ll_25.html#I1228|Smith|Margaret /Smith/|||||
+pres.ll_36.html#I1780|Smith|Margaret Mackall /Smith/|21 SEP 1788|Calvert Co., Maryland|14 AUG 1852|East Pascagoula, Mississippi|
+pres.ll_17.html#I838|Smith|Mary /Smith/|1696/97||AFT    1745||
+pres.ll_12.html#I554|Smith|Mildred /Smith/|||||
+pres.ll_12.html#I563|Smith|Oswald /Smith/|1794||1863||
+pres.ll_26.html#I1252|Smith|Philip /Smith/|||||
+pres.ll_18.html#I861|Smith|Rebecca /Smith/|ABT    1668||1749/50||
+pres.ll_21.html#I1026|Smith|Rebecca /Smith/|||||
+pres.ll_32.html#I1577|Smith|Rosalynn /Smith/|||||
+pres.ll_27.html#I1302|Smith|Samuel /Smith/|||1679/80|South Hadley, MA|
+pres.ll_18.html#I858|Smith|Sanford /Smith/|27 FEB 1760|Stonington, CT|15 JUN 1815|Scipio, NY|
+pres.ll_28.html#I1353|Smith|Sarah /Smith/|||||
+pres.ll_41.html#I2003|Smith|Sarah /Smith/|6 NOV 1769||8 AUG 1828||
+pres.ll_32.html#I1553|Smith|Stephen /Smith/|1957||||
+pres.ll_31.html#I1531|Smith|Stephen Edward /Smith/|1927||||
+pres.ll_41.html#I2006|Smith|Thomas /Smith/|||1690||
+pres.ll_41.html#I2005|Smith|William /Smith/|1667||1730||
+pres.ll_21.html#I1025|Smith|William Henry /Smith/|||||
+pres.ll_32.html#I1554|Smith|William Kennedy /Smith/|1960||||
+pres.ll_41.html#I2002|Smith|William Stephens /Smith/|8 NOV 1755|Long Island, New York|10 JUN 1816|Lebanon, New York|
+pres.ll_31.html#I1507|Snider|Kathryn /Snider/|||||
+pres.ll_20.html#I977|Southworth|Christopher /Southworth/|||||
+pres.ll_20.html#I986|Southworth|Edward /Southworth/|||||
+pres.ll_20.html#I990|Southworth|Elizabeth /Southworth/|||||
+pres.ll_20.html#I978|Southworth|John /Southworth/|||||
+pres.ll_20.html#I982|Southworth|John /Southworth/|||||
+pres.ll_20.html#I980|Southworth|Thomas /Southworth/|||||
+pres.ll_20.html#I984|Southworth|Thomas /Southworth/|||||
+pres.ll_20.html#I988|Southworth|Thomas /Southworth/|||||
+pres.ll_32.html#I1587|Spann|Walter /Spann/|||||
+pres.ll_37.html#I1810|Speer|Elizabeth /Speer/|1767||1833||
+pres.ll_11.html#I547|Spencer|Albert_Edward John VII. /Spencer/|1892||1975||
+pres.ll_11.html#I521|Spencer|Charles /Spencer/|ABT    1674||1721/22||
+pres.ll_11.html#I523|Spencer|Charles /Spencer/|1705/06||1758||
+pres.ll_11.html#I545|Spencer|Charles Robert /Spencer/|1857||1922||
+pres.ll_12.html#I551|Spencer|Diana Frances /Spencer/|1 JUL 1961||||
+pres.ll_25.html#I1241|Spencer|Dorothy /Spencer/|||||
+pres.ll_11.html#I549|Spencer|Edward John VIII. /Spencer/|24 JAN 1924||29 MAR 1992||
+pres.ll_11.html#I543|Spencer|Frederick /Spencer/|1798||1857||
+pres.ll_11.html#I527|Spencer|George /Spencer/|1738/39||1817||
+pres.ll_11.html#I529|Spencer|George /Spencer/|1766||1840||
+pres.ll_11.html#I541|Spencer|George John /Spencer/|1758||1834||
+pres.ll_11.html#I517|Spencer|Henry /Spencer/|1619/20||1642/43||
+pres.ll_25.html#I1203|Spencer|Jane /Spencer/|||||
+pres.ll_11.html#I510|Spencer|John /Spencer/|||1585/86||
+pres.ll_11.html#I511|Spencer|John /Spencer/|||1598/99||
+pres.ll_11.html#I539|Spencer|John /Spencer/|1733/34||1783||
+pres.ll_24.html#I1200|Spencer|John /Spencer/|||||
+pres.ll_25.html#I1201|Spencer|John /Spencer/|||||
+pres.ll_25.html#I1237|Spencer|John /Spencer/|||||
+pres.ll_11.html#I524|Spencer|John of Althorp /Spencer/|1707/08||1745/46||
+pres.ll_25.html#I1231|Spencer|Julian /Spencer/|||||
+pres.ll_11.html#I513|Spencer|Robert /Spencer/|||1626/27||
+pres.ll_11.html#I519|Spencer|Robert /Spencer/|1639/40||1701/02||
+pres.ll_25.html#I1243|Spencer|Susan /Spencer/|||||
+pres.ll_25.html#I1227|Spencer|Thomas /Spencer/|||||
+pres.ll_25.html#I1242|Spencer|Thomas /Spencer/|||||
+pres.ll_11.html#I515|Spencer|William /Spencer/|1591/92||1635/36||
+pres.ll_25.html#I1229|Spencer|William /Spencer/|||||
+pres.ll_25.html#I1235|Spencer|William /Spencer/|||||
+pres.ll_25.html#I1239|Spencer|William /Spencer/|||||
+pres.ll_33.html#I1634|Spencer|William H. /Spencer/|||||
+pres.ll_11.html#I531|Spencer-Churchill|George /Spencer-Churchill/|1793||1857||
+pres.ll_11.html#I533|Spencer-Churchill|John Winston /Spencer-Churchill/|1822||1883||
+pres.ll_32.html#I1589|Spires|Sybil /Spires/|||||
+pres.ll_26.html#I1258|Squire|Grizzell /Squire/|||||
+pres.ll_27.html#I1332|St. John|Mark /St. John/|||||
+pres.ll_27.html#I1333|St. John|Sarah /St. John/|||||
+pres.ll_15.html#I721|Stackhouse|Amos /Stackhouse/|4 MAY 1757||5 APR 1825||
+pres.ll_15.html#I722|Stackhouse|Esther /Stackhouse/|17 OCT 1787|Philadelphia, PA|27 SEP 1819|Philadelphia, PA|
+pres.ll_15.html#I720|Stackhouse|James /Stackhouse/|11 NOV 1725|Bucks Co., PA|16 AUG 1759|Philadelphia, PA|
+pres.ll_15.html#I718|Stackhouse|Robert /Stackhouse/|1691/92||||
+pres.ll_24.html#I1180|Standish|Alexander /Standish/|||||
+pres.ll_24.html#I1182|Standish|Grace /Standish/|||||
+pres.ll_24.html#I1181|Standish|Oliver /Standish/|||||
+pres.ll_14.html#I662|Stanley|Agnes /Stanley/|||||
+pres.ll_27.html#I1331|Stanley|Elizabeth /Stanley/|||||
+pres.ll_27.html#I1327|Stanley|John /Stanley/|||||
+pres.ll_21.html#I1008|Stanley|Margaret /Stanley/|||||
+pres.ll_21.html#I1007|Stanley|Thomas /Stanley/|||||
+pres.ll_27.html#I1329|Stanley|Timothy /Stanley/|ABT    1599|England|1647/16|Hartford, CT|
+pres.ll_32.html#I1588|Stapleton|Robert /Stapleton/|||||
+pres.ll_8.html#I356|Stevens|Charles /Stevens/|ABT    1645||ABT    1703|Anne Arundel Co., MD|
+pres.ll_8.html#I368|Stevens|Charles /Stevens/|ABT    1615||ABT    1658|Anne Arundel Co., MD|
+pres.ll_7.html#I343|Stevens|Elizabeth /Stevens/|||||
+pres.ll_17.html#I849|Stevens|Henry /Stevens/|||ABT    1726|Stonington, CT|
+pres.ll_18.html#I851|Stevens|Henry /Stevens/|20 NOV 1681|Stonington, CT|AFT    1749||
+pres.ll_18.html#I852|Stevens|Lucy /Stevens/|ABT    1717|Stonington, CT|4 MAY 1806|Pottstown, CT|
+pres.ll_35.html#I1716|Stevenson|Lynda /Stevenson/|||||
+pres.ll_11.html#I532|Stewart|Jane /Stewart/|||||
+pres.ll_24.html#I1153|Stewart|Maria /Stewart/|||||
+pres.ll_24.html#I1151|Stewart|Robert /Stewart/|||||
+pres.ll_11.html#I530|Stewart|Susan /Stewart/|||||
+pres.ll_18.html#I862|Stillman|Anna /Stillman/|6 APR 1699|Hadley, MA|7 NOV 1767|Wethersfield, CT|
+pres.ll_18.html#I860|Stillman|George /Stillman/|ABT    1654||1727/28||
+pres.ll_38.html#I1858|Stone|Malvina /Stone/|1802||1869||
+pres.ll_15.html#I719|Stone|Margaret /Stone/|||||
+pres.ll_30.html#I1458|Stover|Daniel /Stover/|14 NOV 1826|Carter County, Tennessee|18 DEC 1864|Nashville, Tennessee|
+pres.ll_30.html#I1494|Stover|Ida Elizabeth /Stover/|1862||1946||
+pres.ll_34.html#I1690|Strang|Henrietta /Strang/|||||
+pres.ll_19.html#I936|Strange|Ankaret le /Strange/|||||
+pres.ll_19.html#I935|Strange|John le /Strange/|||||
+pres.ll_27.html#I1307|Stream|Elizabeth /Stream/|||||
+pres.ll_6.html#I274|Strode|Elizabeth /Strode/|||||
+pres.ll_36.html#I1793|Strother|Sarah Dabney /Strother/|1760||1822||
+pres.ll_43.html#I2137|Summers|Albertine /Summers/|||||
+pres.ll_17.html#I821|Sumner|Hannah /Sumner/|||||
+pres.ll_29.html#I1403|Sutherland|Mary Anne /Sutherland/|1814||1893||
+pres.ll_12.html#I575|Sutton|Edmund /Sutton/|||||
+pres.ll_20.html#I976|Sutton|Isabel /Sutton/|||||
+pres.ll_13.html#I645|Sutton|John /Sutton/|||||
+pres.ll_12.html#I574|Sutton|Margaret /Sutton/|||||
+pres.ll_20.html#I975|Sutton|Thomas /Sutton/|||||
+pres.ll_23.html#I1121|Sweetman|Elizabeth /Sweetman/|||||
+pres.ll_11.html#I518|Sydney|Dorothy /Sydney/|||||
+pres.ll_28.html#I1383|Symmes|Anna Tuthill /Symmes/|25 JUL 1775|Flatbrook, Sussex Co., New Jersey|25 FEB 1864|North Bend, Ohio|
+pres.ll_4.html#I191|TRIMMER|Margaret Ann /TRIMMER/|1826|Smith Twp., Washington Co., Pennsylvania|18 MAR 1865|Vinton County, Ohio|
+pres.ll_40.html#I1965|Taft|Alphonso /Taft/|1810||1891||
+pres.ll_40.html#I1961|Taft|Charles Phelps /Taft/|20 SEP 1897|Cincinnati, Ohio|||
+pres.ll_40.html#I1967|Taft|Charles Phelps /Taft/|1843||1923||
+pres.ll_40.html#I1973|Taft|Frances Louise /Taft/|1865||||
+pres.ll_40.html#I1960|Taft|Helen Herron /Taft/|1 AUG 1891|Cincinnati, Ohio|||
+pres.ll_40.html#I1971|Taft|Henry Waters /Taft/|1859||||
+pres.ll_40.html#I1972|Taft|Horace Dutton /Taft/|1861||1943||
+pres.ll_40.html#I1968|Taft|Peter Rawson /Taft/|1845||1889||
+pres.ll_40.html#I1959|Taft|Robert Alphonso /Taft/|8 SEP 1889|Cincinnati, Ohio|31 JUL 1953|New York City, New York|
+pres.ll_40.html#I1970|Taft|Samuel Davenport /Taft/|1855||1855||
+pres.ll_40.html#I1957|Taft|William Howard /Taft/|15 SEP 1857|Cincinnati, Ohio|8 MAR 1930|Washington D.C.|
+pres.ll_21.html#I1021|Tailer|Elizabeth /Tailer/|||||
+pres.ll_19.html#I938|Talbot|Mary /Talbot/|||||
+pres.ll_19.html#I937|Talbot|Richard /Talbot/|||||
+pres.ll_9.html#I444|Talboys|Anne /Talboys/|||||
+pres.ll_13.html#I629|Talboys|George /Talboys/|||||
+pres.ll_22.html#I1083|Talboys|Henry /Talboys/|||||
+pres.ll_22.html#I1095|Talboys|Joan /Talboys/|||||
+pres.ll_22.html#I1086|Talboys|John /Talboys/|||||
+pres.ll_22.html#I1088|Talboys|John /Talboys/|||||
+pres.ll_22.html#I1090|Talboys|Margaret /Talboys/|||||
+pres.ll_22.html#I1084|Talboys|Walter /Talboys/|||||
+pres.ll_43.html#I2123|Taylor|(Lady_Bird) Claudia Alta /Taylor/|22 DEC 1912|Karnack, Texas|||
+pres.ll_36.html#I1781|Taylor|Ann Margaret Mackall /Taylor/|9 APR 1811|Jefferson Co., Kentucky|2 DEC 1875|Freiburg, Germany|
+pres.ll_36.html#I1798|Taylor|Elizabeth Lee /Taylor/|1792||1845||
+pres.ll_37.html#I1801|Taylor|Emily Richard /Taylor/|1801||||
+pres.ll_36.html#I1797|Taylor|George /Taylor/|1790||||
+pres.ll_36.html#I1794|Taylor|Hancock /Taylor/|1781||1841||
+pres.ll_37.html#I1804|Taylor|John Gibson /Taylor/|||||
+pres.ll_36.html#I1799|Taylor|Joseph Pannill /Taylor/|1796||1864||
+pres.ll_36.html#I1784|Taylor|Margaret Smith /Taylor/|27 JUL 1819|Jefferson Co., Kentucky|22 OCT 1820|Bayou Sara, Louisiana|
+pres.ll_36.html#I1785|Taylor|Mary Elizabeth /Taylor/|20 APR 1824|Jefferson Co., Kentucky|25 JUL 1909|Winchester, Virginia|
+pres.ll_36.html#I1783|Taylor|Octavia Pannill /Taylor/|16 AUG 1816|Jefferson Co., Kentucky|8 JUL 1820|Bayou Sara, Louisiana|
+pres.ll_36.html#I1786|Taylor|Richard /Taylor/|27 JAN 1826|Nr Louisville, Kentucky|12 APR 1879|New York|
+pres.ll_36.html#I1792|Taylor|Richard /Taylor/|1744||1829||
+pres.ll_36.html#I1796|Taylor|Richard Strother /Taylor/|||||
+pres.ll_36.html#I1800|Taylor|Sarah Bailey /Taylor/|1799||||
+pres.ll_36.html#I1782|Taylor|Sarah Knox /Taylor/|6 MAR 1814|Vincennes, Indiana|15 SEP 1835|Locust Grove, Louisiana|
+pres.ll_36.html#I1795|Taylor|William Dabney Strother /Taylor/|1782||||
+pres.ll_29.html#I1404|Taylor|William Henry Harrison /Taylor/|1813||1894||
+pres.ll_36.html#I1779|Taylor|Zachary /Taylor/|24 NOV 1784|Montebello, Orange Co., Virginia|9 JUL 1850|White House, Washington D.C.|
+pres.ll_21.html#I1017|Temple|John /Temple/|||||
+pres.ll_25.html#I1244|Temple|John /Temple/|||||
+pres.ll_21.html#I1018|Temple|Mary /Temple/|||||
+pres.ll_25.html#I1245|Temple|Thomas /Temple/|||||
+pres.ll_10.html#I477|Thane|Crinan the /Thane/|||1045||
+pres.ll_23.html#I1103|Thimbleby|Anne /Thimbleby/|||||
+pres.ll_23.html#I1102|Thimbleby|Richard /Thimbleby/|||||
+pres.ll_34.html#I1664|Thomas|Anita Marie /Thomas/|||||
+pres.ll_17.html#I814|Thomas|Margaret /Thomas/|1707/08||1765||
+pres.ll_6.html#I253|Thomas|Mary /Thomas/|||||
+pres.ll_26.html#I1291|Thomas|Nathaniel /Thomas/|||||
+pres.ll_26.html#I1292|Thomas|William /Thomas/|||||
+pres.ll_30.html#I1492|Thompson|Barbara Jean /Thompson/|15 JUN 1926|Fort Knox, Kentucky|||
+pres.ll_31.html#I1504|Thompson|Bernice /Thompson/|||||
+pres.ll_25.html#I1224|Thompson|Sarah /Thompson/|3 APR 1789|Chester, VT|19 NOV 1856|Plymouth, VT|
+pres.ll_40.html#I1975|Thompson|Winifred S. /Thompson/|||||
+pres.ll_9.html#I434|Thornton|Anne /Thornton/|||||
+pres.ll_25.html#I1234|Thornton|Henry /Thornton/|||||
+pres.ll_29.html#I1402|Thornton|John Henry Fitzhugh /Thornton/|8 JUN 1798||6 DEC 1871||
+pres.ll_26.html#I1274|Tilley|Elizabeth /Tilley/|||||
+pres.ll_12.html#I577|Tiptoft|John /Tiptoft/|||1443||
+pres.ll_12.html#I576|Tiptoft|Joyce /Tiptoft/|||||
+pres.ll_28.html#I1377|Tjercks|Pieter /Tjercks/||The Netherlands|||
+pres.ll_42.html#I2069|Todd|? /Todd/|||||
+pres.ll_42.html#I2070|Todd|? /Todd/|||||
+pres.ll_8.html#I389|Todd|Mary Ann /Todd/|13 DEC 1818|Lexington, KY|16 JUL 1882|Springfield, IL|
+pres.ll_40.html#I1969|Torrey|Louisa Maria /Torrey/|1827||1907||
+pres.ll_20.html#I974|Touchet|Anne /Touchet/|||||
+pres.ll_20.html#I973|Touchet|James /Touchet/|||||
+pres.ll_10.html#I498|Towneley|Alice /Towneley/|||||
+pres.ll_14.html#I655|Towneley|Henry /Towneley/|||||
+pres.ll_14.html#I657|Towneley|John /Towneley/|||||
+pres.ll_9.html#I421|Towneley|Lawrence /Towneley/|||12 FEB 1654/55|Colne, Lancashire, England|
+pres.ll_9.html#I435|Towneley|Lawrence /Towneley/||Barnside, Lancashire, England|JAN 1597/98|Stone Edge, Lancashire, England|
+pres.ll_10.html#I497|Towneley|Lawrence /Towneley/|||||
+pres.ll_14.html#I653|Towneley|Lawrence /Towneley/|||||
+pres.ll_14.html#I656|Towneley|Lawrence /Towneley/|||||
+pres.ll_9.html#I414|Towneley|Mary /Towneley/|13 MAY 1614|Stone Edge, Lancashire, England|11 AUG 1662|Warner Hall, VA|
+pres.ll_11.html#I526|Trevor|Elizabeth /Trevor/|||||
+pres.ll_5.html#I206|Trimmer|Anthony /Trimmer/|1781|Fermanagh, Juanita Co., Pennsylvania|1841|Smith Twp., Washington Co., Pennsylvania|
+pres.ll_6.html#I255|Trimmer|Anthony /Trimmer/|ABT    1724||NOV 1754|Roxbury, Morris County, New Jersey|
+pres.ll_5.html#I221|Trimmer|Paul /Trimmer/|ABT    1750|Morris County, New Jersey|1825|Smith Twp., Washington Co., Pennsylvania|
+pres.ll_39.html#I1913|Trowbridge|Stephen D. /Trowbridge/|||||
+pres.ll_34.html#I1681|Truman|? (Stillborn) /Truman/|28 OCT 1882||28 OCT 1882||
+pres.ll_34.html#I1682|Truman|Anderson Shipp /Truman/|16 FEB 1816||3 JUL 1887||
+pres.ll_34.html#I1686|Truman|Emily Ricks /Truman/|25 JUL 1855||11 FEB 1929||
+pres.ll_34.html#I1668|Truman|Harry S. /Truman/|8 MAY 1884|Lamar, Missouri|26 DEC 1972|Kansas City, Missouri|
+pres.ll_34.html#I1672|Truman|John Anderson /Truman/|1851||1914||
+pres.ll_34.html#I1670|Truman|Margaret (Mary) /Truman/|17 FEB 1924|Independence, Missouri|||
+pres.ll_34.html#I1685|Truman|Margaret Ellen (Ella) /Truman/|6 MAY 1849||1 OCT 1948||
+pres.ll_34.html#I1675|Truman|Mary Jane /Truman/|12 AUG 1869||8 NOV 1978||
+pres.ll_34.html#I1687|Truman|Mary Martha /Truman/|7 JAN 1860||10 APR 1900||
+pres.ll_34.html#I1674|Truman|Vivian (John) /Truman/|25 APR 1886||8 JUL 1965||
+pres.ll_34.html#I1684|Truman|William Thomas /Truman/|24 APR 1847||6 APR 1930||
+pres.ll_36.html#I1753|Trumbull|Florence /Trumbull/|30 NOV 1904|Plainville, Connecticut|||
+pres.ll_33.html#I1636|Tucker|Annie Baker /Tucker/|8 APR 1855|Charlottesville, Virginia|2 NOV 1921|Richmond, Virginia|
+pres.ll_12.html#I561|Tucker|Mary /Tucker/|||||
+pres.ll_37.html#I1848|Tuttle|Susan /Tuttle/|||||
+pres.ll_9.html#I410|Twigden|Amphyllis /Twigden/|||||
+pres.ll_9.html#I419|Twigden|John /Twigden/|||ABT    1611|Little Creaton, Northamptonshire, Englan|
+pres.ll_9.html#I431|Twigden|Thomas /Twigden/|||ABT    1580|Little Creaton, Northamptonshire, Englan|
+pres.ll_6.html#I254|Twiggs|Hannah /Twiggs/|||||
+pres.ll_12.html#I580|Tybotot|John /Tybotot/|||1367||
+pres.ll_12.html#I579|Tybotot|Payn /Tybotot/|||AFT    1413||
+pres.ll_12.html#I581|Tybotot|Payn /Tybotot/|||1314||
+pres.ll_32.html#I1598|Tyler|Alice /Tyler/|23 MAR 1827||8 JUN 1854||
+pres.ll_32.html#I1597|Tyler|Ann Contesse /Tyler/|5 APR 1825||||
+pres.ll_33.html#I1610|Tyler|Anne Contesse /Tyler/|1778||1803||
+pres.ll_33.html#I1616|Tyler|Christiana Booth /Tyler/|1795||1842||
+pres.ll_32.html#I1596|Tyler|Elizabeth (Lizzie) /Tyler/|11 JUL 1823||1 JUN 1850||
+pres.ll_33.html#I1611|Tyler|Elizabeth Armistead /Tyler/|1780||1824||
+pres.ll_33.html#I1601|Tyler|Gardiner (David) /Tyler/|12 JUL 1846|East Hampton, New York|1 SEP 1927|Sherwood Forest,Charles City Co.,Virgini|
+pres.ll_32.html#I1590|Tyler|John /Tyler/|29 MAR 1790|Greenway, Charles City Co., Virginia|17 JAN 1862|Richmond, Virginia|
+pres.ll_32.html#I1594|Tyler|John /Tyler/|27 APR 1819||1896||
+pres.ll_33.html#I1608|Tyler|John /Tyler/|1747||1813||
+pres.ll_33.html#I1602|Tyler|John Alexander /Tyler/|7 APR 1848|Sherwood Forest, Virginia|1 SEP 1883||
+pres.ll_33.html#I1603|Tyler|Julia Gardiner /Tyler/|25 DEC 1849|Sherwood Forest, Virginia|8 MAY 1871||
+pres.ll_33.html#I1604|Tyler|Lachlan /Tyler/|2 DEC 1851|Sherwood Forest, Virginia|1902||
+pres.ll_32.html#I1595|Tyler|Letitia /Tyler/|11 MAY 1821||28 DEC 1907|Baltimore, Maryland|
+pres.ll_33.html#I1605|Tyler|Lyon Gardiner /Tyler/|24 AUG 1852|Sherwood Forest, Virginia|12 FEB 1935||
+pres.ll_33.html#I1613|Tyler|Maria Henry /Tyler/|1784||1843||
+pres.ll_33.html#I1612|Tyler|Martha Jefferson /Tyler/|1782||1855||
+pres.ll_32.html#I1592|Tyler|Mary /Tyler/|15 APR 1815|Charles City Co., Virginia|17 JUN 1848|New Kent Co., Virginia|
+pres.ll_33.html#I1607|Tyler|Pearl /Tyler/|13 JUN 1860|Sherwood Forest, Virginia|1947||
+pres.ll_32.html#I1593|Tyler|Robert /Tyler/|9 SEP 1816|Charles City Co., Virginia|3 DEC 1877|Montgomery, Alabama|
+pres.ll_33.html#I1606|Tyler|Robert FitzWalter /Tyler/|12 MAR 1856|Sherwood Forest, Virginia|1927||
+pres.ll_32.html#I1599|Tyler|Tazewell /Tyler/|6 DEC 1830||8 JAN 1874|California|
+pres.ll_33.html#I1614|Tyler|Wat Henry /Tyler/|1788||1862||
+pres.ll_33.html#I1615|Tyler|William /Tyler/|1791||1856||
+pres.ll_10.html#I471|Uchtred|Dolfin fitz /Uchtred/|||||
+pres.ll_19.html#I918|Uncles|James /Uncles/|5 AUG 1794|Bradford, England|25 JAN 1835|Columbus, OH|
+pres.ll_19.html#I920|Uncles|Martha /Uncles/|7 JAN 1824|Columbus, OH|9 JUL 1912|Columbus, OH|
+pres.ll_43.html#I2115|Van Alen|Jacobus /Van Alen/|1773||1822||
+pres.ll_43.html#I2112|Van Alen|Johannes /Van Alen/|1744||1773||
+pres.ll_43.html#I2114|Van Alen|Johannes /Van Alen/|1770||1805||
+pres.ll_43.html#I2113|Van Alen|Marytje /Van Alen/|1768||1829||
+pres.ll_42.html#I2100|Van Buren|? (unnamed Son) /Van Buren/|1814||1814||
+pres.ll_42.html#I2097|Van Buren|Abraham /Van Buren/|27 NOV 1807|Kinderhook, New York|15 MAR 1873|New York|
+pres.ll_43.html#I2106|Van Buren|Abraham /Van Buren/|1737||1817||
+pres.ll_43.html#I2111|Van Buren|Abraham /Van Buren/|1788||1836||
+pres.ll_43.html#I2108|Van Buren|Derike /Van Buren/|1777||1865||
+pres.ll_43.html#I2109|Van Buren|Hannah /Van Buren/|1780||||
+pres.ll_42.html#I2098|Van Buren|John /Van Buren/|10 FEB 1810|Columbia Co., New York|13 OCT 1866||
+pres.ll_43.html#I2110|Van Buren|Lawrence /Van Buren/|1786||1868||
+pres.ll_42.html#I2095|Van Buren|Martin /Van Buren/|5 DEC 1782|Kinderhook, Columbia Co., New York|24 JUL 1862|Lindenwald, Kinderhook, Columbia Co., NY|
+pres.ll_42.html#I2099|Van Buren|Martin /Van Buren/|20 DEC 1812|Hudson|19 MAR 1855|Paris, France|
+pres.ll_43.html#I2101|Van Buren|Smith Thompson /Van Buren/|16 JAN 1817|Hudson|1876||
+pres.ll_16.html#I782|Van Kleeck|Sarah /Van Kleeck/|||||
+pres.ll_16.html#I781|Vanderburgh|Henry /Vanderburgh/|1716/17|Poughkeepsie, NY|AFT    1787||
+pres.ll_16.html#I783|Vanderburgh|Susanna /Vanderburgh/|||||
+pres.ll_43.html#I2103|Vanderpoel|Elizabeth /Vanderpoel/|22 MAY 1810||19 NOV 1844||
+pres.ll_11.html#I534|Vane|Frances Anne Emily /Vane/|||||
+pres.ll_19.html#I945|Verney|Margaret /Verney/|||||
+pres.ll_12.html#I560|Very|Robert Hodgson /Very/|1773||1844||
+pres.ll_5.html#I214|Vickers|Martha /Vickers/|1786||1873||
+pres.ll_5.html#I237|Vickers|Thomas /Vickers/|8 MAR 1757|Plumstead, Bucks County, Pennsylvania|25 SEP 1829|E. Caln, Chester Co., Pennsylvania|
+pres.ll_6.html#I283|Vickers|Thomas /Vickers/|1719/20|Plumstead, Bucks County, Pennsylvania|30 DEC 1793|East Caln, Chester Co., Pennsylvania|
+pres.ll_43.html#I2117|Vosburgh|Harriet /Vosburgh/|||||
+pres.ll_40.html#I1991|Votaw|Heber Herbert /Votaw/|||||
+pres.ll_4.html#I189|WADSWORTH|Sarah Ann /WADSWORTH/|15 OCT 1852|Hocking Co., Ohio|18 JAN 1886|Vinton County, Ohio|
+pres.ll_4.html#I192|WADSWORTH|Thomas Wiley /WADSWORTH/|10 FEB 1826|Hartford Co., Maryland|11 SEP 1879|Hocking County, Ohio|
+pres.ll_2.html#I100|WHEELER|Mary /WHEELER/|||||
+pres.ll_3.html#I110|WHITLOCK|Benjamin /WHITLOCK/|||||
+pres.ll_3.html#I112|WHITLOCK|Sarah Frances /WHITLOCK/|1849|Russeville, Franklin Co, AL|||
+pres.ll_4.html#I167|WIDOW|Sarah Brown /WIDOW/|||||
+pres.ll_4.html#I176|WILLETS|Hope /WILLETS/|1651/52|Hempstead, Long Island, New York|1702/03||
+pres.ll_4.html#I153|WILLETS|Lydia /WILLETS/|16 JAN 1725/26||||
+pres.ll_4.html#I174|WILLETS|Timothy /WILLETS/|25 DEC 1688||||
+pres.ll_2.html#I74|WILSON|Andrew /WILSON/|||||
+pres.ll_2.html#I63|WILSON|Clarinda /WILSON/|ABT    1821|AR|AFT    1884||
+pres.ll_2.html#I76|WILSON|John /WILSON/|9 FEB 1812|Renfrow, Scotlnd|6 FEB 1879|Whitesides C, IL|
+pres.ll_2.html#I88|WILSON|Nelle "Clyde" /WILSON/|24 JUL 1883|Clyde Twp, Whitesides C, IL|24 JUL 1962|Beverly Hills, LA Co, CA|
+pres.ll_2.html#I86|WILSON|Thomas /WILSON/|28 APR 1844|Whitesides C, IL|12 DEC 1909|Whitesides C, IL|
+pres.ll_5.html#I209|Wadsworth|Robert /Wadsworth/|5 NOV 1785|Maryland|18 OCT 1867|Washington Twp., Hocking Co., Ohio|
+pres.ll_5.html#I225|Wadsworth|Thomas /Wadsworth/|19 MAR 1746/47|Maryland|||
+pres.ll_6.html#I261|Wadsworth|Thomas /Wadsworth/|||||
+pres.ll_33.html#I1619|Waggaman|Thomas Ennalls /Waggaman/|||||
+pres.ll_13.html#I650|Wake|Margaret /Wake/|||||
+pres.ll_19.html#I915|Walker|David Davis /Walker/|19 JAN 1840|Bloomington, IL|4 OCT 1918|Kennebunkport, York Co., ME|
+pres.ll_14.html#I691|Walker|Dorothy /Walker/|1 JUL 1901|near Walker's Pt, York Co., Maine|||
+pres.ll_33.html#I1621|Walker|Elizabeth Warren /Walker/|||||
+pres.ll_19.html#I914|Walker|George E. /Walker/|ABT    1797|Burlington, NJ|28 OCT 1864|Bloomington, IL|
+pres.ll_15.html#I740|Walker|George Herbert /Walker/|11 JUN 1875|St. Louis, MO|24 JUN 1953|New York, NY|
+pres.ll_36.html#I1770|Walker|James /Walker/|||||
+pres.ll_29.html#I1431|Walker|James Blaine /Walker/|20 JAN 1889|Helena, Montana|AFT    APR 1921|New York City, New York|
+pres.ll_33.html#I1623|Walker|Susan Harrison /Walker/|||||
+pres.ll_19.html#I912|Walker|Thomas /Walker/||England|ABT    1799||
+pres.ll_34.html#I1669|Wallace|Elizabeth (Bess) Virginia /Wallace/|13 FEB 1885|Independence, Missouri|20 OCT 1982|Independence, Missouri|
+pres.ll_33.html#I1629|Waller|William Nevison /Waller/|||||
+pres.ll_17.html#I825|Wallingford|Judith /Wallingford/|1698/99|Bradford, MA|||
+pres.ll_9.html#I405|Warner|Augustine /Warner/|3 JUN 1642|York Co., VA|19 JUN 1681|Warner Hall, VA|
+pres.ll_9.html#I413|Warner|Augustine /Warner/|28 SEP 1611|Norfolk, England|24 DEC 1674|Warner Hall, VA|
+pres.ll_12.html#I553|Warner|Mary /Warner/|||||
+pres.ll_8.html#I400|Warner|Mildred /Warner/|1670/71|Warner Hall, Gloucester Co., Virginia|26 MAR 1701|Whitehaven, Cumberland, England|
+pres.ll_10.html#I496|Warner|Sarah /Warner/|||||
+pres.ll_27.html#I1349|Washburn|John /Washburn/|||||
+pres.ll_27.html#I1350|Washburn|Mary /Washburn/|||||
+pres.ll_8.html#I397|Washington|Augustine /Washington/|1693/94|Wakefield, Westmoreland Co., Virginia|12 APR 1743|Ferry Farm, King George Co., Virginia|
+pres.ll_10.html#I489|Washington|Augustine /Washington/|1719/20||||
+pres.ll_10.html#I481|Washington|Betty /Washington/|1732/33||1797||
+pres.ll_10.html#I487|Washington|Butler /Washington/|1715/16||BEF    1729||
+pres.ll_10.html#I484|Washington|Charles /Washington/|1737/38||1799||
+pres.ll_8.html#I395|Washington|George /Washington/|11 FEB 1732|Pope's Creek, Westmoreland Co., Virginia|14 DEC 1799|Mount Vernon, Fairfax Co., Virginia|
+pres.ll_10.html#I490|Washington|Jane /Washington/|1721/22||1734/35||
+pres.ll_9.html#I403|Washington|John /Washington/|1633/34|Purleigh, Essex, England|1676/77|Washington Paris, Westmoreland Co., VA|
+pres.ll_9.html#I446|Washington|John /Washington/|ABT    1478||BEF    1528||
+pres.ll_10.html#I483|Washington|John Augustine /Washington/|1735/36||1787||
+pres.ll_8.html#I399|Washington|Lawrence /Washington/|SEP 1659|Westmoreland Co., Virginia|FEB 1697/98|Warner Hall, Gloucester Co., Virginia|
+pres.ll_9.html#I409|Washington|Lawrence /Washington/|1601/02|Sulgrave Manor, Northamptonshire, Englan|JAN 1652/53||
+pres.ll_9.html#I417|Washington|Lawrence /Washington/|ABT    1568|Sulgrave Manor, Northamptonshire, Englan|13 DEC 1616|Brington, Northamptonshire, England|
+pres.ll_9.html#I445|Washington|Lawrence /Washington/|ABT    1500||1583/84||
+pres.ll_10.html#I488|Washington|Lawrence /Washington/|1717/18||1751/52||
+pres.ll_10.html#I485|Washington|Mildred /Washington/|1738/39||1739/40||
+pres.ll_9.html#I427|Washington|Robert /Washington/|ABT    1544|Sulgrave, Northamptonshire, England|ABT    1620|Nether Boddingto, Northamptonshire, Engl|
+pres.ll_9.html#I448|Washington|Robert /Washington/|ABT    1455||1528||
+pres.ll_9.html#I450|Washington|Robert /Washington/|||1483||
+pres.ll_10.html#I482|Washington|Samuel /Washington/|1733/34||1781||
+pres.ll_35.html#I1727|Watson|Margaret Eva /Watson/|28 MAR 1905|San Francisco, California|||
+pres.ll_9.html#I432|Watts|? /Watts/|||||
+pres.ll_41.html#I2026|Wayles|Martha /Wayles/|30 OCT 1748|Charles City Co., Virginia|6 SEP 1782|Monticello,Charlottesville,Albemarle,VA|
+pres.ll_18.html#I900|Wear|James Hutchenson /Wear/|30 SEP 1838|Otterville, MO|14 JUN 1893|St. Louis, MO|
+pres.ll_15.html#I741|Wear|Lucretia (Loulie) /Wear/|17 SEP 1874|St. Louis, MO|28 AUG 1961|Biddeford, Maine|
+pres.ll_18.html#I899|Wear|William Gault /Wear/|11 DEC 1817|Blount Co., TN|2 NOV 1837|Cooper Co., MO|
+pres.ll_40.html#I1990|Weaver|Elsie /Weaver/|||||
+pres.ll_39.html#I1917|Webb|Lucy Ware /Webb/|28 AUG 1831|Chillicothe, Ohio|25 JUN 1889|Fremont, Ohio|
+pres.ll_6.html#I265|Webster|Elizabeth /Webster/|||||
+pres.ll_27.html#I1319|Weeks|Renew /Weeks/|||||
+pres.ll_18.html#I897|Weir|James Hutchenson /Weir/|30 SEP 1789||APR    1832|MO|
+pres.ll_18.html#I895|Weir|Jonathan /Weir/|ABT    1750|Blount Co., TN|ABT    1832||
+pres.ll_23.html#I1120|Wellington|Benjamin /Wellington/|||||
+pres.ll_23.html#I1122|Wellington|Elizabeth /Wellington/|||||
+pres.ll_23.html#I1119|Wellington|Roger /Wellington/|||||
+pres.ll_16.html#I768|West|Elizabeth /West/|1693/94||||
+pres.ll_9.html#I449|Westfield|Elizabeth /Westfield/|||||
+pres.ll_40.html#I1964|Wheaton-Bowers|Martha Wheaton /Wheaton-Bowers/|17 DEC 1891|Winona, Minnesota|2 OCT 1958|Cincinnati, Ohio|
+pres.ll_16.html#I771|Wheeler|Betsey S. /Wheeler/|30 MAY 1800||23 FEB 1881|Columbus, OH|
+pres.ll_26.html#I1255|Wheeler|Henry /Wheeler/|||||
+pres.ll_16.html#I767|Wheeler|James /Wheeler/|1696/97||1753||
+pres.ll_26.html#I1257|Wheeler|James /Wheeler/|||||
+pres.ll_16.html#I770|Wheeler|Jarvis /Wheeler/|22 SEP 1774|Rehoboth, MA|3 MAR 1852|Rehoboth, MA|
+pres.ll_16.html#I769|Wheeler|Jeremiah /Wheeler/|23 MAR 1730/31|Rehoboth, MA|26 FEB 1811|Rehoboth, MA|
+pres.ll_26.html#I1253|Wheeler|John /Wheeler/|1590/91||ABT    1668||
+pres.ll_23.html#I1148|Wheeler|Rebecca /Wheeler/|||||
+pres.ll_18.html#I859|Whipple|Priscilla /Whipple/|ABT    1763|Cambridge, NY|26 AUG 1838|Pottstown, PA|
+pres.ll_41.html#I2011|White|Ann /White/|1685||1772||
+pres.ll_43.html#I2135|White|Willard /White/|||||
+pres.ll_35.html#I1711|Whithead|Patricia /Whithead/|||||
+pres.ll_17.html#I801|Whiting|Ephraim /Whiting/|1698/99|Wrentham, MA|1788|Cumberland, RI|
+pres.ll_26.html#I1270|Whiting|Samuel /Whiting/|||||
+pres.ll_17.html#I803|Whiting|Susanna /Whiting/|14 SEP 1734|Wrentham, MA|||
+pres.ll_8.html#I376|Whitman|John /Whitman/|ABT    1603||1691/92|Weymouth, MA|
+pres.ll_8.html#I361|Whitman|Sarah /Whitman/|||11 JUN 1718|Hull, MA|
+pres.ll_15.html#I724|Whitney|Elizabeth /Whitney/|ABT    1684||ABT    1763||
+pres.ll_5.html#I226|Wiley|Mary /Wiley/|||||
+pres.ll_6.html#I263|Wiley|Mathew /Wiley/|16 NOV 1730||||
+pres.ll_30.html#I1477|Willard|Belle Wyatt /Willard/|1 JUL 1892|Baltimore, Maryland|30 MAR 1968|Manhattan, New York|
+pres.ll_36.html#I1778|Williams|Lucy Eugenia /Williams/|||||
+pres.ll_39.html#I1905|Williams|Sarah Granger /Williams/|10 JAN 1873|Cleveland, Ohio|3 FEB 1945|Cleveland, Ohio|
+pres.ll_11.html#I514|Willoughby|Margaret /Willoughby/|||||
+pres.ll_25.html#I1233|Wilmer|Anne /Wilmer/|||||
+pres.ll_25.html#I1232|Wilmer|William /Wilmer/|||||
+pres.ll_35.html#I1746|Wilson|Annie Josephson /Wilson/|1853||1916||
+pres.ll_35.html#I1739|Wilson|Eleanor Randolph /Wilson/|5 OCT 1889|Middletown, Connecticut|5 APR 1967|Montecito, California|
+pres.ll_5.html#I204|Wilson|Hannah /Wilson/|ABT    1790|Delaware|ABT    1827||
+pres.ll_35.html#I1738|Wilson|Jessie Woodrow /Wilson/|28 AUG 1887|Gainesville, Georgia|15 JAN 1933|Cambridge, Massachusetts|
+pres.ll_35.html#I1743|Wilson|Joseph Ruggles /Wilson/|1822||1903||
+pres.ll_35.html#I1747|Wilson|Joseph Ruggles /Wilson/|1867||||
+pres.ll_36.html#I1774|Wilson|Laura Teresa /Wilson/|||||
+pres.ll_35.html#I1737|Wilson|Margaret Woodrow /Wilson/|16 APR 1886|Gainesville, Georgia|12 FEB 1944|Pondicherry, India|
+pres.ll_35.html#I1745|Wilson|Marion Williamson /Wilson/|1851||||
+pres.ll_5.html#I219|Wilson|William /Wilson/|1764|Delaware|12 NOV 1837|Washington, Pennsylvania|
+pres.ll_35.html#I1735|Wilson|Woodrow (Thomas) /Wilson/|28 DEC 1856|Staunton, Virginia|3 FEB 1924|Washington D.C.|
+pres.ll_9.html#I424|Windebank|Mildred /Windebank/|ABT    1584||AFT    1630||
+pres.ll_9.html#I441|Windebank|Thomas /Windebank/|||24 OCT 1607|Scrivelsby, Lincolnshire, England|
+pres.ll_12.html#I572|Windsor|Charles /Windsor/|14 NOV 1948||||
+pres.ll_12.html#I570|Windsor|Elizabeth II. /Windsor/|21 APR 1926||||
+pres.ll_12.html#I569|Windsor|George VI. /Windsor/|1895||1952||
+pres.ll_21.html#I1038|Wingfield|Elizabeth /Wingfield/|||||
+pres.ll_21.html#I1037|Wingfield|Robert /Wingfield/|||||
+pres.ll_35.html#I1706|Winskill|Mary Mary Lena /Winskill/|5 JUN 1939|Birkenhead, Cheshire, England|||
+pres.ll_18.html#I886|Wood|? /Wood/|||||
+pres.ll_28.html#I1370|Wood|David /Wood/|||||
+pres.ll_28.html#I1369|Wood|Henry /Wood/|||||
+pres.ll_16.html#I756|Wood|Jabez /Wood/|1718/19|MA|||
+pres.ll_26.html#I1282|Wood|Jabez /Wood/|||||
+pres.ll_19.html#I925|Wood|Jesse /Wood/|||AFT    1824|Albermarle Co., VA|
+pres.ll_16.html#I758|Wood|Joanna /Wood/|29 AUG 1750||29 APR 1813||
+pres.ll_7.html#I307|Wood|Mary /Wood/|||||
+pres.ll_18.html#I885|Wood|Mildred /Wood/|||||
+pres.ll_36.html#I1787|Wood|Robert Crooke /Wood/|23 SEP 1801|Rhode Island|28 MAR 1869||
+pres.ll_15.html#I708|Wood|Sally /Wood/|||||
+pres.ll_18.html#I887|Wood|Sally /Wood/|||||
+pres.ll_18.html#I883|Wood|William /Wood/|||BEF    1824|Albemarle Co., VA|
+pres.ll_35.html#I1744|Woodrow|Janet (Jessie) /Woodrow/|1826||1888||
+pres.ll_13.html#I649|Woodstock|Edmund of /Woodstock/|||||
+pres.ll_16.html#I785|Woodworth|Judith /Woodworth/|ABT    1701|Little Compton, RI||Lebanan, NH|
+pres.ll_38.html#I1877|Workman|Mrs. America Will /Workman/|1881|Santa Barbara, California|29 OCT 1942|San Diego, California|
+pres.ll_11.html#I516|Wriothesley|Penelope /Wriothesley/|||||
+pres.ll_18.html#I891|Yancey|David /Yancey/|||||
+pres.ll_18.html#I894|Yancey|Elizabeth /Yancey/|||||
+pres.ll_18.html#I890|Yancey|Jechonias /Yancey/|||||
+pres.ll_18.html#I888|Yancey|Jeremiah /Yancey/|ABT    1748||ABT    1788||
+pres.ll_18.html#I892|Yancey|Sarah Armanda /Yancey/|ABT    1819|Glasgow, KY||MO|
+pres.ll_37.html#I1824|Yates|Charles M. /Yates/|||||
+pres.ll_26.html#I1254|Yeomans|Agnes /Yeomans/|||||
+pres.ll_34.html#I1667|Yeomans|Lucien Theron /Yeomans/|||||
+pres.ll_34.html#I1673|Young|Martha Ellen /Young/|1852||1947||
+pres.ll_1.html#I6|____|? /____/|||||
+pres.ll_1.html#I30|____|? /____/||USA|||
+pres.ll_1.html#I32|____|? /____/||Ireland|||
+pres.ll_11.html#I525|____|? /____/|||||
+pres.ll_7.html#I339|____|Abigail /____/||||Sussex Co., DE|
+pres.ll_18.html#I870|____|Abigail /____/|ABT    1693||9 MAY 1757|Hebron, CT|
+pres.ll_26.html#I1260|____|Agnes /____/|||||
+pres.ll_22.html#I1070|____|Alan /____/|||||
+pres.ll_31.html#I1501|____|Alida B. /____/|||||
+pres.ll_8.html#I375|____|Ann /____/|||AFT    1657||
+pres.ll_8.html#I379|____|Ann /____/|||||
+pres.ll_21.html#I1048|____|Anna /____/|||||
+pres.ll_3.html#I115|____|Anne /____/|||||
+pres.ll_3.html#I130|____|Bess /____/|||||
+pres.ll_14.html#I668|____|Christiana /____/|||||
+pres.ll_18.html#I868|____|Deborah /____/|ABT    1664||1756||
+pres.ll_3.html#I140|____|Doria /____/|||||
+pres.ll_10.html#I472|____|Ealdgyth /____/|||||
+pres.ll_3.html#I111|____|Elizabeth /____/|||||
+pres.ll_5.html#I201|____|Elizabeth /____/|||||
+pres.ll_6.html#I256|____|Elizabeth /____/|1722/23||1781||
+pres.ll_6.html#I297|____|Elizabeth /____/|||||
+pres.ll_7.html#I341|____|Elizabeth /____/|ABT    1694||||
+pres.ll_8.html#I357|____|Elizabeth /____/|||||
+pres.ll_8.html#I367|____|Elizabeth /____/|||||
+pres.ll_9.html#I438|____|Elizabeth /____/|||||
+pres.ll_15.html#I745|____|Elizabeth /____/|||||
+pres.ll_22.html#I1064|____|Elizabeth /____/|||||
+pres.ll_24.html#I1185|____|Elizabeth /____/|||||
+pres.ll_27.html#I1330|____|Elizabeth /____/|||||
+pres.ll_10.html#I473|____|Gospatrick /____/|||||
+pres.ll_1.html#I42|____|Jane /____/|ABT    1808|TN|||
+pres.ll_9.html#I426|____|Jane /____/|||||
+pres.ll_26.html#I1284|____|Joanna /____/|||||
+pres.ll_4.html#I175|____|Judith /____/|||||
+pres.ll_8.html#I355|____|Lois /____/|||||
+pres.ll_23.html#I1146|____|Lucian /____/|||||
+pres.ll_31.html#I1505|____|Lucille /____/|||||
+pres.ll_9.html#I412|____|Lucy /____/|||1659/60||
+pres.ll_6.html#I288|____|Lydia /____/|||||
+pres.ll_10.html#I453|____|Maldred /____/|||||
+pres.ll_10.html#I468|____|Maldred /____/|||||
+pres.ll_7.html#I337|____|Margaret /____/|||AFT    1735||
+pres.ll_10.html#I451|____|Margaret /____/|||||
+pres.ll_18.html#I889|____|Margaret /____/|||||
+pres.ll_22.html#I1085|____|Margaret /____/|||||
+pres.ll_24.html#I1158|____|Margaret /____/|||||
+pres.ll_26.html#I1272|____|Margaret /____/|||||
+pres.ll_5.html#I224|____|Margaret (??) /____/|||||
+pres.ll_17.html#I811|____|Margareth /____/|||||
+pres.ll_3.html#I150|____|Margery /____/|||||
+pres.ll_22.html#I1100|____|Margery /____/|||||
+pres.ll_2.html#I61|____|Martha /____/|ABT    1830|NC|||
+pres.ll_15.html#I738|____|Martha /____/|||||
+pres.ll_17.html#I830|____|Martha /____/|||1733/34||
+pres.ll_18.html#I884|____|Martha /____/|||AFT    1807||
+pres.ll_1.html#I48|____|Martha (Or Mattie) /____/|ABT    1797|NC|||
+pres.ll_33.html#I1627|____|Martha Rochelle /____/|23 JAN 1820||11 JAN 1867||
+pres.ll_1.html#I44|____|Mary /____/|3 JUL 1802|KY|24 NOV 1862|Marshall Co., MS|
+pres.ll_5.html#I249|____|Mary /____/|||||
+pres.ll_6.html#I251|____|Mary /____/|||||
+pres.ll_6.html#I286|____|Mary /____/|||||
+pres.ll_16.html#I795|____|Mary /____/|||||
+pres.ll_18.html#I896|____|Mary /____/|ABT    1758||ABT    1848|Dade Co., MO|
+pres.ll_19.html#I922|____|Mary /____/|||||
+pres.ll_27.html#I1342|____|Mary /____/|||||
+pres.ll_1.html#I46|____|Mary (Or Polly) /____/|ABT    1808|SC|||
+pres.ll_2.html#I55|____|Nancy /____/|||AFT    1840|Montgomery Co., AL|
+pres.ll_7.html#I329|____|Nanny /____/|ABT    1728||||
+pres.ll_3.html#I127|____|Patricia /____/|||||
+pres.ll_2.html#I51|____|Rachel /____/|ABT    1807|SC|AFT    1850||
+pres.ll_22.html#I1068|____|Roland /____/|||||
+pres.ll_8.html#I377|____|Ruth /____/|||||
+pres.ll_2.html#I73|____|Sarah /____/|1830|Clarkson, Monroe Co, NY|1870|Whitesides C, NY|
+pres.ll_7.html#I331|____|Sarah /____/|||||
+pres.ll_8.html#I353|____|Sarah /____/|||||
+pres.ll_8.html#I373|____|Sarah /____/|||||
+pres.ll_15.html#I726|____|Sarah /____/|||||
+pres.ll_41.html#I2015|____|Sarah /____/|ABT    1618||1704||
+pres.ll_18.html#I856|____|Susanna /____/|ABT    1669||28 SEP 1746|Stonington, CT|
+pres.ll_10.html#I474|____|Uchtred /____/|||||
+pres.ll_14.html#I675|____|William I. /____/|||1214||
+pres.ll_12.html#I585|d'Aubigny|Isabel /d'Aubigny/|||1301||
+pres.ll_12.html#I588|d'Aubigny|William /d'Aubigny/|||1247||
+pres.ll_12.html#I589|d'Aubigny|William /d'Aubigny/|||1236||
+pres.ll_12.html#I596|de Audley|Hugh /de Audley/|||1347||
+pres.ll_21.html#I1032|de Bohun|Elizabeth /de Bohun/|||||
+pres.ll_21.html#I1029|de Bohun|Humphry /de Bohun/|||||
+pres.ll_21.html#I1030|de Bohun|William /de Bohun/|||||
+pres.ll_28.html#I1361|de Boogh|Catalina /de Boogh/|||||
+pres.ll_22.html#I1082|de Boroughdon|Eleanor /de Boroughdon/|||||
+pres.ll_22.html#I1081|de Boroughdon|Gilbert /de Boroughdon/|||||
+pres.ll_13.html#I642|de Burgh|Elizabeth /de Burgh/|||||
+pres.ll_19.html#I930|de Clare|Eleanor /de Clare/|||||
+pres.ll_12.html#I598|de Clare|Gilbert /de Clare/|||1295||
+pres.ll_13.html#I601|de Clare|Gilbert /de Clare/|||1230||
+pres.ll_19.html#I929|de Clare|Gilbert /de Clare/|||||
+pres.ll_12.html#I597|de Clare|Margaret /de Clare/|||1342||
+pres.ll_23.html#I1124|de Clare|Margaret /de Clare/|||||
+pres.ll_12.html#I599|de Clare|Richard /de Clare/|||1262||
+pres.ll_13.html#I602|de Clare|Richard /de Clare/|||1217||
+pres.ll_10.html#I455|de Croft|Joan /de Croft/|||||
+pres.ll_23.html#I1128|de Driby|Alice /de Driby/|||||
+pres.ll_23.html#I1127|de Driby|John /de Driby/|||||
+pres.ll_23.html#I1126|de Gaveston|Amy /de Gaveston/|||||
+pres.ll_23.html#I1125|de Gaveston|Piers /de Gaveston/|||||
+pres.ll_10.html#I467|de Hertburn|William /de Hertburn/|ABT    1180||||
+pres.ll_22.html#I1079|de Kyme|Lucy /de Kyme/|||||
+pres.ll_22.html#I1071|de Lacey|? /de Lacey/|||||
+pres.ll_13.html#I603|de Lacy|John /de Lacy/|||1240||
+pres.ll_12.html#I600|de Lacy|Maud /de Lacy/|||1288||
+pres.ll_10.html#I466|de Lexington|Alice /de Lexington/|||||
+pres.ll_22.html#I1069|de Morville|Eleana /de Morville/|||||
+pres.ll_10.html#I462|de Morville|Margaret /de Morville/|||||
+pres.ll_22.html#I1074|de Quincy|Elizabeth /de Quincy/|||||
+pres.ll_13.html#I614|de Quincy|Hawise /de Quincy/|||||
+pres.ll_22.html#I1073|de Quincy|Roger /de Quincy/|||||
+pres.ll_13.html#I615|de Quincy|Saher /de Quincy/|||1221||
+pres.ll_12.html#I582|de Ros|Agnes /de Ros/|||1328||
+pres.ll_14.html#I672|de Ros|Lucy /de Ros/|||||
+pres.ll_20.html#I972|de Ros|Margaret /de Ros/|||||
+pres.ll_12.html#I584|de Ros|Robert /de Ros/|||1285||
+pres.ll_12.html#I587|de Ros|Robert /de Ros/|||1226||
+pres.ll_12.html#I583|de Ros|William /de Ros/|||1316||
+pres.ll_12.html#I586|de Ros|William /de Ros/|||ABT    1264||
+pres.ll_14.html#I673|de Ros|William /de Ros/|||||
+pres.ll_20.html#I971|de Ros|William /de Ros/|||||
+pres.ll_12.html#I593|de Stafford|Joan /de Stafford/|||||
+pres.ll_12.html#I594|de Stafford|Ralph /de Stafford/|||1372||
+pres.ll_10.html#I460|de Strickland|Joan /de Strickland/|||||
+pres.ll_22.html#I1080|de Umfreville|Elizabeth /de Umfreville/|||||
+pres.ll_22.html#I1077|de Umfreville|Gilbert /de Umfreville/|||||
+pres.ll_22.html#I1078|de Umfreville|Robert /de Umfreville/|||||
+pres.ll_13.html#I613|de Vere|Hugh /de Vere/|||1263||
+pres.ll_13.html#I611|de Vere|Joan /de Vere/|||1293||
+pres.ll_13.html#I612|de Vere|Robert /de Vere/|||1296||
+pres.ll_13.html#I609|de Warrenne|Alice /de Warrenne/|||||
+pres.ll_13.html#I610|de Warrenne|William /de Warrenne/|||1286||
+pres.ll_10.html#I452|de Washington|John /de Washington/|ABT    1385||1423||
+pres.ll_10.html#I454|de Washington|John /de Washington/|||1408||
+pres.ll_10.html#I457|de Washington|Robert /de Washington/|||1348||
+pres.ll_10.html#I459|de Washington|Robert /de Washington/|||1324||
+pres.ll_10.html#I463|de Washington|Walter /de Washington/|ABT    1212||1264||
+pres.ll_10.html#I461|de Washington|William /de Washington/|||1290||
+pres.ll_10.html#I465|de Washington|William /de Washington/|||ABT    1239||
+pres.ll_10.html#I464|de Whitchester|Joan /de Whitchester/|||||
+pres.ll_28.html#I1378|van Schuylder|Geertruyt Philips /van Schuylder/|||||
+pres.ll_28.html#I1380|van Slichtenhors|Margareta /van Slichtenhors/|||||
