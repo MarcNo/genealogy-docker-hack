@@ -29,5 +29,9 @@
 * This docker image includes the genealogy of the US Presidents (circa
   2000) downloaded from http://webtreeprint.com/tp_famous_gedcoms.php (pres.ged)
 
+* NEW: Use rpi-Dockerfile for a slight variant that runs on a
+  Raspberry Pi.
+
+
 ------------------------------------------------------------------------
 Marc Nozell (marc@nozell.com) 
